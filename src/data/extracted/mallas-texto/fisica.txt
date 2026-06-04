@@ -1,0 +1,63 @@
+
+
+--- Página 1 ---
+Plan de Estudios Programa Académico de Física
+I II III IV V VI VII VIII IX X
+Mecánica de Fluidos y Termodinámica y Física Moderna y Introducción a la Mecánica Mecánica Cuántica Teoría General de la
+Física I y Laboratorio Física II y Laboratorio Física III y Laboratorio Mecánica Estadística
+Laboratorio Laboratorio Laboratorio Cuántica Avanzada Relatividad
+25102 25106 25111 25117 25121 25128 25134 25140 25145 25150
+3 4 2 3 3 4 2 3 3 4 2 3 2 2 2 2 2 2 2 2 3 4 2 3 2 2 2 2 3 4 2 3 3 4 2 3 2 2 2 2
+Óptica General y Teoría Electromagnética I y Teoría Electromagnética II y Estado Sólido y Disp. Nanotecnología y Nuevos
+Física Atómica y Nuclear Ciencias de los Materiales
+Laboratorio Laboratorio
+Laboratorio Semiconductores Materiales
+25116 25122 25130 25135 25141 25146 25151
+3 4 2 3 2 2 2 2 3 4 2 3 2 2 2 2 3 4 2 3 3 4 2 3 3 4 2 3
+Métodos Matemáticos de la
+Matemáticas I Matemáticas II Matemáticas III Ecuaciones Diferenciales I Ecuaciones Diferenciales II
+Física
+25103 25107 25112 4719 25123 25129
+3 4 2 3 2 2 2 2 3 4 2 3 3 4 2 3 2 2 2 2 2 2 2 2
+Teoría de las
+Química General Álgebra Lineal y Geometría Variable Compleja
+Probabilidades
+25104 25108 24321 25124
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Elementos
+Lenguajes y Algoritmos Métodos Numéricos Física Computacional I Física Computacional II
+Computacionales
+25109 25113 2518 25132 25136
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Instrumentación Instrumentación Electrónica Electrónica Digital y
+Fundamentos de Metrología Automatización y Control
+Electrónica I II Laboratorio
+25114 25119 25125 25133 25138
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Introducción a la Taller de Máquinas y
+Astronomía y Laboratorio
+Astrofísica Herramientas
+25126 25131 25137
+2 2 2 2 2 2 2 2 2 2 2 2
+Redacción y Escritura de Redacción y Escritura de
+Línea de Aplicación I Línea de Aplicación II Línea de Aplicación III Línea de Aplicación IV
+Textos Científicos I Textos Científicos II
+25105 25110 25139 25144 25147 25152
+2 2 2 2 2 2 2 2 4 4 4 4 5 4 6 5 4 2 6 4 5 4 6 5
+Segunda Lengua I Segunda Lengua II Segunda Lengua III Seminario de Investigación Trabajo de Grado I Trabajo de Grado II
+25143 25149 25154
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 4 0 1 11 4 0 1 11
+Cátedra Francisco José de Cátedra Democracia y Historia y Filosofía de la Epistemología de la Física Epistemología de la Física Gestión Tecnológica y
+Modelos y Gestión I Modelos y Gestión II
+Caldas Ciudadanía Ciencia I II Compromiso Social
+4 12 25115 25120 25127 25142 25148 25153
+1 2 0 1 1 2 0 1 1 2 0 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+C TD TC TA C TD TC TA C TD TC TA C TD TC TA C TD TC TA C TD TC TA C TD TC TA C TD TC TA C TD TC TA C TD TC TA
+13 16 10 13 14 16 12 14 15 18 12 15 14 16 12 14 14 14 14 14 14 16 12 14 14 14 14 14 15 16 14 15 16 12 13 23 16 12 13 23
+C TD TC TA
+TOTAL CRÉDITOS 145 CIENCIAS BÁSICAS DE LA FÍSICA 59 70 48 59
+TOTAL HORAS TRABAJO DIRECTO (TD) 150 CIENCIAS BÁSICAS DE LA PROFESIÓN 35 38 32 35
+TOTAL HORAS TRABAJO COOPERATIVO (TC) ÁREA TRANSVERSAL SOCIO-HUMANÍSTICA
+126 23 26 20 23
+TOTAL HORAS TRABAJO AUTÓNOMO (TA) 159 LINEAS DE APLICACIÓN 28 16 26 42
+145 150 126 159

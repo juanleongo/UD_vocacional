@@ -1,0 +1,83 @@
+
+
+--- Página 1 ---
+PLAN DE ESTUDIOS - PROYECTO CURRICULAR LICENCIATURA EN FÍSICA
+CICLO FUNDAMENTACIÓN PROFUNDIZACIÓN
+SEMESTRE 1 2 3 4 5 6 7 8 9 10
+Introducción a Mecánica Mecánica Mecánica Electricidad Física Prin. de Electro- Física
+D
+la Física Clásica I Clásica II de Fluidos y Magnetismo Termodinámica Moderna dinámica Clásica Estadítica
+I
+24301 24305 24310 4718 24316 24320 24324 24327 24333
+S
+2 4 3 3 4 2 3 3 4 2 3 3 4 2 3 3 4 2 3 3 4 2 3 3 4 4 4 4 4 2 3 3 4 2 3 3
+C
+I
+Matemáticas Cálculo Cálculo Ecuaciones Vibraciones Mecánica Mecánica Mecánica
+P
+Básicas Diferencial Integral Diferencial y Ondas Óptica Teórica Cuántica I Cuántica II
+L
+24302 24306 7 4719 4725 24329 24325 24328 24334
+I
+4 2 3 3 4 2 3 3 4 2 3 3 4 2 3 3 4 2 3 3 4 2 3 3 4 2 3 3 4 2 3 3 4 2 3 3
+N
+A
+Álgebra Cálculo Métodos Matemá- Epistemología Epistemología Trabajo Trabajo
+R
+Lineal Vectorial ticos de la Física Instrumentación Física I Física II de grado I de grado II
+4706 24319 24317 4734 4728 4749 24335 24338
+2 2 2 2 4 2 3 3 4 2 3 3 0 4 2 2 2 2 2 2 2 2 2 2 0 0 6 2 0 0 6 2
+50,00%
+O
+Didáctica de la Didáctica de la Didáctica de la Teoría de Invest. Enseñanza Métodos de Invest.
+B Introducción a la
+Didática Física I Física II Filosofía Física III Probabilidades de la Física Enseñanza Física
+L
+24303 4715 24321
+24307 24311 24318 24326 24336
+I 4 2 3 3 4 2 3 3 4 2 3 3 2 2 2 2 4 2 3 3 2 2 2 2 4 2 3 3 4 2 3 3
+G
+TIC en la Enseñanza TIC en la Enseñanza Comunicación Algoritmos y Programación Práctica Práctica Práctica
+Didáctica
+A
+de la Física I de la Física II Oral y Escrita Programación C/C++ O. O. en C++ Docente I Docente II Docente III
+24304 24308 24312 24314 24322 4748 4756 24339
+T
+13,125%
+90,00% 2 2 2 2 1 1 1 1 2 2 2 2 2 4 3 3 2 4 3 3 2 6 4 4 2 4 6 4 0 12 12 8
+O
+R Cátedra Francisco Contextos Contextos PEI y Resolución Diversidad Cultural Cátedra de Contexto
+José de Caldas Educativos I Educativos II de Conflictos NEEs y Didac. De la Fís. Historia de la Edu.
+I
+4 24309 24313 24315 4235 24323 4206
+A
+2 0 1 1 2 2 5 3 2 2 5 3 2 2 2 2 2 2 2 2 2 2 5 3 2 0 1 1
+S Pedagogía
+Idioma Cátedra Democracia Idioma Idioma
+18,75%
+Extranjero I y Ciudadanía Extranjero II Extranjero III Electiva G-1 Electiva G-2
+9901 12 9902 9903 24331 24340
+2 2 2 2 2 0 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Electiva D-1 Electiva D-2 Electiva D-3 Electiva D-4
+24330 24332 24337 24341
+General
+3 1 5 3 3 1 5 3 3 1 5 3 3 1 5 3
+ELE OBL Total
+Espacio
+18,125%
+CG Componente de Fundamentos Generales 4 de 29 25 29 Prerrequisito académico
+CDI Componente de Saberes Específicos y Disciplinares 12 de 80 68 80 Correquisito
+Código
+CP Componente de Pedagógía y Educación 30 30
+CD Componente de Didáctica de las Disciplinas 21 21 HTD HTC HTA créditos
+OBLIGATORIAS OBL Totales 16 144 HTD Horas Trabajo Directo
+ELECTIVAS ELE
+TOTAL CRÉDITOS 160 HTC Horas Trabajo Coop.
+10,00%
+HTA Horas Trabajo Auton.
+ELECTIVAS
+HTD HTC HTA HTD HTC HTA HTD HTC HTA HTD HTC HTA HTD HTC HTA HTD HTC HTA HTD HTC HTA HTD HTC HTA HTD HTC HTA HTD HTC HTA
+16 12 14 19 11 18 18 12 18 18 14 16 20 12 16 14 16 18 19 11 18 17 15 19 17 11 26 5 15 25
+Créditos C. Pr. Ped. Créditos C. Pr. Ped. Créditos C. Pr. Ped. Créditos C. Pr. Ped. Créditos C. Pr. Ped. Créditos C. Pr. Ped. Créditos C. Pr. Ped. Créditos C. Pr. Ped. Créditos C. Pr. Ped. Créditos C. Pr. Ped.
+Créditos Horas 14 5 16 7 16 6 16 2 16 5 16 3 16 3 17 4 18 7 15 8
+Total Prac Ped 50 Total Créditos 160 50 0

@@ -1,0 +1,203 @@
+
+
+--- Página 1 ---
+Ingeniería Topográfica 341 PLAN DE ESTUDIOS
+Resolución de Registro Calificado:
+162 créditos
+08235 del 27 de mayo de 2020
+OBLIGATORIO
+HORAS - ASIGNATURAS TD TRABAJO DIRECTO TC TRABAJO COOPERATIVO TA OBLIGATORIO
+TRABAJO AUTÓNOMO O/B OBLIGATORIO BÁSICO O/C
+COMPLEMENTARIO
+E/I INTRÍNSECAS E/E EXTRÍNSECAS
+ESPACIOS ACADÉMICOS T TEÓRICO P PRÁCTICO T/P TEÓRICO/PRÁCTICO ELECTIVAS
+No. Créditos
+TD TC TA O/B O/C T P T/P E/I E/E
+Cálculo Diferencial 4 4 2 6
+Cátedra Francisco José de Caldas 1 2 0 1
+1
+Geometría Descriptiva 2 2 1 3
+SEMESTRE
+Humanidades 2 2 1 3
+Planimetría 3 2 4 3
+TOTAL Producción y Comprensión de Textos 2 2 2 2
+CRÉDITOS: 15
+Etica e Introducción a la Ingeniería Topográfica 1 2 0 1
+No. Créditos TD TC TA O/B O/C T P T/P E/I E/E
+Electiva Extrínseca I 2 Ver electivas extrínsecas
+Física I: Mecánica Newtoniana 3 4 2 3
+2
+Cálculo Integral 3 4 2 3
+SEMESTRE
+Álgebra Lineal 3 4 2 3
+TOTAL
+Altimetría 3 2 4 3
+CRÉDITOS: 16
+Lógica de Programación 2 2 2 2
+No. Créditos TD TC TA O/B O/C T P T/P E/I E/E
+Ver electivas extrínsecas
+Electiva Extrínseca II 2
+Cálculo Multivariado 3 4 2 3
+3
+Diseño Asistido por Computador 3 2 3 4
+SEMESTRE
+Física Ondulatoria 3 3 2 4
+TOTAL
+Geodesia Geométrica 3 3 2 4
+CRÉDITOS: 17
+Estadística Descriptiva 3 3 1 5
+No. Créditos TD TC TA O/B O/C T P T/P E/I E/E
+Electiva Extrínseca III 2 Ver electivas extrínsecas
+Ecuaciones Diferenciales 3 4 2 3
+4
+Geodesia Posicional 3 2 3 4
+SEMESTRE
+Ingeniería de Software 3 2 3 4
+TOTAL
+Diseño Geométrico de Vías 3 3 2 4
+CRÉDITOS: 17
+Hidráulica 3 3 1 5
+No. Créditos TD TC TA O/B O/C T P T/P E/I E/E
+Localización de Vías 3 2 3 4
+Geología y Geomorfología 2 2 2 2
+5
+Hidrología 3 2 2 5
+SEMESTRE
+Fundamentos de Ecología 3 2 2 5
+TOTAL
+Fotogrametría y Fotointerpretación 3 2 2 5
+CRÉDITOS: 17
+Métodos Numéricos 3 3 1 5
+No. Créditos TD TC TA O/B O/C T P T/P E/I E/E
+Catastro 2 2 2 2
+Mecánica de Suelos 2 2 2 2
+6
+Acueductos 3 2 2 5
+SEMESTRE
+Introducción a la Gestión Ambiental 3 2 2 5
+Cartografía Digital 2 2 2 2
+TOTAL
+Cátedra de Contexto 1 2 0 1
+CRÉDITOS: 16
+Bases de Datos Espaciales 3 2 2 5
+
+
+--- Página 2 ---
+No. Créditos TD TC TA O/B O/C T P T/P E/I E/E
+Cátedra Democracia y Ciudadanía
+1 2 0 1
+Alcantarillados
+3 2 2 5
+7
+Evaluación Ambiental
+3 2 2 5
+SEMESTRE
+Percepción Remota
+3 2 3 4
+Principios de Economía
+3 3 1 5
+TOTAL
+Levantamientos Especiales
+3 2 3 4
+CRÉDITOS: 18
+Metodología de la Investigación
+2 2 2 2
+No. Créditos TD TC TA O/B T P T/P E/I E/E
+O/C
+Segunda Lengua I:
+(Inglés - Francés - Alemán - Italiano - Portugués - Mandarín) 2 2 2 2
+8
+Electiva Intrínseca I 3 Ver electivas intrínsecas
+SEMESTRE
+Ver electivas intrínsecas
+Electiva Intrínseca II 3
+Análisis y Gestión del Riesgo 2 3 1 2
+TOTAL
+Sistemas de Información Geográfica 3 3 2 4
+CRÉDITOS: 16
+Ordenamiento Territorial 3 3 1 5
+No. Créditos
+TD TC TA O/B O/C T P T/P E/I E/E
+Segunda Lengua II:
+(Inglés - Francés - Alemán - Italiano - Portugués - Mandarín) 2 2 2 2
+9
+Electiva Intrínseca III 3 Ver electivas intrínsecas
+SEMESTRE Ver electivas intrínsecas
+Electiva Intrínseca IV 3
+Formulación y Evaluación de Proyectos 3 3 1 5
+TOTAL
+Ingeniería Ambiental 2 3 1 2
+CRÉDITOS: 15
+Trabajo de Grado I 2 2 2 2
+No. Créditos TD TC TA O/B O/C T P T/P E/I E/E
+Segunda Lengua III:
+(Inglés - Francés - Alemán - Italiano - Portugués - Mandarín) 2 2 2 2
+10
+Electiva Intrínseca V Ver electivas intrínsecas
+3
+SEMESTRE
+Electiva Intrínseca VI Ver electivas intrínsecas
+3
+Ver electivas extrínsecas
+Electiva Extrínseca IV
+2
+TOTAL
+Gerencia de Proyectos 3 1 5
+3
+CRÉDITOS: 15
+Trabajo de Grado II 2 2 2
+2
+No. Créditos TD TC TA T T/P
+Música I
+2 2 0 4
+Cartografía Temática
+2 2 0 4
+Fotografía
+2 2 0 4
+Excel Aplicado
+2 2 0 4
+ELECTIVAS
+Música II
+2 2 0 4
+E/E
+EXTRÍNSECAS
+Medicina Preventiva
+2 2 0 4
+Técnicas de Campo
+2 2 0 4
+Técnicas de Campo II
+2 2 0 4
+Geoestadística
+2 2 0 4
+Navegación Satelital
+2 2 0 4
+No. Créditos TD TC TA T T/P
+Control y Administración del Proyecto
+3 2 2 5
+I
+Topografía Automatizada
+3 2 2 5
+Ingeniería Fluvial
+3 2 2 5
+II
+Pavimentos
+3 2 2 5
+Cartografía Digital Avanzada
+3 2 2 5
+ELECTIVAS
+III
+E/I Costos Presupuestos y Programación
+3 2 2 5
+INTRÍNSECAS
+Tránsito y Transporte
+3 2 2 5
+IV
+Obras de Drenaje
+3 2 2 5
+Gestión Empresarial
+3 2 2 5
+V
+Métodos de Prospección Geofísica
+3 2 2 5
+Diseño Computacional de Vías
+VI 3 2 2 5

@@ -1,0 +1,213 @@
+
+
+--- Página 1 ---
+PLAN DE ESTUDIOS EN CRÉDITOS NÚMERO 231
+Ingeniería en Telemática por Ciclos Propedéuticos
+CONVENCIONES
+H.T.D: Horas de Trabajo Directo
+H.T.C: Horas de Trabajo
+Cooperativo
+H.T.A: Horas de Trabajo Autónomo
+RANGOS CRÉDITOS
+Total de CRÉDITOS 172
+Obligatorios Básicos 97
+Obligatorios Complementarios 33
+Electivos Intrínsecos 23
+Electivos Extrínsecos 10
+Componente Propedéutico
+9
+(Opcional)
+PERIODO DE FORMACIÓN 1
+CÓDIGO NOMBRE CRÉDITOS HTD HTC HTA CLASIFICACIÓN
+1 Cálculo Diferencial 4 4 2 6 Obligatorio Básico
+4 Cátedra Francisco José de Caldas 1 2 0 1 Obligatorio Complementario
+9 Álgebra Lineal 3 4 2 3 Obligatorio Básico
+Cátedra Democracia y
+12 1 2 0 1 Obligatorio Complementario
+Ciudadanía
+Producción y Comprensión de
+1054 3 2 2 5 Obligatorio Complementario
+Textos I
+1507 Introducción a Algoritmos 3 2 2 5 Obligatorio Básico
+1508 Lógica Matemática 3 2 2 5 Obligatorio Básico
+TOTAL CRÉDITOS: 18
+
+
+--- Página 2 ---
+PERIODO DE FORMACIÓN 2
+CÓDIGO NOMBRE CRÉDITOS HTD HTC HTA CLASIFICACIÓN
+3 Física I: Mecánica Newtoniana 3 4 2 3 Obligatorio Básico
+7 Cálculo Integral 3 4 2 3 Obligatorio Básico
+Producción y comprensión de
+1056 2 2 2 2 Obligatorio Complementario
+Textos II
+1072 Administración 3 2 2 5 Obligatorio Complementario
+1082 Cátedra de Contexto 1 2 0 1 Obligatorio Complementario
+1513 Estructura de Datos 3 2 2 5 Obligatorio Básico
+Programación Orientada a
+1514 3 2 2 5 Obligatorio Básico
+Objetos
+TOTAL CRÉDITOS: 18
+PERIODO DE FORMACIÓN 3
+CÓDIGO NOMBRE CRÉDITOS HTD HTC HTA CLASIFICACIÓN
+Electiva Económico-Administrativa I 2 Electivo Intrínseco
+1503 Contabilidad General 2 2 2 2 Electivo Intrínseco
+1509 Fundamentos de Organización 2 2 2 2 Electivo Intrínseco
+Obligatorio
+Segunda Lengua I 2
+Complementario
+9901 Segunda Lengua I - Inglés 2 2 2 2 Obligatorio Complementario
+9904 Segunda Lengua I - Francés 2 2 2 2 Obligatorio Complementario
+9907 Segunda Lengua I - Alemán 2 2 2 2 Obligatorio Complementario
+9910 Segunda Lengua I - Italiano 2 2 2 2 Obligatorio Complementario
+9913 Segunda Lengua I - Portugués 2 2 2 2 Obligatorio Complementario
+9916 Segunda Lengua I - Mandarín 2 2 2 2 Obligatorio Complementario
+Área Profesional Obligatorio
+13 Física II: Electromagnetismo 3 4 2 3 Obligatorio Básico
+1060 Ciencia Tecnología y Sociedad 2 2 2 2 Obligatorio Complementario
+1518 Programación Multinivel 3 2 2 5 Obligatorio Básico
+1519 Bases de Datos 3 2 2 5 Obligatorio Básico
+TOTAL CRÉDITOS: 15
+
+
+--- Página 3 ---
+PERIODO DE FORMACIÓN 4
+CÓDIGO NOMBRE CRÉDITOS HTD HTC HTA CLASIFICACIÓN
+Electiva Ciencias Básicas I 3 Electivo Intrínseco
+1512 Matemáticas Especiales 3 2 2 5 Electivo Intrínseco
+1515 Análisis y métodos numéricos 3 2 2 5 Electivo Intrínseco
+Electiva Económico-Administrativa II 2 Electivo Intrínseco
+1510 Fundamentos de Economía 2 2 2 2 Electivo Intrínseco
+1511 Tic's en las organizaciones 2 2 2 2 Electivo Intrínseco
+Obligatorio
+Segunda Lengua II 2
+Complementario
+9902 Segunda Lengua II - Inglés 2 2 2 2 Obligatorio Complementario
+9905 Segunda Lengua II - Francés 2 2 2 2 Obligatorio Complementario
+9908 Segunda Lengua II - Alemán 2 2 2 2 Obligatorio Complementario
+9911 Segunda Lengua II - Italiano 2 2 2 2 Obligatorio Complementario
+9914 Segunda Lengua II - Portugués 2 2 2 2 Obligatorio Complementario
+9917 Segunda Lengua II - Mandarín 2 2 2 2 Obligatorio Complementario
+Socio Humanística Obligatorio
+1075 Ética y Sociedad 2 2 2 2 Obligatorio Complementario
+Área Profesional Obligatorio
+1524 Programación Avanzada 3 2 2 5 Obligatorio Básico
+1526 Diseño Lógico 3 2 2 5 Obligatorio Básico
+TOTAL CRÉDITOS: 15
+PERIODO DE FORMACIÓN 5
+CÓDIGO NOMBRE CRÉDITOS HTD HTC HTA CLASIFICACIÓN
+Electiva Profesional I 3 Electivo Intrínseco
+1535 Transmisión de Datos 3 2 2 5 Electivo Intrínseco
+7203 Bases de Datos Distribuidas 3 2 2 5 Electivo Intrínseco
+Electiva Profesional II 3 Electivo Intrínseco
+1536 Programación Web 3 2 2 5 Electivo Intrínseco
+7202 Aplicaciones para Internet 3 2 2 5 Electivo Intrínseco
+Obligatorio
+Socio Humanística 2
+Complementario
+1516 Analisis Social Colombiano 2 2 2 2 Obligatorio Complementario
+Área Profesional Obligatorio
+1531 Análisis de Sistemas 3 2 2 5 Obligatorio Básico
+1533 Sistemas Operacionales 3 2 2 5 Obligatorio Básico
+1537 Taller de Investigación 2 2 2 2 Obligatorio Básico
+TOTAL CRÉDITOS: 16
+
+
+--- Página 4 ---
+PERIODO DE FORMACIÓN 6
+CÓDIGO NOMBRE CRÉDITOS HTD HTC HTA CLASIFICACIÓN
+Obligatorio
+Segunda Lengua III 2
+Complementario
+9903 Segunda Lengua III - Inglés 2 2 2 2 Obligatorio Complementario
+9906 Segunda Lengua III - Francés 2 2 2 2 Obligatorio Complementario
+9909 Segunda Lengua III - Alemán 2 2 2 2 Obligatorio Complementario
+9912 Segunda Lengua III - Italiano 2 2 2 2 Obligatorio Complementario
+9915 Segunda Lengua III - Portugués 2 2 2 2 Obligatorio Complementario
+9918 Segunda Lengua III - Mandarín 2 2 2 2 Obligatorio Complementario
+Electiva Profesional III 3 Electivo Intrínseco
+1541 Fundamentos de Telemática 3 2 2 5 Electivo Intrínseco
+7204 Protocolos de Comunicación 3 2 2 5 Electivo Intrínseco
+Electiva Profesional III 2 Electivo Intrínseco
+1542 Programación por Componentes 3 2 2 5 Electivo Intrínseco
+Regulación para
+7205 3 2 2 5 Electivo Intrínseco
+Telecomunicaciones
+Obligatorio
+Socio Humanística 2
+Complementario
+1540 Globalización 2 2 2 2 Obligatorio Complementario
+Área Profesional Obligatorio
+1446 Trabajo de Grado Tecnológico 2 0 0 6 Obligatorio Básico
+1532 Inteligencia Artificial 3 2 2 5 Obligatorio Básico
+1539 Arquitectura de Computadores 2 2 2 2 Obligatorio Básico
+TOTAL CRÉDITOS: 17
+COMPONENTE PROPEDÉUTICO
+CÓDIGO NOMBRE CRÉDITOS HTD HTC HTA CLASIFICACIÓN
+88 Ecuaciones Diferenciales 3 4 2 3 Componente Propedéutico
+1525 Bases de Datos Avanzadas 3 2 2 5 Componente Propedéutico
+1538 Ingeniería de Software 3 2 2 5 Componente Propedéutico
+TOTAL CRÉDITOS: 9
+
+
+--- Página 5 ---
+PERIODO DE FORMACIÓN 7
+CÓDIGO NOMBRE CRÉDITOS HTD HTC HTA CLASIFICACIÓN
+Obligatorio
+Socio Humanística 2
+Complementario
+Socio Humanística 2 2 2 2 Obligatorio Complementario
+Área Profesional Obligatorio
+16 Cálculo Multivariado 3 4 2 3 Obligatorio Básico
+1619 Ingeniería Económica 3 2 2 5 Obligatorio Complementario
+1808 Probabilidad y Estadística 3 2 2 5 Obligatorio Básico
+7208 Sistemas Distribuidos 3 2 2 5 Obligatorio Básico
+7209 Teoría General de Sistemas 2 2 2 2 Obligatorio Básico
+TOTAL CRÉDITOS: 16
+PERIODO DE FORMACIÓN 8
+CÓDIGO NOMBRE CRÉDITOS HTD HTC HTA CLASIFICACIÓN
+Física III: Ondas y Física
+1428 3 2 2 5 Obligatorio Básico
+Moderna
+Formulación y Evaluación de
+1608 3 2 2 5 Obligatorio Complementario
+Proyectos
+7210 Análisis de Fourier 3 2 2 5 Obligatorio Básico
+7211 Redes Corporativas 3 2 2 5 Obligatorio Básico
+7212 Sistemas Abiertos 3 2 2 5 Obligatorio Básico
+7213 Teoría de la Información 3 2 2 5 Obligatorio Básico
+TOTAL CRÉDITOS: 18
+PERIODO DE FORMACIÓN 9
+CÓDIGO NOMBRE CRÉDITOS HTD HTC HTA CLASIFICACIÓN
+Electiva Ciencias Básicas II 3 Electivo Intrínseco
+7219 Computación Cuántica 3 2 2 5 Electivo Intrínseco
+Simulación de Sistemas
+7220 3 2 2 5 Electivo Intrínseco
+Dinámicos
+Electiva Ciencias Básicas III Electivo Intrínseco
+3
+7221 Criptología 3 2 2 5 Electivo Intrínseco
+7222 Investigación de Operaciones 3 2 2 5 Electivo Intrínseco
+Área Profesional Obligatorio
+1670 Trabajo de Grado I 2 0 0 6 Obligatorio Básico
+7214 Planificación y Diseño de Redes 3 2 2 5 Obligatorio Básico
+7215 Redes de Alta Velocidad 3 2 2 5 Obligatorio Básico
+7216 Seguridad en Redes 3 2 2 5 Obligatorio Básico
+TOTAL CRÉDITOS: 17
+
+
+--- Página 6 ---
+PERIODO DE FORMACIÓN 10
+CÓDIGO NOMBRE CRÉDITOS HTD HTC HTA CLASIFICACIÓN
+Electiva Económico-Administrativa III 2 Electivo Complementario
+Económico-Administrativa 2 2 2 2 Obligatorio Complementario
+Electiva Profesional V Electivo Intrínseco
+7223 Análisis de Datos 3 2 2 5 Electivo Intrínseco
+7224 Bioinformática 3 2 2 5 Electivo Intrínseco
+Electiva Profesional VI Electivo Intrínseco
+7225 Seminario de Telemática 3 2 2 5 Electivo Intrínseco
+7226 Redes Inalámbricas 3 2 2 5 Electivo Intrínseco
+Área Profesional Obligatoria
+1831 Trabajo de Grado II 2 0 0 6 Obligatorio Básico
+7217 Gerencia y Auditoría en Redes 3 2 2 5 Obligatorio Básico
+TOTAL CRÉDITOS: 13

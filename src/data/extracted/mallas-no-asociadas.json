@@ -1,0 +1,763 @@
+[
+  {
+    "archivoPdf": "fisica.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\fisica.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/fisica.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 3099,
+    "caracteresTextoFinal": 3099,
+    "ocrAplicado": false,
+    "creditos": 145,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "fisica.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\fisica.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/fisica.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos.",
+      "Asociación con programa en confianza baja; requiere revisión manual."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-fisica",
+      "programaNombre": "Licenciatura en Física",
+      "confianzaAsociacion": "baja",
+      "puntaje": 195,
+      "motivos": [
+        "El nombre del archivo contiene \"fisica\".",
+        "El texto extraído contiene \"fisica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 195
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 195
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "levantamientos topogrficos.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\levantamientos topogrficos.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/levantamientos-topogrficos.txt",
+    "paginas": 2,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 36,
+    "caracteresTextoFinal": 3160,
+    "ocrAplicado": true,
+    "resolucion": "Resolución 049 del 13 de Junio de 2017",
+    "fechaResolucion": "13 de Junio de 2017",
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "levantamientos topogrficos.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\levantamientos topogrficos.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/levantamientos-topogrficos.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 2,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos.",
+      "Asociación con programa en confianza baja; requiere revisión manual."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-fisica",
+      "programaNombre": "Licenciatura en Física",
+      "confianzaAsociacion": "baja",
+      "puntaje": 95,
+      "motivos": [
+        "El texto extraído contiene \"fisica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "ingenieria-de-sistemas",
+          "programaNombre": "Ingeniería de Sistemas",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Plan de estudios por períodos académicos IP.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de estudios por períodos académicos IP.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-por-periodos-academicos-ip.txt",
+    "paginas": 6,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 9486,
+    "caracteresTextoFinal": 9486,
+    "ocrAplicado": false,
+    "fechaResolucion": "19 de diciembre de 2018",
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Plan de estudios por períodos académicos IP.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de estudios por períodos académicos IP.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-por-periodos-academicos-ip.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 6,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos.",
+      "Asociación con programa en confianza baja; requiere revisión manual."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+      "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+      "confianzaAsociacion": "baja",
+      "puntaje": 210,
+      "motivos": [
+        "El texto extraído contiene \"ingenieria de produccion\".",
+        "El texto extraído contiene \"produccion\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 210
+        },
+        {
+          "programaId": "tecnologia-en-gestion-de-la-produccion-industrial-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Gestión de la Producción Industrial (Por ciclos propedéuticos)",
+          "puntaje": 210
+        },
+        {
+          "programaId": "ingenieria-mecanica-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería Mecánica (por ciclos propedéuticos)",
+          "puntaje": 140
+        },
+        {
+          "programaId": "ingenieria-en-control-y-automatizacion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería en Control y Automatización (por ciclos propedéuticos)",
+          "puntaje": 70
+        },
+        {
+          "programaId": "tecnologia-en-mecanica-industrial-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Mecánica Industrial (Por ciclos propedéuticos)",
+          "puntaje": 70
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "res_2020-057 aprobacion plan estudios.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\res_2020-057 aprobacion plan estudios.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/res-2020-057-aprobacion-plan-estudios.txt",
+    "paginas": 6,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 12713,
+    "caracteresTextoFinal": 12713,
+    "ocrAplicado": false,
+    "facultadDetectada": "Facultad Facultad de Ciencias y Educació n”",
+    "resolucion": "RESOLUCION N° 057",
+    "fechaResolucion": "8 de abril de 1997",
+    "creditos": 144,
+    "duracion": "8 semestres",
+    "periodosAcademicos": [
+      {
+        "periodo": "Segundo periodo",
+        "asignaturas": [
+          {
+            "nombre": "é rito de lo expuesto esta corporaci colegiada"
+          },
+          {
+            "nombre": "Biolog Celular",
+            "creditos": 4
+          },
+          {
+            "nombre": "Biof sica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Qu mica General",
+            "creditos": 4
+          },
+          {
+            "nombre": "Algebra Trigonometr",
+            "creditos": 3
+          },
+          {
+            "nombre": "Geolog",
+            "creditos": 3
+          },
+          {
+            "nombre": "Redacci Cient fica",
+            "creditos": 3
+          },
+          {
+            "nombre": "tedra Francisco José de Caldas",
+            "creditos": 1
+          },
+          {
+            "nombre": "Bio tica",
+            "creditos": 3
+          },
+          {
+            "nombre": "Zoolog de Invertebrados",
+            "creditos": 4
+          },
+          {
+            "nombre": "Agosto de"
+          },
+          {
+            "nombre": "Bot nica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Qu mica Org nica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Biof sica II",
+            "creditos": 4
+          },
+          {
+            "nombre": "tedra Democracia Ciudadan",
+            "creditos": 1
+          },
+          {
+            "nombre": "Zoolog de Vertebrados",
+            "creditos": 4
+          },
+          {
+            "nombre": "Bot nica II",
+            "creditos": 4
+          },
+          {
+            "nombre": "Bioqu mica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Ecuaciones diferenciales",
+            "creditos": 3
+          },
+          {
+            "nombre": "Énfasis",
+            "creditos": 6
+          },
+          {
+            "nombre": "Segunda Lengua",
+            "creditos": 2
+          },
+          {
+            "nombre": "tedra de Contexto",
+            "creditos": 1
+          },
+          {
+            "nombre": "Fisiolog Animal",
+            "creditos": 4
+          },
+          {
+            "nombre": "Fisiolog Vegetal",
+            "creditos": 4
+          },
+          {
+            "nombre": "An lisis Qu mico",
+            "creditos": 3
+          },
+          {
+            "nombre": "Énfasis II",
+            "creditos": 6
+          },
+          {
+            "nombre": "Segunda Lengua II",
+            "creditos": 2
+          },
+          {
+            "nombre": "Biolog del desarrollo",
+            "creditos": 4
+          },
+          {
+            "nombre": "Microbiolog",
+            "creditos": 4
+          },
+          {
+            "nombre": "Gen tica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Énfasis III",
+            "creditos": 6
+          },
+          {
+            "nombre": "Segunda Lengua III",
+            "creditos": 2
+          },
+          {
+            "nombre": "Ecolog",
+            "creditos": 4
+          },
+          {
+            "nombre": "Biolog Molecular",
+            "creditos": 4
+          },
+          {
+            "nombre": "Bioestad stica",
+            "creditos": 3
+          },
+          {
+            "nombre": "Énfasis IV",
+            "creditos": 6
+          },
+          {
+            "nombre": "Pr ctica Integrada",
+            "creditos": 3
+          },
+          {
+            "nombre": "Trabajo de Grado",
+            "creditos": 3
+          },
+          {
+            "nombre": "Dise Experimental",
+            "creditos": 4
+          },
+          {
+            "nombre": "Énfasis VI",
+            "creditos": 6
+          },
+          {
+            "nombre": "Trabajo de Grado II",
+            "creditos": 6
+          },
+          {
+            "nombre": "Evoluci",
+            "creditos": 3
+          },
+          {
+            "nombre": "Legislaci Gesti Ambiental",
+            "creditos": 4
+          },
+          {
+            "nombre": "Pr ctica Integrada II",
+            "creditos": 3
+          },
+          {
+            "nombre": "Emp -Gest Emp",
+            "creditos": 3
+          },
+          {
+            "nombre": "Educaci Ambiental",
+            "creditos": 4
+          },
+          {
+            "nombre": "MERO DE POR ESPACIO"
+          },
+          {
+            "nombre": "ACAD MICO"
+          },
+          {
+            "nombre": "ART CULO º - Todos los planes de estudio requieren de cierto tiempo de estabilidad con",
+            "creditos": 2
+          },
+          {
+            "nombre": "el fin de tener herramientas lidas para su evaluaci Cualquier modificaci al plan de"
+          },
+          {
+            "nombre": "estudios deberá ser resultado de un proceso de autoevaluaci tendrá en cuenta los"
+          },
+          {
+            "nombre": "resultados obtenidos por los egresados de su primera cohorte"
+          },
+          {
+            "nombre": "Par grafo Primero Toda modificaci que se realice al presente plan de estudios tendrá"
+          },
+          {
+            "nombre": "Par grafo Segundo En casos excepcionales mediado por un proceso de autoevaluaci el"
+          },
+          {
+            "nombre": "ser informadas por el Proyecto Curricular al Ministerio de Educaci Nacional con la"
+          },
+          {
+            "nombre": "asesor de la Coordinaci General de Autoevaluaci Acreditaci destacando la"
+          },
+          {
+            "nombre": "homologaciones en concordancia con las normas existentes"
+          },
+          {
+            "nombre": "acciones necesarias para incorporar en el Sistema de Gesti Acad mica el contenido de la"
+          },
+          {
+            "nombre": "en lo pertinente las normas que le sean contrarias"
+          },
+          {
+            "nombre": "COMUN QUESE PUBL QUESE MPLASE"
+          },
+          {
+            "nombre": "Dada en Bogotá los veinticinco as del mes de agosto de"
+          },
+          {
+            "nombre": "RICARDO GARC DUARTE CAMILO ANDR BUSTOS PARRA"
+          },
+          {
+            "nombre": "Presidente Secretario"
+          },
+          {
+            "nombre": "Nombre Cargo Firma"
+          },
+          {
+            "nombre": "Proyectó Mireya Guevara Medina Asesora Vicerrector Acad mica"
+          },
+          {
+            "nombre": "Coordinadora General de Autoevaluaci"
+          },
+          {
+            "nombre": "Revisó aprobó Esperanza del Pilar Infante Luna"
+          },
+          {
+            "nombre": "Revisó aprobó William Fernando Castrill Cardona Vicerrector Acad mico"
+          }
+        ],
+        "totalCreditos": 163
+      }
+    ],
+    "asignaturasDestacadas": [
+      "é rito de lo expuesto esta corporaci colegiada",
+      "Biolog Celular",
+      "Biof sica",
+      "Qu mica General",
+      "Algebra Trigonometr",
+      "Geolog",
+      "Redacci Cient fica",
+      "tedra Francisco José de Caldas",
+      "Bio tica",
+      "Zoolog de Invertebrados",
+      "Agosto de",
+      "Bot nica",
+      "Qu mica Org nica",
+      "Biof sica II",
+      "tedra Democracia Ciudadan",
+      "Zoolog de Vertebrados"
+    ],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "res_2020-057 aprobacion plan estudios.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\res_2020-057 aprobacion plan estudios.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/res-2020-057-aprobacion-plan-estudios.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 6,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "Asociación con programa en confianza baja; requiere revisión manual.",
+      "Algunos campos se infirieron desde asignaturas y están marcados como inferido_desde_malla."
+    ],
+    "camposInferidos": {
+      "perfilAspirante": {
+        "texto": "Persona con interés por matemáticas, ciencias naturales, con disposición para estudiar asignaturas como é rito de lo expuesto esta corporaci colegiada, Biolog Celular, Biof sica, Qu mica General.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "é rito de lo expuesto esta corporaci colegiada",
+          "Biolog Celular",
+          "Biof sica",
+          "Qu mica General",
+          "Algebra Trigonometr",
+          "Geolog",
+          "Redacci Cient fica",
+          "tedra Francisco José de Caldas",
+          "Bio tica",
+          "Zoolog de Invertebrados"
+        ]
+      },
+      "queAprendera": {
+        "texto": "La malla sugiere formación en matemáticas, ciencias naturales a partir de espacios académicos como é rito de lo expuesto esta corporaci colegiada, Biolog Celular, Biof sica, Qu mica General, Algebra Trigonometr, Geolog.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "é rito de lo expuesto esta corporaci colegiada",
+          "Biolog Celular",
+          "Biof sica",
+          "Qu mica General",
+          "Algebra Trigonometr",
+          "Geolog",
+          "Redacci Cient fica",
+          "tedra Francisco José de Caldas",
+          "Bio tica",
+          "Zoolog de Invertebrados"
+        ]
+      },
+      "areasConocimiento": {
+        "valores": [
+          "Matemáticas",
+          "Ciencias naturales"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "é rito de lo expuesto esta corporaci colegiada",
+          "Biolog Celular",
+          "Biof sica",
+          "Qu mica General",
+          "Algebra Trigonometr",
+          "Geolog",
+          "Redacci Cient fica",
+          "tedra Francisco José de Caldas",
+          "Bio tica",
+          "Zoolog de Invertebrados"
+        ]
+      },
+      "habilidadesRelacionadas": {
+        "valores": [
+          "Razonamiento lógico",
+          "Observación científica"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "é rito de lo expuesto esta corporaci colegiada",
+          "Biolog Celular",
+          "Biof sica",
+          "Qu mica General",
+          "Algebra Trigonometr",
+          "Geolog",
+          "Redacci Cient fica",
+          "tedra Francisco José de Caldas",
+          "Bio tica",
+          "Zoolog de Invertebrados"
+        ]
+      },
+      "interesesRelacionados": {
+        "valores": [
+          "Resolución de problemas",
+          "Investigación"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "é rito de lo expuesto esta corporaci colegiada",
+          "Biolog Celular",
+          "Biof sica",
+          "Qu mica General",
+          "Algebra Trigonometr",
+          "Geolog",
+          "Redacci Cient fica",
+          "tedra Francisco José de Caldas",
+          "Bio tica",
+          "Zoolog de Invertebrados"
+        ]
+      }
+    },
+    "asociacion": {
+      "programaId": "licenciatura-en-biologia",
+      "programaNombre": "Licenciatura en Biología",
+      "confianzaAsociacion": "baja",
+      "puntaje": 140,
+      "motivos": [
+        "El texto extraído contiene \"biologia\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-biologia",
+          "programaNombre": "Licenciatura en Biología",
+          "puntaje": 140
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 140
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 140
+        },
+        {
+          "programaId": "biologia",
+          "programaNombre": "Biología",
+          "puntaje": 60
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 60
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "tecnologica en gestion ambietal.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\tecnologica en gestion ambietal.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/tecnologica-en-gestion-ambietal.txt",
+    "paginas": 2,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 36,
+    "caracteresTextoFinal": 3348,
+    "ocrAplicado": true,
+    "resolucion": "Resolución 043 del 30 de Junio de 2020 WUEEZIE",
+    "fechaResolucion": "30 de Junio de 2020",
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "tecnologica en gestion ambietal.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\tecnologica en gestion ambietal.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/tecnologica-en-gestion-ambietal.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 2,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos.",
+      "Asociación con programa en confianza baja; requiere revisión manual."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-fisica",
+      "programaNombre": "Licenciatura en Física",
+      "confianzaAsociacion": "baja",
+      "puntaje": 95,
+      "motivos": [
+        "El texto extraído contiene \"fisica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "quimica",
+          "programaNombre": "Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "ingenieria-industrial",
+          "programaNombre": "Ingeniería Industrial",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Versión gráfica_Plan de estudios_PEP_0.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Versión gráfica_Plan de estudios_PEP_0.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/version-grafica-plan-de-estudios-pep-0.txt",
+    "paginas": 4,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 3533,
+    "caracteresTextoFinal": 3533,
+    "ocrAplicado": false,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Versión gráfica_Plan de estudios_PEP_0.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Versión gráfica_Plan de estudios_PEP_0.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/version-grafica-plan-de-estudios-pep-0.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 4,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos.",
+      "Asociación con programa en confianza baja; requiere revisión manual."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-fisica",
+      "programaNombre": "Licenciatura en Física",
+      "confianzaAsociacion": "baja",
+      "puntaje": 95,
+      "motivos": [
+        "El texto extraído contiene \"fisica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 95
+        }
+      ]
+    }
+  }
+]

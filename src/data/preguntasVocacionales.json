@@ -1,0 +1,393 @@
+[
+  {
+    "id": "q1",
+    "texto": "¿Qué tipo de actividades disfrutas más?",
+    "apoyo": "Elige la opción que más se parezca a lo que buscarías hacer con frecuencia.",
+    "opciones": [
+      {
+        "id": "q1-a",
+        "texto": "Resolver problemas con tecnología, datos o programación",
+        "tags": ["tecnologia", "programacion", "datos", "logica"]
+      },
+      {
+        "id": "q1-b",
+        "texto": "Ayudar, orientar o enseñar a otras personas",
+        "tags": ["educacion", "ensenanza", "servicio-personas", "comunicacion"]
+      },
+      {
+        "id": "q1-c",
+        "texto": "Crear, interpretar o comunicar ideas artísticas",
+        "tags": ["arte", "creatividad", "expresion", "comunicacion"]
+      },
+      {
+        "id": "q1-d",
+        "texto": "Explorar la naturaleza, el ambiente o el territorio",
+        "tags": ["ambiental", "naturaleza", "campo", "territorio"]
+      }
+    ]
+  },
+  {
+    "id": "q2",
+    "texto": "¿Qué materias te llaman más la atención?",
+    "opciones": [
+      {
+        "id": "q2-a",
+        "texto": "Matemáticas, física o tecnología",
+        "tags": ["matematicas", "fisica", "tecnologia", "resolucion-problemas"]
+      },
+      {
+        "id": "q2-b",
+        "texto": "Biología, química o ciencias naturales",
+        "tags": ["biologia", "quimica", "ciencia", "investigacion"]
+      },
+      {
+        "id": "q2-c",
+        "texto": "Lenguaje, idiomas, historia o ciencias sociales",
+        "tags": ["lectura", "idiomas", "social", "comunicacion"]
+      },
+      {
+        "id": "q2-d",
+        "texto": "Artes, música, expresión corporal o diseño visual",
+        "tags": ["arte", "musica", "movimiento-corporal", "diseno"]
+      }
+    ]
+  },
+  {
+    "id": "q3",
+    "texto": "¿Cómo prefieres resolver problemas?",
+    "opciones": [
+      {
+        "id": "q3-a",
+        "texto": "Analizando datos, patrones y causas",
+        "tags": ["analisis", "datos", "logica", "investigacion"]
+      },
+      {
+        "id": "q3-b",
+        "texto": "Diseñando soluciones prácticas o técnicas",
+        "tags": ["tecnologia", "diseno", "resolucion-problemas", "maquinas"]
+      },
+      {
+        "id": "q3-c",
+        "texto": "Conversando, mediando y entendiendo contextos sociales",
+        "tags": ["social", "comunicacion", "servicio-personas", "lectura"]
+      },
+      {
+        "id": "q3-d",
+        "texto": "Probando ideas creativas hasta encontrar una forma expresiva",
+        "tags": ["creatividad", "arte", "expresion", "creacion-visual"]
+      }
+    ]
+  },
+  {
+    "id": "q4",
+    "texto": "¿Con qué te gustaría trabajar más?",
+    "opciones": [
+      {
+        "id": "q4-a",
+        "texto": "Personas, comunidades o estudiantes",
+        "tags": ["servicio-personas", "educacion", "social", "trabajo-en-equipo"]
+      },
+      {
+        "id": "q4-b",
+        "texto": "Sistemas, redes, circuitos o software",
+        "tags": ["software", "redes", "electronica", "programacion"]
+      },
+      {
+        "id": "q4-c",
+        "texto": "Ecosistemas, recursos naturales o saneamiento",
+        "tags": ["ambiental", "naturaleza", "sostenibilidad", "campo"]
+      },
+      {
+        "id": "q4-d",
+        "texto": "Documentos, archivos, procesos o información",
+        "tags": ["informacion", "gestion-documental", "organizacion", "datos"]
+      }
+    ]
+  },
+  {
+    "id": "q5",
+    "texto": "¿Qué tanto disfrutas las matemáticas y el cálculo?",
+    "opciones": [
+      {
+        "id": "q5-a",
+        "texto": "Mucho; me gusta usarlas para modelar o demostrar ideas",
+        "tags": ["matematicas", "logica", "analisis", "ciencia"]
+      },
+      {
+        "id": "q5-b",
+        "texto": "Me gustan cuando sirven para construir soluciones técnicas",
+        "tags": ["matematicas", "tecnologia", "resolucion-problemas", "diseno"]
+      },
+      {
+        "id": "q5-c",
+        "texto": "Las tolero, pero prefiero lectura, comunicación o gestión",
+        "tags": ["lectura", "comunicacion", "gestion", "organizacion"]
+      },
+      {
+        "id": "q5-d",
+        "texto": "Prefiero actividades artísticas, sociales o corporales",
+        "tags": ["arte", "social", "movimiento-corporal", "expresion"]
+      }
+    ]
+  },
+  {
+    "id": "q6",
+    "texto": "¿Te interesa la investigación científica?",
+    "opciones": [
+      {
+        "id": "q6-a",
+        "texto": "Sí, especialmente en laboratorio o ciencias naturales",
+        "tags": ["investigacion", "laboratorio", "ciencia", "quimica"]
+      },
+      {
+        "id": "q6-b",
+        "texto": "Sí, cuando se aplica a tecnología o ingeniería",
+        "tags": ["investigacion", "tecnologia", "matematicas", "resolucion-problemas"]
+      },
+      {
+        "id": "q6-c",
+        "texto": "Sí, si ayuda a comprender fenómenos sociales o educativos",
+        "tags": ["investigacion", "social", "educacion", "lectura"]
+      },
+      {
+        "id": "q6-d",
+        "texto": "No tanto; prefiero crear, gestionar o actuar en campo",
+        "tags": ["creatividad", "gestion", "campo", "trabajo-en-equipo"]
+      }
+    ]
+  },
+  {
+    "id": "q7",
+    "texto": "¿Te gustaría enseñar o acompañar procesos de aprendizaje?",
+    "opciones": [
+      {
+        "id": "q7-a",
+        "texto": "Sí, con niños o niñas",
+        "tags": ["educacion", "ensenanza", "infancia", "servicio-personas"]
+      },
+      {
+        "id": "q7-b",
+        "texto": "Sí, en ciencias, matemáticas, idiomas o áreas sociales",
+        "tags": ["educacion", "ensenanza", "ciencia", "comunicacion"]
+      },
+      {
+        "id": "q7-c",
+        "texto": "Tal vez, pero prefiero investigar o diseñar soluciones",
+        "tags": ["investigacion", "diseno", "resolucion-problemas", "analisis"]
+      },
+      {
+        "id": "q7-d",
+        "texto": "No es mi prioridad",
+        "tags": ["gestion", "tecnologia", "campo", "creatividad"]
+      }
+    ]
+  },
+  {
+    "id": "q8",
+    "texto": "¿Qué tanto te atrae diseñar, crear o comunicar ideas?",
+    "opciones": [
+      {
+        "id": "q8-a",
+        "texto": "Mucho, desde el arte o la expresión escénica",
+        "tags": ["arte", "creatividad", "trabajo-escenico", "expresion"]
+      },
+      {
+        "id": "q8-b",
+        "texto": "Mucho, desde medios, escritura o periodismo",
+        "tags": ["comunicacion", "escritura", "lectura", "social"]
+      },
+      {
+        "id": "q8-c",
+        "texto": "Me atrae crear soluciones visuales, técnicas o mecánicas",
+        "tags": ["diseno", "creacion-visual", "tecnologia", "maquinas"]
+      },
+      {
+        "id": "q8-d",
+        "texto": "Prefiero optimizar procesos y tomar decisiones",
+        "tags": ["gestion", "organizacion", "liderazgo", "procesos"]
+      }
+    ]
+  },
+  {
+    "id": "q9",
+    "texto": "¿Te interesa el medio ambiente?",
+    "opciones": [
+      {
+        "id": "q9-a",
+        "texto": "Sí, ecosistemas, bosques y conservación",
+        "tags": ["ambiental", "naturaleza", "forestal", "sostenibilidad"]
+      },
+      {
+        "id": "q9-b",
+        "texto": "Sí, agua, saneamiento y salud pública ambiental",
+        "tags": ["ambiental", "saneamiento", "salud", "sostenibilidad"]
+      },
+      {
+        "id": "q9-c",
+        "texto": "Sí, gestión de servicios, territorio o proyectos ambientales",
+        "tags": ["ambiental", "gestion", "territorio", "campo"]
+      },
+      {
+        "id": "q9-d",
+        "texto": "No es mi principal interés",
+        "tags": ["tecnologia", "arte", "educacion", "gestion"]
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "texto": "¿Prefieres una carrera más técnica, social, artística, científica o administrativa?",
+    "opciones": [
+      {
+        "id": "q10-a",
+        "texto": "Técnica o tecnológica",
+        "tags": ["tecnologia", "maquinas", "software", "resolucion-problemas"]
+      },
+      {
+        "id": "q10-b",
+        "texto": "Social, educativa o comunicativa",
+        "tags": ["social", "educacion", "comunicacion", "servicio-personas"]
+      },
+      {
+        "id": "q10-c",
+        "texto": "Artística o creativa",
+        "tags": ["arte", "creatividad", "expresion", "diseno"]
+      },
+      {
+        "id": "q10-d",
+        "texto": "Científica, ambiental o administrativa",
+        "tags": ["ciencia", "ambiental", "investigacion", "gestion"]
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "texto": "¿Cómo te ves trabajando en el futuro?",
+    "opciones": [
+      {
+        "id": "q11-a",
+        "texto": "En equipo, coordinando proyectos o procesos",
+        "tags": ["trabajo-en-equipo", "gestion", "liderazgo", "organizacion"]
+      },
+      {
+        "id": "q11-b",
+        "texto": "En campo, midiendo, observando o interviniendo territorio",
+        "tags": ["campo", "territorio", "cartografia", "ambiental"]
+      },
+      {
+        "id": "q11-c",
+        "texto": "En espacios de creación, escena, aula o comunicación",
+        "tags": ["arte", "educacion", "comunicacion", "expresion"]
+      },
+      {
+        "id": "q11-d",
+        "texto": "En laboratorios, centros de investigación o áreas técnicas",
+        "tags": ["laboratorio", "investigacion", "tecnologia", "ciencia"]
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "texto": "¿Qué tipo de herramientas te gustaría usar con frecuencia?",
+    "opciones": [
+      {
+        "id": "q12-a",
+        "texto": "Computadores, lenguajes de programación o sistemas de datos",
+        "tags": ["programacion", "software", "datos", "logica"]
+      },
+      {
+        "id": "q12-b",
+        "texto": "Instrumentos de medición, mapas o equipos de campo",
+        "tags": ["cartografia", "territorio", "campo", "matematicas"]
+      },
+      {
+        "id": "q12-c",
+        "texto": "Materiales artísticos, cuerpo, voz o instrumentos musicales",
+        "tags": ["arte", "musica", "movimiento-corporal", "creatividad"]
+      },
+      {
+        "id": "q12-d",
+        "texto": "Textos, entrevistas, archivos o recursos pedagógicos",
+        "tags": ["lectura", "escritura", "gestion-documental", "ensenanza"]
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "texto": "¿Qué situación te motivaría más?",
+    "opciones": [
+      {
+        "id": "q13-a",
+        "texto": "Automatizar una tarea o mejorar una red tecnológica",
+        "tags": ["automatizacion", "redes", "tecnologia", "programacion"]
+      },
+      {
+        "id": "q13-b",
+        "texto": "Crear una pieza artística o una puesta en escena",
+        "tags": ["arte", "trabajo-escenico", "creatividad", "expresion"]
+      },
+      {
+        "id": "q13-c",
+        "texto": "Diseñar una estrategia educativa o comunitaria",
+        "tags": ["educacion", "social", "servicio-personas", "comunicacion"]
+      },
+      {
+        "id": "q13-d",
+        "texto": "Mejorar un proceso industrial, ambiental o sanitario",
+        "tags": ["procesos", "gestion", "ambiental", "saneamiento"]
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "texto": "¿Qué habilidad reconoces más en ti?",
+    "opciones": [
+      {
+        "id": "q14-a",
+        "texto": "Pensamiento lógico y atención al detalle",
+        "tags": ["logica", "analisis", "matematicas", "datos"]
+      },
+      {
+        "id": "q14-b",
+        "texto": "Comunicación, empatía y lectura de contextos",
+        "tags": ["comunicacion", "social", "servicio-personas", "lectura"]
+      },
+      {
+        "id": "q14-c",
+        "texto": "Creatividad, disciplina práctica y expresión",
+        "tags": ["creatividad", "disciplina-practica", "arte", "expresion"]
+      },
+      {
+        "id": "q14-d",
+        "texto": "Organización, liderazgo y gestión",
+        "tags": ["organizacion", "liderazgo", "gestion", "trabajo-en-equipo"]
+      }
+    ]
+  },
+  {
+    "id": "q15",
+    "texto": "Si tuvieras que escoger un reto, ¿cuál elegirías?",
+    "opciones": [
+      {
+        "id": "q15-a",
+        "texto": "Construir una aplicación, analizar datos o conectar sistemas",
+        "tags": ["software", "programacion", "datos", "redes"]
+      },
+      {
+        "id": "q15-b",
+        "texto": "Explicar un tema complejo para que otras personas aprendan",
+        "tags": ["ensenanza", "educacion", "comunicacion", "servicio-personas"]
+      },
+      {
+        "id": "q15-c",
+        "texto": "Medir un territorio, planear infraestructura o intervenir un espacio",
+        "tags": ["territorio", "infraestructura", "cartografia", "campo"]
+      },
+      {
+        "id": "q15-d",
+        "texto": "Cuidar la vida, la salud o los recursos naturales",
+        "tags": ["salud", "cuidado", "ambiental", "naturaleza"]
+      }
+    ]
+  }
+]

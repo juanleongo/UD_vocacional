@@ -1,0 +1,177 @@
+
+
+--- Página 1 ---
+26/8/2019 Sistema de Gestión Académica
+SISTEMA DE GESTIÓN ACADÉMICA
+PLANES DE ESTUDIO UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS
+Portafolio de Requisitos del
+Mi Plan de Estudio Otros Planes de Estudio
+Electivos Extrinsecos Plan de Estudios
+ADMINISTRACION AMBIENTAL
+PLAN DE ESTUDIOS EN CRÉDITOS NÚMERO 345 - Administración Ambiental
+PERIODO DE FORMACIÓN 1
+Número
+Cod. Nombre HTD HTC HTA Clasificación
+Créditos
+1 Cálculo Diferencial 4 4 2 6 Obligatorio Básico
+3 Física I: Mecánica Newtoniana 3 4 2 3 Obligatorio Básico
+4 Cátedra Francisco José de Caldas 1 2 0 1 Obligatorio Complementario
+2006 Producción y Comprensión de Textos 2 2 2 2 Obligatorio Complementario
+2112 Fundamentos de Química 3 2 2 5 Obligatorio Básico
+2402 Administración General 3 2 2 5 Obligatorio Básico
+2403 Introducción a la Administración Ambiental 2 2 2 2 Obligatorio Básico
+TOTAL DE CRÉDITOS: 18
+PERIODO DE FORMACIÓN 2
+Número
+Cod. Nombre HTD HTC HTA Clasificación
+Créditos
+Electiva Extrínseca I 2 Ver Electivos Extrínsecos Electivo Extrínseco
+7 Cálculo Integral 3 4 2 3 Obligatorio Básico
+12 Cátedra Democracia y Ciudadanía 1 2 0 1 Obligatorio Complementario
+2027 Fundamentos de Ecología 3 2 2 5 Obligatorio Básico
+2406 Química Ambiental 3 2 4 3 Obligatorio Básico
+2407 Contabilidad 3 2 2 5 Obligatorio Básico
+2408 Sociedad y Ambiente 3 2 2 5 Obligatorio Básico
+TOTAL DE CRÉDITOS: 18
+PERIODO DE FORMACIÓN 3
+Número
+Cod. Nombre HTD HTC HTA Clasificación
+Créditos
+Electiva Extrínseca II 2 Ver Electivos Extrínsecos Electivo Extrínseco
+Electiva Intrínseca I 3 Electivo Intrínseco
+2414 Licitaciones y Contrataciones 3 2 2 5 Electivo Intrínseco
+2458 Ecología Ambiental 3 2 2 5 Electivo Intrínseco
+2016 Estadística Descriptiva 3 3 1 5 Obligatorio Básico
+2035 Cátedra de Contexto 1 2 0 1 Obligatorio Complementario
+2411 Procesos Biológicos 3 2 2 5 Obligatorio Básico
+2413 Organización Comunitaria 2 2 2 2 Obligatorio Básico
+2415 Matemática Financiera 1 2 0 1 Obligatorio Básico
+2417 Sistemas de Información Geográfica 3 2 4 3 Obligatorio Básico
+TOTAL DE CRÉDITOS: 18
+PERIODO DE FORMACIÓN 4
+Número
+Cod. Nombre HTD HTC HTA Clasificación
+Créditos
+Electiva Extrínseca III 2 Ver Electivos Extrínsecos Electivo Extrínseco
+2412 Administración Financiera 2 2 2 2 Obligatorio Básico
+2418 Problemas y Alternativas Ambientales 3 2 4 3 Obligatorio Básico
+2419 Economía 3 2 2 5 Obligatorio Básico
+2422 Salud Ocupacional y Seguridad Industrial 3 2 4 3 Obligatorio Básico
+2423 Estadística Inferencial 3 3 1 5 Obligatorio Básico
+2436 Educación Ambiental 2 3 1 2 Obligatorio Básico
+TOTAL DE CRÉDITOS: 18
+PERIODO DE FORMACIÓN 5
+Número
+Cod. Nombre HTD HTC HTA Clasificación
+Créditos
+Electiva Intrínseca II 3 Electivo Intrínseco
+2430 Ecología Humana y Bioética 3 2 2 5 Electivo Intrínseco
+2459 Responsabilidad Social Empresarial 3 2 2 5 Electivo Intrínseco
+2425 Legislación y Política Ambiental 3 2 4 3 Obligatorio Básico
+https://funcionarios.portaloas.udistrital.edu.co/urano/index.php?data=vTFOZrbM4Dxc4pSke31YBsI5_IpCQ9HHTV3cbsU1b7Y 1/3
+
+
+--- Página 2 ---
+26/8/2019 Sistema de Gestión Académica
+2426 Desarrollo Organizacional 3 2 2 5 Obligatorio Básico
+2427 Costos y Presupuestos 3 2 2 5 Obligatorio Básico
+2428 Administración Pública Ambiental 3 2 2 5 Obligatorio Básico
+2429 Factores de Riesgo Ambiental en Salud Pública 3 2 4 3 Obligatorio Básico
+TOTAL DE CRÉDITOS: 18
+PERIODO DE FORMACIÓN 6
+Número
+Cod. Nombre HTD HTC HTA Clasificación
+Créditos
+2420 Desarrollo Sustentable 3 2 4 3 Obligatorio Básico
+2431 Modelos y Técnicas de Gerencia 3 2 2 5 Obligatorio Básico
+2432 Legislación Laboral y Comercial 3 2 2 5 Obligatorio Básico
+2433 Economía Ambiental 3 2 2 5 Obligatorio Básico
+2434 Vulnerabilidad y Riesgos 3 2 2 5 Obligatorio Básico
+2435 Gestión de Inocuidad 3 2 4 3 Obligatorio Básico
+TOTAL DE CRÉDITOS: 18
+PERIODO DE FORMACIÓN 7
+Número
+Cod. Nombre HTD HTC HTA Clasificación
+Créditos
+Segunda Lengua I 2 Obligatorio Complementario
+9901 Segunda Lengua I - Inglés 2 2 2 2 Obligatorio Complementario
+9904 Segunda Lengua I - Francés 2 2 2 2 Obligatorio Complementario
+9907 Segunda Lengua I - Alemán 2 2 2 2 Obligatorio Complementario
+9910 Segunda Lengua I - Italiano 2 2 2 2 Obligatorio Complementario
+9913 Segunda Lengua I - Portugués 2 2 2 2 Obligatorio Complementario
+9916 Segunda Lengua I - Mandarín 2 2 2 2 Obligatorio Complementario
+2051 Formulación y Evaluación de Proyectos 3 2 2 5 Obligatorio Básico
+2052 Metodología de la Investigación 2 2 2 2 Obligatorio Básico
+2437 Investigación de Mercados 3 2 4 3 Obligatorio Básico
+2438 Gestión Ambiental 3 2 4 3 Obligatorio Básico
+2440 Producción Limpia 3 2 4 3 Obligatorio Básico
+19101 Planificación Ambiental Territorial 2 2 2 2 Obligatorio Básico
+TOTAL DE CRÉDITOS: 18
+PERIODO DE FORMACIÓN 8
+Número
+Cod. Nombre HTD HTC HTA Clasificación
+Créditos
+Segunda Lengua II 2 Obligatorio Complementario
+9902 Segunda Lengua II - Ingles 2 2 2 2 Obligatorio Complementario
+9905 Segunda Lengua II - Francés 2 2 2 2 Obligatorio Complementario
+9908 Segunda Lengua II - Alemán 2 2 2 2 Obligatorio Complementario
+9911 Segunda Lengua II - Italiano 2 2 2 2 Obligatorio Complementario
+9914 Segunda Lengua II - Portugués 2 2 2 2 Obligatorio Complementario
+9917 Segunda Lengua II - Mandarín 2 2 2 2 Obligatorio Complementario
+Electiva Intrínseca III 3 Electivo Intrínseco
+2447 Toxicología Ambiental 3 2 2 5 Electivo Intrínseco
+2460 Globalización y Medio Ambiente 3 2 2 5 Electivo Intrínseco
+2464 Cartografía Social 3 2 2 5 Electivo Intrínseco
+Electiva Intrínseca IV 3 Electivo Intrínseco
+2448 Sellos Verdes 3 2 2 5 Electivo Intrínseco
+2461 Participación Ciudadana 3 2 2 5 Electivo Intrínseco
+2465 Cumplimiento Minero Ambiental 3 2 2 5 Electivo Intrínseco
+2443 Administración de Recursos Naturales 3 2 4 3 Obligatorio Básico
+2444 Calidad Ambiental 3 2 4 3 Obligatorio Básico
+2446 Ética Ambiental 2 2 2 2 Obligatorio Básico
+19102 Trabajo de Grado I 2 0 0 6 Obligatorio Básico
+TOTAL DE CRÉDITOS: 18
+PERIODO DE FORMACIÓN 9
+Número
+Cod. Nombre HTD HTC HTA Clasificación
+Créditos
+Electiva Extrínseca IV 2 Ver Electivos Extrínsecos Electivo Extrínseco
+Segunda Lengua III 2 Obligatorio Complementario
+9903 Segunda Lengua III - Inglés 2 2 2 2 Obligatorio Complementario
+9906 Segunda Lengua III - Francés 2 2 2 2 Obligatorio Complementario
+9909 Segunda Lengua III - Alemán 2 2 2 2 Obligatorio Complementario
+9912 Segunda Lengua III - Italiano 2 2 2 2 Obligatorio Complementario
+9915 Segunda Lengua III - Portugués 2 2 2 2 Obligatorio Complementario
+9918 Segunda Lengua III - Mandarín 2 2 2 2 Obligatorio Complementario
+https://funcionarios.portaloas.udistrital.edu.co/urano/index.php?data=vTFOZrbM4Dxc4pSke31YBsI5_IpCQ9HHTV3cbsU1b7Y 2/3
+
+
+--- Página 3 ---
+26/8/2019 Sistema de Gestión Académica
+g g g p
+Electiva Intrínseca V 3 Electivo Intrínseco
+2451 Valoración Económica de los Bienes y Servicios 3 2 2 5 Electivo Intrínseco
+2462 Ecoturismo y Turismo sostenible 3 2 2 5 Electivo Intrínseco
+2463 Instrumentos Operativos 3 2 2 5 Electivo Intrínseco
+2466 Gestión Ambiental de Recursos Hídricos 3 2 2 5 Electivo Intrínseco
+2467 Gestión de la Energía y Medio Ambiente 3 2 2 5 Electivo Intrínseco
+Electiva Intrínseca VI 3 Electivo Intrínseco
+19103 Práctica Empresarial 3 2 2 5 Electivo Intrínseco
+19105 Elementos Técnicos de la contaminación Ambiental 3 2 2 5 Electivo Intrínseco
+2450 Negociación, Consultoría e Interventoría de Proyectos 3 2 4 3 Obligatorio Básico
+19104 Trabajo de Grado II 3 0 0 9 Obligatorio Básico
+TOTAL DE CRÉDITOS: 16
+H.T.D : Horas de Trabajo Directo
+H.T.C : Horas de Trabajo Cooperativo
+H.T.A : Horas de Trabajo Autonomo
+RANGOS DE CRÉDITOS INGRESADOS POR EL COORDINADOR *
+Buscar servicios... Ir!
+Twitter
+
+Facebook
+
+Universidad Distrital Francisco José de Caldas (https://www.udistrital.edu.co/) PBX: 3239300. Todos los derechos
+reservados ©. .:: Términos, condiciones de uso y política de privacidad
+(/appserv/manual/terminos_y_condiciones.pdf) ::..
+Sistema Optimizado para Mozilla Firefox
+https://funcionarios.portaloas.udistrital.edu.co/urano/index.php?data=vTFOZrbM4Dxc4pSke31YBsI5_IpCQ9HHTV3cbsU1b7Y 3/3

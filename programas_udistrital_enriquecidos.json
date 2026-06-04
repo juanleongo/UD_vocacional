@@ -1,0 +1,2078 @@
+{
+  "metadata": {
+    "institucion": "Universidad Distrital Francisco José de Caldas",
+    "totalProgramasIncluidos": 47,
+    "fechaConsulta": "2026-06-04",
+    "notaUso": "Los campos de facultad, título, modalidad, jornada, créditos/duración, sede y registro calificado se estructuraron desde fuentes oficiales disponibles. Los campos narrativos se marcaron como inferidos cuando no aparecieron de forma explícita y homogénea en las fuentes consultadas."
+  },
+  "programas": [
+    {
+      "id": "arte-danzario",
+      "nombre": "Arte Danzario",
+      "facultad": "Facultad de Artes ASAB",
+      "titulo": "Maestro(a) en Arte Danzario",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "160 créditos",
+      "creditos": "160 créditos",
+      "registroCalificado": "Resolución 022153 de 22 de noviembre de 2023",
+      "sede": "Carrera 13 # 14-69",
+      "perfilAspirante": {
+        "texto": "Persona con sensibilidad artística, disposición para la creación, interés por la expresión estética, la investigación-creación y el trabajo disciplinado en procesos culturales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante fortalecerá procesos de creación, interpretación, análisis estético, investigación artística y producción cultural relacionados con Arte Danzario.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Creación artística y cultural",
+          "Gestión o producción cultural",
+          "Investigación-creación",
+          "Participación en proyectos artísticos, escénicos, musicales o visuales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "artes-escenicas",
+      "nombre": "Artes Escénicas",
+      "facultad": "Facultad de Artes ASAB",
+      "titulo": "Maestro(a) en Artes Escénicas",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "163 créditos",
+      "creditos": "163 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Carrera 13 # 14-69",
+      "perfilAspirante": {
+        "texto": "Persona con sensibilidad artística, disposición para la creación, interés por la expresión estética, la investigación-creación y el trabajo disciplinado en procesos culturales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante fortalecerá procesos de creación, interpretación, análisis estético, investigación artística y producción cultural relacionados con Artes Escénicas.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Creación artística y cultural",
+          "Gestión o producción cultural",
+          "Investigación-creación",
+          "Participación en proyectos artísticos, escénicos, musicales o visuales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "artes-musicales",
+      "nombre": "Artes Musicales",
+      "facultad": "Facultad de Artes ASAB",
+      "titulo": "Maestro(a) en Artes Musicales",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "166 créditos",
+      "creditos": "166 créditos",
+      "registroCalificado": "Resolución 003130 de 2021",
+      "sede": "Carrera 13 # 14-69",
+      "perfilAspirante": {
+        "texto": "Persona con sensibilidad artística, disposición para la creación, interés por la expresión estética, la investigación-creación y el trabajo disciplinado en procesos culturales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante fortalecerá procesos de creación, interpretación, análisis estético, investigación artística y producción cultural relacionados con Artes Musicales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Creación artística y cultural",
+          "Gestión o producción cultural",
+          "Investigación-creación",
+          "Participación en proyectos artísticos, escénicos, musicales o visuales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "artes-plasticas-y-visuales",
+      "nombre": "Artes Plásticas y Visuales",
+      "facultad": "Facultad de Artes ASAB",
+      "titulo": "Maestro(a) en Artes Plásticas y Visuales",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "160 créditos",
+      "creditos": "160 créditos",
+      "registroCalificado": "Resolución 013450 de 2020",
+      "sede": "Carrera 13 # 14-69",
+      "perfilAspirante": {
+        "texto": "Persona con sensibilidad artística, disposición para la creación, interés por la expresión estética, la investigación-creación y el trabajo disciplinado en procesos culturales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante fortalecerá procesos de creación, interpretación, análisis estético, investigación artística y producción cultural relacionados con Artes Plásticas y Visuales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Creación artística y cultural",
+          "Gestión o producción cultural",
+          "Investigación-creación",
+          "Participación en proyectos artísticos, escénicos, musicales o visuales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "enfermeria",
+      "nombre": "Enfermería",
+      "facultad": "Facultad de Ciencias de la Salud",
+      "titulo": "Enfermero(a)",
+      "modalidad": "Presencial",
+      "jornada": "Información no disponible en la fuente consultada",
+      "duracion": "164 créditos",
+      "creditos": "164 créditos",
+      "registroCalificado": "Resolución 006188 del 28 de marzo de 2025",
+      "sede": "Calle 52 Sur # 93D-97",
+      "perfilAspirante": {
+        "texto": "Persona con vocación de servicio, interés por el cuidado humano, la salud pública, el trabajo con comunidades y la responsabilidad ética en contextos clínicos y sociales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante abordará fundamentos del cuidado, promoción de la salud, prevención de la enfermedad, atención a personas y comunidades, y responsabilidad ética en salud.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Cuidado de personas y comunidades",
+          "Promoción y prevención en salud",
+          "Instituciones de salud",
+          "Proyectos comunitarios y de salud pública"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "archivistica-y-gestion-de-la-informacion-digital",
+      "nombre": "Archivística y Gestión de la Información Digital",
+      "facultad": "Facultad de Ciencias y Educación",
+      "titulo": "Profesional en Archivística y Gestión de la Información Digital",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "160 créditos",
+      "creditos": "160 créditos",
+      "registroCalificado": "Resolución 29125 de 2017; Modificación Resolución 015671 de 2019",
+      "sede": "Calle 52 Sur # 93D-97",
+      "perfilAspirante": {
+        "texto": "Persona organizada, con interés por la gestión documental, la preservación de información, los archivos, los sistemas digitales y el acceso responsable al conocimiento.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante aprenderá sobre organización, clasificación, conservación, acceso, gestión digital y administración de archivos e información documental.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Gestión documental",
+          "Archivos públicos o privados",
+          "Sistemas de información documental",
+          "Preservación y acceso a la información"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "comunicacion-social-y-periodismo",
+      "nombre": "Comunicación Social y Periodismo",
+      "facultad": "Facultad de Ciencias y Educación",
+      "titulo": "Comunicador/a Social y Periodista",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "160 créditos",
+      "creditos": "160 créditos",
+      "registroCalificado": "Resolución 024766 de 2025",
+      "sede": "Calle 52 Sur # 93D-97",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la escritura, la investigación social, el análisis crítico de la realidad, la producción de contenidos y la comunicación pública.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante fortalecerá competencias en investigación social, producción periodística, comunicación pública, análisis de medios, escritura y lectura crítica del contexto.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Periodismo",
+          "Comunicación pública",
+          "Producción de contenidos",
+          "Investigación social y mediática"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "licenciatura-en-biologia",
+      "nombre": "Licenciatura en Biología",
+      "facultad": "Facultad de Ciencias y Educación",
+      "titulo": "Licenciado(a) en Biología",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "146 créditos",
+      "creditos": "146 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Carrera 3 # 26A-40",
+      "perfilAspirante": {
+        "texto": "Persona con vocación pedagógica, interés por enseñar, acompañar procesos de aprendizaje, trabajar con comunidades educativas y reflexionar sobre la formación humana.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante estudiará fundamentos pedagógicos, didácticos, disciplinares e investigativos orientados a la enseñanza y al aprendizaje en el campo de Licenciatura en Biología.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Docencia",
+          "Diseño de estrategias pedagógicas",
+          "Proyectos educativos",
+          "Investigación educativa"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "licenciatura-en-ciencias-sociales",
+      "nombre": "Licenciatura en Ciencias Sociales",
+      "facultad": "Facultad de Ciencias y Educación",
+      "titulo": "Licenciado(a) en Ciencias Sociales",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "160 créditos",
+      "creditos": "160 créditos",
+      "registroCalificado": "Resolución 001112 de febrero 3 de 2023",
+      "sede": "Carrera 3 # 26A-40",
+      "perfilAspirante": {
+        "texto": "Persona con vocación pedagógica, interés por enseñar, acompañar procesos de aprendizaje, trabajar con comunidades educativas y reflexionar sobre la formación humana.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante estudiará fundamentos pedagógicos, didácticos, disciplinares e investigativos orientados a la enseñanza y al aprendizaje en el campo de Licenciatura en Ciencias Sociales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Docencia",
+          "Diseño de estrategias pedagógicas",
+          "Proyectos educativos",
+          "Investigación educativa"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "licenciatura-en-educacion-artistica",
+      "nombre": "Licenciatura en Educación Artística",
+      "facultad": "Facultad de Ciencias y Educación",
+      "titulo": "Licenciado(a) en Educación Artística",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "141 créditos",
+      "creditos": "141 créditos",
+      "registroCalificado": "Resolución 014240 de agosto 23 de 2023",
+      "sede": "Carrera 3 # 26A-40",
+      "perfilAspirante": {
+        "texto": "Persona con vocación pedagógica, interés por enseñar, acompañar procesos de aprendizaje, trabajar con comunidades educativas y reflexionar sobre la formación humana.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante estudiará fundamentos pedagógicos, didácticos, disciplinares e investigativos orientados a la enseñanza y al aprendizaje en el campo de Licenciatura en Educación Artística.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Docencia",
+          "Diseño de estrategias pedagógicas",
+          "Proyectos educativos",
+          "Investigación educativa"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "licenciatura-en-educacion-infantil",
+      "nombre": "Licenciatura en Educación Infantil",
+      "facultad": "Facultad de Ciencias y Educación",
+      "titulo": "Licenciado(a) en Educación Infantil",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "153 créditos",
+      "creditos": "153 créditos",
+      "registroCalificado": "Resolución 14212 de 2019",
+      "sede": "Carrera 3 # 26A-40",
+      "perfilAspirante": {
+        "texto": "Persona con vocación pedagógica, interés por enseñar, acompañar procesos de aprendizaje, trabajar con comunidades educativas y reflexionar sobre la formación humana.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante estudiará fundamentos pedagógicos, didácticos, disciplinares e investigativos orientados a la enseñanza y al aprendizaje en el campo de Licenciatura en Educación Infantil.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Docencia",
+          "Diseño de estrategias pedagógicas",
+          "Proyectos educativos",
+          "Investigación educativa"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "licenciatura-en-fisica",
+      "nombre": "Licenciatura en Física",
+      "facultad": "Facultad de Ciencias y Educación",
+      "titulo": "Licenciado(a) en Física",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "160 créditos",
+      "creditos": "160 créditos",
+      "registroCalificado": "Resolución 016779 de 2019",
+      "sede": "Carrera 3 # 26A-40",
+      "perfilAspirante": {
+        "texto": "Persona con vocación pedagógica, interés por enseñar, acompañar procesos de aprendizaje, trabajar con comunidades educativas y reflexionar sobre la formación humana.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante estudiará fundamentos pedagógicos, didácticos, disciplinares e investigativos orientados a la enseñanza y al aprendizaje en el campo de Licenciatura en Física.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Docencia",
+          "Diseño de estrategias pedagógicas",
+          "Proyectos educativos",
+          "Investigación educativa"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "licenciatura-en-humanidades-y-lengua-castellana",
+      "nombre": "Licenciatura en Humanidades y Lengua Castellana",
+      "facultad": "Facultad de Ciencias y Educación",
+      "titulo": "Licenciado(a) en Humanidades y Lengua Castellana",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "154 créditos",
+      "creditos": "154 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Carrera 3 # 26A-40",
+      "perfilAspirante": {
+        "texto": "Persona con vocación pedagógica, interés por enseñar, acompañar procesos de aprendizaje, trabajar con comunidades educativas y reflexionar sobre la formación humana.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante estudiará fundamentos pedagógicos, didácticos, disciplinares e investigativos orientados a la enseñanza y al aprendizaje en el campo de Licenciatura en Humanidades y Lengua Castellana.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Docencia",
+          "Diseño de estrategias pedagógicas",
+          "Proyectos educativos",
+          "Investigación educativa"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "licenciatura-en-lenguas-extranjeras-con-enfasis-en-ingles",
+      "nombre": "Licenciatura en Lenguas Extranjeras con Énfasis en Inglés",
+      "facultad": "Facultad de Ciencias y Educación",
+      "titulo": "Licenciado(a) en Lenguas Extranjeras con Énfasis en Inglés",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "153 créditos",
+      "creditos": "153 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Carrera 3 # 26A-40",
+      "perfilAspirante": {
+        "texto": "Persona con vocación pedagógica, interés por enseñar, acompañar procesos de aprendizaje, trabajar con comunidades educativas y reflexionar sobre la formación humana.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante estudiará fundamentos pedagógicos, didácticos, disciplinares e investigativos orientados a la enseñanza y al aprendizaje en el campo de Licenciatura en Lenguas Extranjeras con Énfasis en Inglés.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Docencia",
+          "Diseño de estrategias pedagógicas",
+          "Proyectos educativos",
+          "Investigación educativa"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "licenciatura-en-matematicas",
+      "nombre": "Licenciatura en Matemáticas",
+      "facultad": "Facultad de Ciencias y Educación",
+      "titulo": "Licenciado(a) en Matemáticas",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "141 créditos",
+      "creditos": "141 créditos",
+      "registroCalificado": "Resolución 219 del 16 de enero de 2025",
+      "sede": "Carrera 3 # 26A-40",
+      "perfilAspirante": {
+        "texto": "Persona con vocación pedagógica, interés por enseñar, acompañar procesos de aprendizaje, trabajar con comunidades educativas y reflexionar sobre la formación humana.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante estudiará fundamentos pedagógicos, didácticos, disciplinares e investigativos orientados a la enseñanza y al aprendizaje en el campo de Licenciatura en Matemáticas.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Docencia",
+          "Diseño de estrategias pedagógicas",
+          "Proyectos educativos",
+          "Investigación educativa"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "licenciatura-en-quimica",
+      "nombre": "Licenciatura en Química",
+      "facultad": "Facultad de Ciencias y Educación",
+      "titulo": "Licenciado(a) en Química",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "151 créditos",
+      "creditos": "151 créditos",
+      "registroCalificado": "Resolución 15164 de agosto 2 de 2022",
+      "sede": "Carrera 3 # 26A-40",
+      "perfilAspirante": {
+        "texto": "Persona con vocación pedagógica, interés por enseñar, acompañar procesos de aprendizaje, trabajar con comunidades educativas y reflexionar sobre la formación humana.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante estudiará fundamentos pedagógicos, didácticos, disciplinares e investigativos orientados a la enseñanza y al aprendizaje en el campo de Licenciatura en Química.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Docencia",
+          "Diseño de estrategias pedagógicas",
+          "Proyectos educativos",
+          "Investigación educativa"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "biologia",
+      "nombre": "Biología",
+      "facultad": "Facultad de Ciencias Matemáticas y Naturales",
+      "titulo": "Biólogo/Bióloga",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "144 créditos",
+      "creditos": "144 créditos",
+      "registroCalificado": "Resolución 016778 de 2019",
+      "sede": "Carrera 10 # 19-62 Edificio Crisanto Luque",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la investigación científica, el pensamiento lógico, la observación, el análisis de datos, la experimentación y la resolución de problemas.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará formación científica, análisis teórico-práctico, trabajo experimental, modelación, interpretación de datos e investigación en el campo de Biología.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Investigación científica",
+          "Análisis de datos",
+          "Laboratorios o centros de investigación",
+          "Apoyo académico y divulgación científica"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "fisica",
+      "nombre": "Física",
+      "facultad": "Facultad de Ciencias Matemáticas y Naturales",
+      "titulo": "Físico/Física",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "145 créditos",
+      "creditos": "145 créditos",
+      "registroCalificado": "Resolución 016776 de 2019",
+      "sede": "Carrera 10 # 19-62 Edificio Crisanto Luque",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la investigación científica, el pensamiento lógico, la observación, el análisis de datos, la experimentación y la resolución de problemas.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará formación científica, análisis teórico-práctico, trabajo experimental, modelación, interpretación de datos e investigación en el campo de Física.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Investigación científica",
+          "Análisis de datos",
+          "Laboratorios o centros de investigación",
+          "Apoyo académico y divulgación científica"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "matematicas",
+      "nombre": "Matemáticas",
+      "facultad": "Facultad de Ciencias Matemáticas y Naturales",
+      "titulo": "Matemático",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "140 créditos",
+      "creditos": "140 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Carrera 10 # 19-62 Edificio Crisanto Luque",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la investigación científica, el pensamiento lógico, la observación, el análisis de datos, la experimentación y la resolución de problemas.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará formación científica, análisis teórico-práctico, trabajo experimental, modelación, interpretación de datos e investigación en el campo de Matemáticas.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Investigación científica",
+          "Análisis de datos",
+          "Laboratorios o centros de investigación",
+          "Apoyo académico y divulgación científica"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "quimica",
+      "nombre": "Química",
+      "facultad": "Facultad de Ciencias Matemáticas y Naturales",
+      "titulo": "Químico/Química",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "145 créditos",
+      "creditos": "145 créditos",
+      "registroCalificado": "Resolución 016777 de 2019",
+      "sede": "Carrera 10 # 19-62 Edificio Crisanto Luque",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la investigación científica, el pensamiento lógico, la observación, el análisis de datos, la experimentación y la resolución de problemas.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará formación científica, análisis teórico-práctico, trabajo experimental, modelación, interpretación de datos e investigación en el campo de Química.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Investigación científica",
+          "Análisis de datos",
+          "Laboratorios o centros de investigación",
+          "Apoyo académico y divulgación científica"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-catastral-y-geodesia",
+      "nombre": "Ingeniería Catastral y Geodesia",
+      "facultad": "Facultad de Ingeniería",
+      "titulo": "Ingeniero Catastral y Geodesta",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "160 créditos",
+      "creditos": "160 créditos",
+      "registroCalificado": "Resolución 4560 de marzo 11 de 2025",
+      "sede": "Carrera 8 # 40-62",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería Catastral y Geodesia.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-de-sistemas",
+      "nombre": "Ingeniería de Sistemas",
+      "facultad": "Facultad de Ingeniería",
+      "titulo": "Ingeniero(a) de Sistemas",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "180 créditos",
+      "creditos": "180 créditos",
+      "registroCalificado": "Resolución 001030 de febrero 3 de 2023",
+      "sede": "Carrera 8 # 40-62",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería de Sistemas.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-electrica",
+      "nombre": "Ingeniería Eléctrica",
+      "facultad": "Facultad de Ingeniería",
+      "titulo": "Ingeniero(a) Eléctrico",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "140 créditos",
+      "creditos": "140 créditos",
+      "registroCalificado": "Resolución 007413 de 2021",
+      "sede": "Carrera 8 # 40-62",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería Eléctrica.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-electronica",
+      "nombre": "Ingeniería Electrónica",
+      "facultad": "Facultad de Ingeniería",
+      "titulo": "Ingeniero(a) Electrónico",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "163 créditos",
+      "creditos": "163 créditos",
+      "registroCalificado": "Resolución 021056 de 7 de noviembre de 2023",
+      "sede": "Carrera 8 # 40-62",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería Electrónica.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-industrial",
+      "nombre": "Ingeniería Industrial",
+      "facultad": "Facultad de Ingeniería",
+      "titulo": "Ingeniero(a) Industrial",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "167 créditos",
+      "creditos": "167 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Carrera 8 # 40-62",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería Industrial.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "administracion-ambiental",
+      "nombre": "Administración Ambiental",
+      "facultad": "Facultad del Medio Ambiente y Recursos Naturales",
+      "titulo": "Administrador(a) Ambiental",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "160 créditos",
+      "creditos": "160 créditos",
+      "registroCalificado": "Resolución N° 008900 de 26 de mayo de 2023",
+      "sede": "Calle 52 Sur # 93D-97",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la sostenibilidad, la gestión ambiental, el territorio, los recursos naturales, el trabajo comunitario y la solución de problemáticas socioambientales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante abordará problemáticas ambientales, territoriales y de recursos naturales mediante herramientas técnicas, científicas, normativas y de gestión.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Gestión ambiental",
+          "Planeación territorial",
+          "Consultoría ambiental",
+          "Proyectos de conservación, saneamiento o recursos naturales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "administracion-deportiva",
+      "nombre": "Administración Deportiva",
+      "facultad": "Facultad del Medio Ambiente y Recursos Naturales",
+      "titulo": "Profesional en Administración Deportiva",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "160 créditos",
+      "creditos": "160 créditos",
+      "registroCalificado": "Resolución 008311 del 28 de mayo de 2020",
+      "sede": "Calle 52 Sur # 93D-97",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la gestión, la organización deportiva, la actividad física, la administración de proyectos y el trabajo con instituciones o comunidades.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante estudiará administración, gestión de organizaciones deportivas, formulación de proyectos, actividad física, recreación y políticas del deporte.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Administración de organizaciones deportivas",
+          "Gestión de proyectos deportivos",
+          "Recreación y actividad física",
+          "Planeación de programas deportivos"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-ambiental",
+      "nombre": "Ingeniería Ambiental",
+      "facultad": "Facultad del Medio Ambiente y Recursos Naturales",
+      "titulo": "Ingeniero(a) Ambiental",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "167 créditos",
+      "creditos": "167 créditos",
+      "registroCalificado": "Resolución 002294 de 2022",
+      "sede": "Carrera 5 Este # 15-82 - Sede Vivero",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la sostenibilidad, la gestión ambiental, el territorio, los recursos naturales, el trabajo comunitario y la solución de problemáticas socioambientales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante abordará problemáticas ambientales, territoriales y de recursos naturales mediante herramientas técnicas, científicas, normativas y de gestión.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Gestión ambiental",
+          "Planeación territorial",
+          "Consultoría ambiental",
+          "Proyectos de conservación, saneamiento o recursos naturales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-forestal",
+      "nombre": "Ingeniería Forestal",
+      "facultad": "Facultad del Medio Ambiente y Recursos Naturales",
+      "titulo": "Ingeniero(a) Forestal",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "164 créditos",
+      "creditos": "164 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Carrera 5 Este # 15-82 - Sede Vivero",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la sostenibilidad, la gestión ambiental, el territorio, los recursos naturales, el trabajo comunitario y la solución de problemáticas socioambientales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante abordará problemáticas ambientales, territoriales y de recursos naturales mediante herramientas técnicas, científicas, normativas y de gestión.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Gestión ambiental",
+          "Planeación territorial",
+          "Consultoría ambiental",
+          "Proyectos de conservación, saneamiento o recursos naturales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-sanitaria",
+      "nombre": "Ingeniería Sanitaria",
+      "facultad": "Facultad del Medio Ambiente y Recursos Naturales",
+      "titulo": "Ingeniero(a) Sanitario(a)",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "162 créditos",
+      "creditos": "162 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Calle 52 Sur # 93D-97",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la sostenibilidad, la gestión ambiental, el territorio, los recursos naturales, el trabajo comunitario y la solución de problemáticas socioambientales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante abordará problemáticas ambientales, territoriales y de recursos naturales mediante herramientas técnicas, científicas, normativas y de gestión.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Gestión ambiental",
+          "Planeación territorial",
+          "Consultoría ambiental",
+          "Proyectos de conservación, saneamiento o recursos naturales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-topografica",
+      "nombre": "Ingeniería Topográfica",
+      "facultad": "Facultad del Medio Ambiente y Recursos Naturales",
+      "titulo": "Ingeniero(a) Topográfico(a)",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "162 créditos",
+      "creditos": "162 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Carrera 5 Este # 15-82 - Sede Vivero",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la sostenibilidad, la gestión ambiental, el territorio, los recursos naturales, el trabajo comunitario y la solución de problemáticas socioambientales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante abordará problemáticas ambientales, territoriales y de recursos naturales mediante herramientas técnicas, científicas, normativas y de gestión.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Gestión ambiental",
+          "Planeación territorial",
+          "Consultoría ambiental",
+          "Proyectos de conservación, saneamiento o recursos naturales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "tecnologia-en-gestion-ambiental-y-servicios-publicos",
+      "nombre": "Tecnología en Gestión Ambiental y Servicios Públicos",
+      "facultad": "Facultad del Medio Ambiente y Recursos Naturales",
+      "titulo": "Tecnólogo(a) en Gestión Ambiental y Servicios Públicos",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "105 créditos",
+      "creditos": "105 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Calle 52 Sur # 93D-97",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la sostenibilidad, la gestión ambiental, el territorio, los recursos naturales, el trabajo comunitario y la solución de problemáticas socioambientales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante abordará problemáticas ambientales, territoriales y de recursos naturales mediante herramientas técnicas, científicas, normativas y de gestión.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Gestión ambiental",
+          "Planeación territorial",
+          "Consultoría ambiental",
+          "Proyectos de conservación, saneamiento o recursos naturales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "tecnologia-en-levantamientos-topograficos",
+      "nombre": "Tecnología en Levantamientos Topográficos",
+      "facultad": "Facultad del Medio Ambiente y Recursos Naturales",
+      "titulo": "Tecnólogo(a) en Levantamientos Topográficos",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "99 créditos",
+      "creditos": "99 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Carrera 5 Este # 15-82 - Sede Vivero",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la sostenibilidad, la gestión ambiental, el territorio, los recursos naturales, el trabajo comunitario y la solución de problemáticas socioambientales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante abordará problemáticas ambientales, territoriales y de recursos naturales mediante herramientas técnicas, científicas, normativas y de gestión.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Gestión ambiental",
+          "Planeación territorial",
+          "Consultoría ambiental",
+          "Proyectos de conservación, saneamiento o recursos naturales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "tecnologia-en-saneamiento-ambiental",
+      "nombre": "Tecnología en Saneamiento Ambiental",
+      "facultad": "Facultad del Medio Ambiente y Recursos Naturales",
+      "titulo": "Tecnólogo(a) en Saneamiento Ambiental",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "107 créditos",
+      "creditos": "107 créditos",
+      "registroCalificado": "Resolución 021395 de 2020",
+      "sede": "Calle 52 Sur # 93D-97",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la sostenibilidad, la gestión ambiental, el territorio, los recursos naturales, el trabajo comunitario y la solución de problemáticas socioambientales.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante abordará problemáticas ambientales, territoriales y de recursos naturales mediante herramientas técnicas, científicas, normativas y de gestión.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Gestión ambiental",
+          "Planeación territorial",
+          "Consultoría ambiental",
+          "Proyectos de conservación, saneamiento o recursos naturales"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-civil",
+      "nombre": "Ingeniería Civil",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Ingeniero(a) Civil",
+      "modalidad": "Presencial",
+      "jornada": "Mixta",
+      "duracion": "172 créditos",
+      "creditos": "172 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería Civil.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-de-produccion",
+      "nombre": "Ingeniería de Producción",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Ingeniero(a) de Producción",
+      "modalidad": "Presencial",
+      "jornada": "Mixta",
+      "duracion": "175 créditos",
+      "creditos": "175 créditos",
+      "registroCalificado": "Resolución N° 02577 de 21 de febrero de 2023",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería de Producción.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-electrica-por-ciclos-propedeuticos",
+      "nombre": "Ingeniería Eléctrica por Ciclos Propedéuticos",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Ingeniero(a) Eléctrico(a)",
+      "modalidad": "Presencial",
+      "jornada": "Mixta",
+      "duracion": "166 créditos",
+      "creditos": "166 créditos",
+      "registroCalificado": "Resolución N° 13025 de julio 31 de 2023",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería Eléctrica por Ciclos Propedéuticos.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-en-control-y-automatizacion",
+      "nombre": "Ingeniería en Control y Automatización",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Ingeniero(a) en Control",
+      "modalidad": "Presencial",
+      "jornada": "Mixta",
+      "duracion": "179 créditos",
+      "creditos": "179 créditos",
+      "registroCalificado": "Resolución 015195 de 2019",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería en Control y Automatización.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-en-telecomunicaciones",
+      "nombre": "Ingeniería en Telecomunicaciones",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Ingeniero(a) en Telecomunicaciones",
+      "modalidad": "Presencial",
+      "jornada": "Mixta",
+      "duracion": "179 créditos",
+      "creditos": "179 créditos",
+      "registroCalificado": "Resolución 017202 de 2019",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería en Telecomunicaciones.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-en-telematica",
+      "nombre": "Ingeniería en Telemática",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Ingeniero(a) en Telemática",
+      "modalidad": "Presencial",
+      "jornada": "Mixta",
+      "duracion": "172 créditos",
+      "creditos": "172 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería en Telemática.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "ingenieria-mecanica",
+      "nombre": "Ingeniería Mecánica",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Ingeniero(a) Mecánico",
+      "modalidad": "Presencial",
+      "jornada": "Mixta",
+      "duracion": "160 créditos",
+      "creditos": "160 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la tecnología, el diseño de soluciones, el razonamiento lógico-matemático, la innovación, el trabajo con sistemas y la resolución de problemas aplicados.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará bases matemáticas, científicas, tecnológicas y de diseño para analizar, implementar y evaluar soluciones propias de Ingeniería Mecánica.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Diseño y gestión de proyectos",
+          "Desarrollo e implementación de soluciones tecnológicas",
+          "Consultoría técnica",
+          "Análisis, operación o mejora de sistemas"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "tecnologia-en-construcciones-civiles",
+      "nombre": "Tecnología en Construcciones Civiles",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Tecnólogo(a) en Construcciones Civiles",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "103 créditos",
+      "creditos": "103 créditos",
+      "registroCalificado": "Resolución 016916 de septiembre 20 de 2023",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la aplicación práctica de la tecnología, el trabajo técnico, la solución de problemas reales, los procesos productivos y el aprendizaje aplicado.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará competencias técnicas y aplicadas para intervenir procesos, sistemas, equipos o proyectos relacionados con Tecnología en Construcciones Civiles.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Operación y apoyo técnico especializado",
+          "Supervisión de procesos",
+          "Gestión de proyectos tecnológicos",
+          "Continuidad hacia ciclos profesionales cuando aplique"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "tecnologia-en-electricidad-de-media-y-baja-tension",
+      "nombre": "Tecnología en Electricidad de Media y Baja Tensión",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Tecnólogo en Electricidad de Media y Baja Tensión",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "104 créditos",
+      "creditos": "104 créditos",
+      "registroCalificado": "Resolución N° 13062 de julio 31 de 2023",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la aplicación práctica de la tecnología, el trabajo técnico, la solución de problemas reales, los procesos productivos y el aprendizaje aplicado.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará competencias técnicas y aplicadas para intervenir procesos, sistemas, equipos o proyectos relacionados con Tecnología en Electricidad de Media y Baja Tensión.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Operación y apoyo técnico especializado",
+          "Supervisión de procesos",
+          "Gestión de proyectos tecnológicos",
+          "Continuidad hacia ciclos profesionales cuando aplique"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "tecnologia-en-electronica-industrial",
+      "nombre": "Tecnología en Electrónica Industrial",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Tecnólogo(a) en Electrónica",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "107 créditos",
+      "creditos": "107 créditos",
+      "registroCalificado": "Resolución No. 011098 de 2020",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la aplicación práctica de la tecnología, el trabajo técnico, la solución de problemas reales, los procesos productivos y el aprendizaje aplicado.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará competencias técnicas y aplicadas para intervenir procesos, sistemas, equipos o proyectos relacionados con Tecnología en Electrónica Industrial.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Operación y apoyo técnico especializado",
+          "Supervisión de procesos",
+          "Gestión de proyectos tecnológicos",
+          "Continuidad hacia ciclos profesionales cuando aplique"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "tecnologia-en-gestion-de-la-produccion-industrial",
+      "nombre": "Tecnología en Gestión de la Producción Industrial",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Tecnólogo(a) en Gestión de la Producción Industrial",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "97 créditos",
+      "creditos": "97 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la aplicación práctica de la tecnología, el trabajo técnico, la solución de problemas reales, los procesos productivos y el aprendizaje aplicado.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará competencias técnicas y aplicadas para intervenir procesos, sistemas, equipos o proyectos relacionados con Tecnología en Gestión de la Producción Industrial.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Operación y apoyo técnico especializado",
+          "Supervisión de procesos",
+          "Gestión de proyectos tecnológicos",
+          "Continuidad hacia ciclos profesionales cuando aplique"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "tecnologia-en-mecanica-industrial",
+      "nombre": "Tecnología en Mecánica Industrial",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Tecnólogo(a) en Mecánica",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "106 créditos",
+      "creditos": "106 créditos",
+      "registroCalificado": "Información no disponible en la fuente consultada",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la aplicación práctica de la tecnología, el trabajo técnico, la solución de problemas reales, los procesos productivos y el aprendizaje aplicado.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará competencias técnicas y aplicadas para intervenir procesos, sistemas, equipos o proyectos relacionados con Tecnología en Mecánica Industrial.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Operación y apoyo técnico especializado",
+          "Supervisión de procesos",
+          "Gestión de proyectos tecnológicos",
+          "Continuidad hacia ciclos profesionales cuando aplique"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    },
+    {
+      "id": "tecnologia-en-sistematizacion-de-datos",
+      "nombre": "Tecnología en Sistematización de Datos",
+      "facultad": "Facultad Tecnológica",
+      "titulo": "Tecnólogo(a) en Sistematización de Datos",
+      "modalidad": "Presencial",
+      "jornada": "Diurna",
+      "duracion": "108 créditos",
+      "creditos": "108 créditos",
+      "registroCalificado": "Resolución 00115 de febrero 3 de 2023",
+      "sede": "Calle 68D Bis A Sur # 49F-70",
+      "perfilAspirante": {
+        "texto": "Persona con interés por la aplicación práctica de la tecnología, el trabajo técnico, la solución de problemas reales, los procesos productivos y el aprendizaje aplicado.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No se encontró como campo explícito homogéneo en la página de admisiones/directorio; redactado de forma prudente a partir del área del programa."
+      },
+      "queAprendera": {
+        "texto": "Durante el programa, el estudiante desarrollará competencias técnicas y aplicadas para intervenir procesos, sistemas, equipos o proyectos relacionados con Tecnología en Sistematización de Datos.",
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "Debe validarse con el plan de estudios o PEP específico antes de presentarlo como información oficial."
+      },
+      "posiblesCamposLaborales": {
+        "items": [
+          "Operación y apoyo técnico especializado",
+          "Supervisión de procesos",
+          "Gestión de proyectos tecnológicos",
+          "Continuidad hacia ciclos profesionales cuando aplique"
+        ],
+        "tipoFuente": "inferido_desde_area_programa",
+        "nota": "No presentar como campo laboral oficial si el programa no lo publica explícitamente."
+      },
+      "fuentes": {
+        "ofertaPregrado": "https://www.udistrital.edu.co/admisiones/index.php/oferta/pregrado",
+        "directorioInstitucional": "https://www.udistrital.edu.co/directorio",
+        "fechaConsulta": "2026-06-04"
+      },
+      "calidadDato": {
+        "datosBasicos": "oficial_udistrital_admisiones_y_directorio",
+        "perfilAspirante": "inferido_no_oficial",
+        "queAprendera": "inferido_no_oficial",
+        "posiblesCamposLaborales": "inferido_no_oficial"
+      },
+      "observaciones": "Validar perfil, resultados de aprendizaje y campos laborales con el PEP o página específica del programa antes de presentarlos como oficiales."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+
+
+--- Página 1 ---
+Universidad Distrital Francisco José de Caldas - Licenciatura en Biología - 146 Creditos
+MALLA CURRICULAR 1 SEMESTRE 2 SEMESTRE 3 SEMESTRE 4 SEMESTRE 5 SEMESTRE 6 SEMESTRE 7 SEMESTRE 8 SEMESTRE
+22533 Prácticas No Convencionales
+4288 - Educación en Tecnología 5054 Biofísica II 2006 Producción y Comprensión 5037 Educación Ambiental 22535 Geología Ambiental 22541 Evolución
+22513 Didáctica de la Biología
+de textos
+2 2 2 2 2 4 0 2 3 4 0 5 3 4 0 5
+3 4 0 5 2 3 0 3 3 4 0 5
+2 2 2 2
+22501 Matemáticas I 22507 Matemáticas II 22509 Modelos Explicativos 22508 Genética Molecular 22537 Educación para la Salud 22542 Trabajo de Grado II
+22521 Sistemática
+22512 Epistemología e Historia
+2 4 0 2 2 4 0 2 3 4 0 5 3 4 0 5 2 3 0 3
+3 4 0 5 5 0 0 9
+de la biología
+2 3 0 3
+22502 Química Inorgánica 22510 Zoología de Invertebrados 22522 Bioquímica 22526 Fisiología Animal 22530 Estadística 22538 Práctica Docente I
+22543 Práctica Docente II
+3 4 0 5 3 4 0 5 3 4 0 5 2 4 0 2
+3 4 0 5 5 1 5 9 5 1 5 9
+22517 Zoología de Vertebrados
+22503 Biología Celular 22511 Botánica I 3 4 0 5 22527 Fisiología Vegetal
+22523 Política Educativa 22531 Ecología 22540 Trabajo de Grado I
+l
+Materias obligatorias
+3 4 0 5 3 4 0 5 3 3 0 3 3 4 0 5
+3 3 0 3 3 0 0 9
+22518 Botánica II
+3 4 0 5
+22528 Proyecto de Investigación
+22504 Filosofía de la Educación 22515 Química Orgánica 22524 Etica Profesional 22532 Microbiología 22539 Proyecto de Investigación
+Formativa Interdisciplinar PIFI II
+Formativa Interdisciplinar PIFI III
+2 3 0 3 3 4 0 5 3 4 0 5
+3 3 0 3
+22519 Currículo y Evaluación
+4 1 4 7
+4 1 4 7
+3 4 0 5
+22505 Biofísica I 22516 Psicología del Aprendizaje 4235 Necesidades Educativas
+Especiales (NEES)
+2 4 0 2 2 3 0 3
+22520 Proyecto de Investigación
+2 2 2 2
+Formativa Interdisciplinar PIFI I
+22506 Contexto y Escuela
+4 1 4 7
+3 4 0 5
+22525 Electiva en Práctica
+Electiva I Electiva II Electiva III Electiva IV
+Pedagógica I
+Materias Electivas
+3 4 0 5 2 3 0 3 2 3 0 3 3 4 0 5
+2 3 0 3
+4 Cátedra Francisco José de 12 Cátedra Democracia y 4206 Cátedra de Contexto
+Segunda Lengua II Segunda Lengua III
+Caldas Ciudadanía
+1 2 0 1
+1 2 0 1 1 2 0 1 2 4 0 2 2 4 0 2
+Segunda Lengua
+Catedras
+Segunda Lengua I
+2 4 0 2
+Total 18 27 2 25 18 29 0 25 19 22 6 29 19 25 0 26 19 20 4 30 18 25 2 27 18 11 9 34 17 11 5 29
+Codigo y Nombre de la Asignatura
+Creditos HTD HTC HTA
+H.T.D.: Horas de trabajo directo
+H.T.C.: Horas de trabajo cooperativo
+H.T.A.: Horas de trabajo autonomo

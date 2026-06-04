@@ -1,0 +1,4383 @@
+[
+  {
+    "archivoPdf": "2016-3 resolución matemáticas_0.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\2016-3 resolución matemáticas_0.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/2016-3-resolucion-matematicas-0.txt",
+    "paginas": 4,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 76,
+    "caracteresTextoFinal": 7264,
+    "ocrAplicado": true,
+    "programaDetectado": "Matemáticas",
+    "facultadDetectada": "Facultad Facultad de Ciencias y Educación”",
+    "resolucion": "RESOLUCIÓN N* 073",
+    "fechaResolucion": "27 de noviembre de 2015",
+    "creditos": 140,
+    "duracion": "8 periodos académicos",
+    "periodosAcademicos": [
+      {
+        "periodo": "Primer periodo",
+        "asignaturas": [
+          {
+            "nombre": "Introducci al lculo",
+            "creditos": 1
+          },
+          {
+            "nombre": "Fundamentos de Matem ticas ss",
+            "creditos": 2
+          },
+          {
+            "nombre": "Matem ticas Discretas Le"
+          },
+          {
+            "nombre": "Segunda Lengua",
+            "creditos": 5
+          },
+          {
+            "nombre": "tedra Francisco José de Caldas",
+            "creditos": 1
+          }
+        ],
+        "totalCreditos": 9
+      },
+      {
+        "periodo": "Segundo periodo",
+        "asignaturas": [
+          {
+            "nombre": "lculo Diferencial bs xx",
+            "creditos": 2
+          },
+          {
+            "nombre": "Geometr Elemental Life"
+          },
+          {
+            "nombre": "Segunda lengua if",
+            "creditos": 2
+          },
+          {
+            "nombre": "de Fundamentaci",
+            "creditos": 2,
+            "naturaleza": "Electiva"
+          }
+        ],
+        "totalCreditos": 6
+      },
+      {
+        "periodo": "Tercer periodo",
+        "asignaturas": [
+          {
+            "nombre": "lculo Integral Lat ef"
+          },
+          {
+            "nombre": "Algebra Lineal Lst sf"
+          },
+          {
+            "nombre": "Lf sica fs"
+          },
+          {
+            "nombre": "de Fundamentaci II",
+            "creditos": 2,
+            "naturaleza": "Electiva"
+          }
+        ],
+        "totalCreditos": 2
+      },
+      {
+        "periodo": "Cuarto periodo",
+        "asignaturas": [
+          {
+            "nombre": "lculo Vectorial Let sx"
+          },
+          {
+            "nombre": "Teor de Conjuntos ilsji",
+            "creditos": 2
+          },
+          {
+            "nombre": "EcuacionesDiferenciales",
+            "creditos": 1
+          },
+          {
+            "nombre": "sica Matem tica"
+          }
+        ],
+        "totalCreditos": 3
+      },
+      {
+        "periodo": "Quinto periodo",
+        "asignaturas": [
+          {
+            "nombre": "An lisis Matem tico fsex fx",
+            "creditos": 1
+          },
+          {
+            "nombre": "Teor de Grupos ei"
+          },
+          {
+            "nombre": "Geometr de Superficies LL six"
+          },
+          {
+            "nombre": "Teor de Probabilidades",
+            "creditos": 7
+          }
+        ],
+        "totalCreditos": 8
+      },
+      {
+        "periodo": "Sexto periodo",
+        "asignaturas": [
+          {
+            "nombre": "An lisis Matem ico fax",
+            "creditos": 3
+          },
+          {
+            "nombre": "Anillos Campos Fifa fx"
+          },
+          {
+            "nombre": "Topolog sx xai",
+            "creditos": 7
+          },
+          {
+            "nombre": "FRANCISCO JOSÉ DE CALDAS"
+          },
+          {
+            "nombre": "todos Num ricos Computaci se fe",
+            "creditos": 1
+          }
+        ],
+        "totalCreditos": 11
+      },
+      {
+        "periodo": "Séptimo periodo",
+        "asignaturas": [
+          {
+            "nombre": "An lisis complejo CC",
+            "creditos": 1
+          },
+          {
+            "nombre": "Historia de la Matem tica Ss",
+            "creditos": 3
+          },
+          {
+            "nombre": "An lisis Vectorial se",
+            "creditos": 4
+          },
+          {
+            "nombre": "Trabajo degrado oe",
+            "creditos": 8
+          }
+        ],
+        "totalCreditos": 16
+      },
+      {
+        "periodo": "Octavo periodo",
+        "asignaturas": [
+          {
+            "nombre": "Trabajo de Grado",
+            "creditos": 5
+          },
+          {
+            "nombre": "en el Área de profundizaci PF se",
+            "naturaleza": "Electiva"
+          },
+          {
+            "nombre": "en el Área de trabajo de grado aja",
+            "creditos": 1,
+            "naturaleza": "Electiva"
+          },
+          {
+            "nombre": "Los siguientes espacios acad micos que corresponden las tedras obligatorias complementarias de"
+          },
+          {
+            "nombre": "flexibilidad del plan de estudios"
+          },
+          {
+            "nombre": "tedra de Democracia Ciudadan",
+            "creditos": 2
+          },
+          {
+            "nombre": "tedra de Contexto",
+            "creditos": 1
+          },
+          {
+            "nombre": "de Fundamentaci",
+            "creditos": 2,
+            "naturaleza": "Electiva"
+          },
+          {
+            "nombre": "Se proponen como Electivas de Fundamentaci Teor de sistemas de ecuaciones lineales",
+            "creditos": 3
+          },
+          {
+            "nombre": "Vectores Matrices Sucesiones Series num ricas Sucesiones Series de Funciones otras que"
+          },
+          {
+            "nombre": "complementen el plan de estudios"
+          },
+          {
+            "nombre": "estudiante elija libremente"
+          },
+          {
+            "nombre": "Las electivas en el Área de profundizaci en el Área de Trabajo de grado consideran que se pueden"
+          },
+          {
+            "nombre": "elegir en el área del An lisis en el área del Algebra en el área de la Geometr"
+          },
+          {
+            "nombre": "ART CULO - El Proyecto Curricular de Matem ticas debe informar al Ministerio de Educaci"
+          },
+          {
+            "nombre": "Nacional trav del SACES con la asesor de la Coordinaci General de pcia"
+          },
+          {
+            "nombre": "FRANCISCO JOSÉ DE CALDAS"
+          },
+          {
+            "nombre": "los planes de transici propuestos dem modificaciones seg lo establecido en la normatividad"
+          },
+          {
+            "nombre": "ART CULO - Los planes de estudio requieren de ciertos tiempos de estabilidad con el fin de tener",
+            "creditos": 3
+          },
+          {
+            "nombre": "herramientas lidas para realizar la evaluaci de los mismos en consecuencia no podr realizarse"
+          },
+          {
+            "nombre": "modificaciones al presente plan de estudios antes de que termine la primera cohorte con que se"
+          },
+          {
+            "nombre": "PAR GRAFO - Toda modificaci que se realice al plan de estudios cumplido el tiempo establecido"
+          },
+          {
+            "nombre": "pertinente las normas que le sean contrarias"
+          },
+          {
+            "nombre": "COMBN QUESE PUBLPIQUESE MPLASE"
+          },
+          {
+            "nombre": "Dada en fo los doce as del mes de julio de"
+          },
+          {
+            "nombre": "CARLOS JAVIEI IOSQUER REZ CAMILO ÁNDR BUSTOS PARRA"
+          },
+          {
+            "nombre": "PRESIDE SECI"
+          }
+        ],
+        "totalCreditos": 17
+      }
+    ],
+    "asignaturasDestacadas": [
+      "Introducci al lculo",
+      "Fundamentos de Matem ticas ss",
+      "Matem ticas Discretas Le",
+      "Segunda Lengua",
+      "tedra Francisco José de Caldas",
+      "lculo Diferencial bs xx",
+      "Geometr Elemental Life",
+      "Segunda lengua if",
+      "de Fundamentaci",
+      "lculo Integral Lat ef",
+      "Algebra Lineal Lst sf",
+      "Lf sica fs",
+      "de Fundamentaci II",
+      "lculo Vectorial Let sx",
+      "Teor de Conjuntos ilsji",
+      "EcuacionesDiferenciales"
+    ],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "2016-3 resolución matemáticas_0.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\2016-3 resolución matemáticas_0.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/2016-3-resolucion-matematicas-0.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 4,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "Algunos campos se infirieron desde asignaturas y están marcados como inferido_desde_malla."
+    ],
+    "camposInferidos": {
+      "perfilAspirante": {
+        "texto": "Persona con interés por lenguaje y comunicación, con disposición para estudiar asignaturas como Introducci al lculo, Fundamentos de Matem ticas ss, Matem ticas Discretas Le, Segunda Lengua.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Introducci al lculo",
+          "Fundamentos de Matem ticas ss",
+          "Matem ticas Discretas Le",
+          "Segunda Lengua",
+          "tedra Francisco José de Caldas",
+          "lculo Diferencial bs xx",
+          "Geometr Elemental Life",
+          "Segunda lengua if",
+          "de Fundamentaci",
+          "lculo Integral Lat ef"
+        ]
+      },
+      "queAprendera": {
+        "texto": "La malla sugiere formación en lenguaje y comunicación a partir de espacios académicos como Introducci al lculo, Fundamentos de Matem ticas ss, Matem ticas Discretas Le, Segunda Lengua, tedra Francisco José de Caldas, lculo Diferencial bs xx.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Introducci al lculo",
+          "Fundamentos de Matem ticas ss",
+          "Matem ticas Discretas Le",
+          "Segunda Lengua",
+          "tedra Francisco José de Caldas",
+          "lculo Diferencial bs xx",
+          "Geometr Elemental Life",
+          "Segunda lengua if",
+          "de Fundamentaci",
+          "lculo Integral Lat ef"
+        ]
+      },
+      "areasConocimiento": {
+        "valores": [
+          "Lenguaje y comunicación"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Introducci al lculo",
+          "Fundamentos de Matem ticas ss",
+          "Matem ticas Discretas Le",
+          "Segunda Lengua",
+          "tedra Francisco José de Caldas",
+          "lculo Diferencial bs xx",
+          "Geometr Elemental Life",
+          "Segunda lengua if",
+          "de Fundamentaci",
+          "lculo Integral Lat ef"
+        ]
+      },
+      "habilidadesRelacionadas": {
+        "valores": [
+          "Lectura crítica"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Introducci al lculo",
+          "Fundamentos de Matem ticas ss",
+          "Matem ticas Discretas Le",
+          "Segunda Lengua",
+          "tedra Francisco José de Caldas",
+          "lculo Diferencial bs xx",
+          "Geometr Elemental Life",
+          "Segunda lengua if",
+          "de Fundamentaci",
+          "lculo Integral Lat ef"
+        ]
+      },
+      "interesesRelacionados": {
+        "valores": [
+          "Comunicación"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Introducci al lculo",
+          "Fundamentos de Matem ticas ss",
+          "Matem ticas Discretas Le",
+          "Segunda Lengua",
+          "tedra Francisco José de Caldas",
+          "lculo Diferencial bs xx",
+          "Geometr Elemental Life",
+          "Segunda lengua if",
+          "de Fundamentaci",
+          "lculo Integral Lat ef"
+        ]
+      }
+    },
+    "asociacion": {
+      "programaId": "licenciatura-en-matematicas",
+      "programaNombre": "Licenciatura en Matemáticas",
+      "confianzaAsociacion": "alta",
+      "puntaje": 350,
+      "motivos": [
+        "La frase \"Proyecto Curricular de...\" coincide con \"licenciatura en matematicas\".",
+        "El nombre del archivo contiene \"matematicas\".",
+        "El texto extraído contiene \"matematicas\".",
+        "La frase \"Proyecto Curricular de...\" coincide con \"matematicas\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 350
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 215
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 140
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 60
+        },
+        {
+          "programaId": "ingenieria-de-sistemas",
+          "programaNombre": "Ingeniería de Sistemas",
+          "puntaje": 60
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "aretes plasticas.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\aretes plasticas.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/aretes-plasticas.txt",
+    "paginas": 12,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 28439,
+    "caracteresTextoFinal": 28439,
+    "ocrAplicado": false,
+    "programaDetectado": "Artes Plásticas y Visuales",
+    "facultadDetectada": "Facultad Facultad de Artes ASAB ”",
+    "resolucion": "RESOLUCIÓN N° 040",
+    "fechaResolucion": "11 de marzo de 2023",
+    "creditos": 160,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [
+      "rea de formación básica",
+      "rea de formación profesional"
+    ],
+    "fuenteMalla": {
+      "archivoPdf": "aretes plasticas.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\aretes plasticas.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/aretes-plasticas.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 12,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "artes-plasticas-y-visuales",
+      "programaNombre": "Artes Plásticas y Visuales",
+      "confianzaAsociacion": "alta",
+      "puntaje": 207,
+      "motivos": [
+        "El texto extraído contiene \"artes plasticas y visuales\".",
+        "La frase \"Proyecto Curricular de...\" coincide con \"artes plasticas y visuales\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "artes-plasticas-y-visuales",
+          "programaNombre": "Artes Plásticas y Visuales",
+          "puntaje": 207
+        },
+        {
+          "programaId": "ingenieria-electronica",
+          "programaNombre": "Ingeniería Electrónica",
+          "puntaje": 60
+        },
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 60
+        },
+        {
+          "programaId": "arte-danzario",
+          "programaNombre": "Arte Danzario",
+          "puntaje": 58
+        },
+        {
+          "programaId": "artes-escenicas",
+          "programaNombre": "Artes Escénicas",
+          "puntaje": 58
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "CATASTRAL.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\CATASTRAL.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/catastral.txt",
+    "paginas": 1,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 16,
+    "caracteresTextoFinal": 2390,
+    "ocrAplicado": true,
+    "facultadDetectada": "Facultad Facultad de Ingeniería",
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "CATASTRAL.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\CATASTRAL.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/catastral.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-catastral-y-geodesia",
+      "programaNombre": "Ingeniería Catastral y Geodesia",
+      "confianzaAsociacion": "alta",
+      "puntaje": 228,
+      "motivos": [
+        "El texto extraído contiene \"ingenieria catastral y geodesia\".",
+        "El texto extraído contiene \"catastral y geodesia\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-catastral-y-geodesia",
+          "programaNombre": "Ingeniería Catastral y Geodesia",
+          "puntaje": 228
+        },
+        {
+          "programaId": "ingenieria-de-sistemas",
+          "programaNombre": "Ingeniería de Sistemas",
+          "puntaje": 45
+        },
+        {
+          "programaId": "ingenieria-electrica",
+          "programaNombre": "Ingeniería Eléctrica",
+          "puntaje": 45
+        },
+        {
+          "programaId": "ingenieria-electronica",
+          "programaNombre": "Ingeniería Electrónica",
+          "puntaje": 45
+        },
+        {
+          "programaId": "ingenieria-industrial",
+          "programaNombre": "Ingeniería Industrial",
+          "puntaje": 45
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Espacios académicos LEMA.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Espacios académicos LEMA.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/espacios-academicos-lema.txt",
+    "paginas": 3,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 66,
+    "caracteresTextoFinal": 1322,
+    "ocrAplicado": true,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Espacios académicos LEMA.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Espacios académicos LEMA.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/espacios-academicos-lema.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 3,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-matematicas",
+      "programaNombre": "Licenciatura en Matemáticas",
+      "confianzaAsociacion": "alta",
+      "puntaje": 185,
+      "motivos": [
+        "El texto extraído contiene \"matematicas\".",
+        "El nombre del archivo contiene el alias \"lema\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 185
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "ingenieria-ambiental",
+          "programaNombre": "Ingeniería Ambiental",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-educacion-artistica",
+          "programaNombre": "Licenciatura en Educación Artística",
+          "puntaje": 13
+        },
+        {
+          "programaId": "licenciatura-en-educacion-infantil",
+          "programaNombre": "Licenciatura en Educación Infantil",
+          "puntaje": 13
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "fisica.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\fisica.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/fisica.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 3099,
+    "caracteresTextoFinal": 3099,
+    "ocrAplicado": false,
+    "creditos": 145,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "fisica.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\fisica.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/fisica.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos.",
+      "Asociación con programa en confianza baja; requiere revisión manual."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-fisica",
+      "programaNombre": "Licenciatura en Física",
+      "confianzaAsociacion": "baja",
+      "puntaje": 195,
+      "motivos": [
+        "El nombre del archivo contiene \"fisica\".",
+        "El texto extraído contiene \"fisica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 195
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 195
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "humanidas y lenguas.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\humanidas y lenguas.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/humanidas-y-lenguas.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 2663,
+    "caracteresTextoFinal": 2663,
+    "ocrAplicado": false,
+    "resolucion": "RESOLUCIÓN 089 DE AGOSTO 16 DE 2016 Consejo Acad. UD",
+    "fechaResolucion": "10 DE MARZO DE 2017",
+    "creditos": 154,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "humanidas y lenguas.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\humanidas y lenguas.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/humanidas-y-lenguas.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-humanidades-y-lengua-castellana",
+      "programaNombre": "Licenciatura en Humanidades y Lengua Castellana",
+      "confianzaAsociacion": "alta",
+      "puntaje": 177,
+      "motivos": [
+        "El texto extraído contiene \"licenciatura en humanidades y lengua castellana\".",
+        "El texto extraído contiene \"humanidades y lengua castellana\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-humanidades-y-lengua-castellana",
+          "programaNombre": "Licenciatura en Humanidades y Lengua Castellana",
+          "puntaje": 177
+        },
+        {
+          "programaId": "comunicacion-social-y-periodismo",
+          "programaNombre": "Comunicación Social y Periodismo",
+          "puntaje": 17
+        },
+        {
+          "programaId": "licenciatura-en-ciencias-sociales",
+          "programaNombre": "Licenciatura en Ciencias Sociales",
+          "puntaje": 13
+        },
+        {
+          "programaId": "licenciatura-en-educacion-artistica",
+          "programaNombre": "Licenciatura en Educación Artística",
+          "puntaje": 13
+        },
+        {
+          "programaId": "licenciatura-en-educacion-infantil",
+          "programaNombre": "Licenciatura en Educación Infantil",
+          "puntaje": 13
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "ingenieria ambiental.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\ingenieria ambiental.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/ingenieria-ambiental.txt",
+    "paginas": 2,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 36,
+    "caracteresTextoFinal": 4574,
+    "ocrAplicado": true,
+    "resolucion": "Resolución 021 del | de marzo de 2016 RUZ",
+    "creditos": 173,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "ingenieria ambiental.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\ingenieria ambiental.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/ingenieria-ambiental.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 2,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-ambiental",
+      "programaNombre": "Ingeniería Ambiental",
+      "confianzaAsociacion": "alta",
+      "puntaje": 330,
+      "motivos": [
+        "El nombre del archivo contiene \"ingenieria ambiental\".",
+        "El texto extraído contiene \"ingenieria ambiental\".",
+        "El nombre del archivo contiene \"ambiental\".",
+        "El texto extraído contiene \"ambiental\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-ambiental",
+          "programaNombre": "Ingeniería Ambiental",
+          "puntaje": 330
+        },
+        {
+          "programaId": "licenciatura-en-biologia",
+          "programaNombre": "Licenciatura en Biología",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "biologia",
+          "programaNombre": "Biología",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "ingenieria forestal.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\ingenieria forestal.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/ingenieria-forestal.txt",
+    "paginas": 2,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 36,
+    "caracteresTextoFinal": 4548,
+    "ocrAplicado": true,
+    "resolucion": "Resolución 068 del 14 de agoso de 2018",
+    "periodosAcademicos": [
+      {
+        "periodo": "Cuarto semestre",
+        "asignaturas": [
+          {
+            "nombre": "Datos Molecular en Biodiversidad"
+          }
+        ],
+        "totalCreditos": 9
+      }
+    ],
+    "asignaturasDestacadas": [
+      "Datos Molecular en Biodiversidad"
+    ],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "ingenieria forestal.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\ingenieria forestal.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/ingenieria-forestal.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 2,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-forestal",
+      "programaNombre": "Ingeniería Forestal",
+      "confianzaAsociacion": "alta",
+      "puntaje": 330,
+      "motivos": [
+        "El nombre del archivo contiene \"ingenieria forestal\".",
+        "El texto extraído contiene \"ingenieria forestal\".",
+        "El nombre del archivo contiene \"forestal\".",
+        "El texto extraído contiene \"forestal\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-forestal",
+          "programaNombre": "Ingeniería Forestal",
+          "puntaje": 330
+        },
+        {
+          "programaId": "licenciatura-en-biologia",
+          "programaNombre": "Licenciatura en Biología",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "biologia",
+          "programaNombre": "Biología",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "ingenieria sanitaria.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\ingenieria sanitaria.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/ingenieria-sanitaria.txt",
+    "paginas": 2,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 36,
+    "caracteresTextoFinal": 4213,
+    "ocrAplicado": true,
+    "resolucion": "Resolución 021 del 27 de enero de 2015 WZEEIE",
+    "fechaResolucion": "27 de enero de 2015",
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "ingenieria sanitaria.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\ingenieria sanitaria.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/ingenieria-sanitaria.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 2,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-sanitaria",
+      "programaNombre": "Ingeniería Sanitaria",
+      "confianzaAsociacion": "alta",
+      "puntaje": 330,
+      "motivos": [
+        "El nombre del archivo contiene \"ingenieria sanitaria\".",
+        "El texto extraído contiene \"ingenieria sanitaria\".",
+        "El nombre del archivo contiene \"sanitaria\".",
+        "El texto extraído contiene \"sanitaria\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-sanitaria",
+          "programaNombre": "Ingeniería Sanitaria",
+          "puntaje": 330
+        },
+        {
+          "programaId": "licenciatura-en-biologia",
+          "programaNombre": "Licenciatura en Biología",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "biologia",
+          "programaNombre": "Biología",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "ingenieria topografica.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\ingenieria topografica.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/ingenieria-topografica.txt",
+    "paginas": 2,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 4228,
+    "caracteresTextoFinal": 4228,
+    "ocrAplicado": false,
+    "fechaResolucion": "27 de mayo de 2020",
+    "creditos": 162,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "ingenieria topografica.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\ingenieria topografica.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/ingenieria-topografica.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 2,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-topografica",
+      "programaNombre": "Ingeniería Topográfica",
+      "confianzaAsociacion": "alta",
+      "puntaje": 330,
+      "motivos": [
+        "El nombre del archivo contiene \"ingenieria topografica\".",
+        "El texto extraído contiene \"ingenieria topografica\".",
+        "El nombre del archivo contiene \"topografica\".",
+        "El texto extraído contiene \"topografica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-topografica",
+          "programaNombre": "Ingeniería Topográfica",
+          "puntaje": 330
+        },
+        {
+          "programaId": "ingenieria-ambiental",
+          "programaNombre": "Ingeniería Ambiental",
+          "puntaje": 165
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "ingenieria-de-sistemas",
+          "programaNombre": "Ingeniería de Sistemas",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "levantamientos topogrficos.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\levantamientos topogrficos.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/levantamientos-topogrficos.txt",
+    "paginas": 2,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 36,
+    "caracteresTextoFinal": 3160,
+    "ocrAplicado": true,
+    "resolucion": "Resolución 049 del 13 de Junio de 2017",
+    "fechaResolucion": "13 de Junio de 2017",
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "levantamientos topogrficos.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\levantamientos topogrficos.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/levantamientos-topogrficos.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 2,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos.",
+      "Asociación con programa en confianza baja; requiere revisión manual."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-fisica",
+      "programaNombre": "Licenciatura en Física",
+      "confianzaAsociacion": "baja",
+      "puntaje": 95,
+      "motivos": [
+        "El texto extraído contiene \"fisica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "ingenieria-de-sistemas",
+          "programaNombre": "Ingeniería de Sistemas",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "licenciatura en fisica.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\licenciatura en fisica.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/licenciatura-en-fisica.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 3366,
+    "caracteresTextoFinal": 3366,
+    "ocrAplicado": false,
+    "creditos": 160,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "licenciatura en fisica.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\licenciatura en fisica.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/licenciatura-en-fisica.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-fisica",
+      "programaNombre": "Licenciatura en Física",
+      "confianzaAsociacion": "alta",
+      "puntaje": 330,
+      "motivos": [
+        "El nombre del archivo contiene \"licenciatura en fisica\".",
+        "El texto extraído contiene \"licenciatura en fisica\".",
+        "El nombre del archivo contiene \"fisica\".",
+        "El texto extraído contiene \"fisica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 330
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 195
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "ingenieria-mecanica-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería Mecánica (por ciclos propedéuticos)",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Malla Curricular licenciatura en biologia.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Malla Curricular licenciatura en biologia.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/malla-curricular-licenciatura-en-biologia.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 2427,
+    "caracteresTextoFinal": 2427,
+    "ocrAplicado": false,
+    "creditos": 146,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Malla Curricular licenciatura en biologia.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Malla Curricular licenciatura en biologia.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/malla-curricular-licenciatura-en-biologia.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-biologia",
+      "programaNombre": "Licenciatura en Biología",
+      "confianzaAsociacion": "alta",
+      "puntaje": 330,
+      "motivos": [
+        "El nombre del archivo contiene \"licenciatura en biologia\".",
+        "El texto extraído contiene \"licenciatura en biologia\".",
+        "El nombre del archivo contiene \"biologia\".",
+        "El texto extraído contiene \"biologia\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-biologia",
+          "programaNombre": "Licenciatura en Biología",
+          "puntaje": 330
+        },
+        {
+          "programaId": "biologia",
+          "programaNombre": "Biología",
+          "puntaje": 195
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "MALLAs CURRICULAR COMUNICACION SOCIAL.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\MALLAs CURRICULAR COMUNICACION SOCIAL.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/mallas-curricular-comunicacion-social.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 2344,
+    "caracteresTextoFinal": 2344,
+    "ocrAplicado": false,
+    "periodosAcademicos": [
+      {
+        "periodo": "Octavo semestre",
+        "asignaturas": [],
+        "totalCreditos": 18
+      }
+    ],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "MALLAs CURRICULAR COMUNICACION SOCIAL.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\MALLAs CURRICULAR COMUNICACION SOCIAL.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/mallas-curricular-comunicacion-social.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "comunicacion-social-y-periodismo",
+      "programaNombre": "Comunicación Social y Periodismo",
+      "confianzaAsociacion": "alta",
+      "puntaje": 118,
+      "motivos": [
+        "El texto extraído contiene \"comunicacion social y periodismo\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "comunicacion-social-y-periodismo",
+          "programaNombre": "Comunicación Social y Periodismo",
+          "puntaje": 118
+        },
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-humanidades-y-lengua-castellana",
+          "programaNombre": "Licenciatura en Humanidades y Lengua Castellana",
+          "puntaje": 17
+        },
+        {
+          "programaId": "tecnologia-en-gestion-de-la-produccion-industrial-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Gestión de la Producción Industrial (Por ciclos propedéuticos)",
+          "puntaje": 17
+        },
+        {
+          "programaId": "arte-danzario",
+          "programaNombre": "Arte Danzario",
+          "puntaje": 13
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "NUEVA MALLA 2020-3Deportiva.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\NUEVA MALLA 2020-3Deportiva.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/nueva-malla-2020-3deportiva.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 3185,
+    "caracteresTextoFinal": 3185,
+    "ocrAplicado": false,
+    "facultadDetectada": "Facultad FACULTAD DEL MEDIO AMBIENTE Y RECURSOS NATURALES",
+    "creditos": 144,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "NUEVA MALLA 2020-3Deportiva.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\NUEVA MALLA 2020-3Deportiva.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/nueva-malla-2020-3deportiva.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "administracion-deportiva",
+      "programaNombre": "Administración Deportiva",
+      "confianzaAsociacion": "alta",
+      "puntaje": 158,
+      "motivos": [
+        "El texto extraído contiene \"administracion deportiva\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "administracion-deportiva",
+          "programaNombre": "Administración Deportiva",
+          "puntaje": 158
+        },
+        {
+          "programaId": "ingenieria-de-sistemas",
+          "programaNombre": "Ingeniería de Sistemas",
+          "puntaje": 60
+        },
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 60
+        },
+        {
+          "programaId": "administracion-ambiental",
+          "programaNombre": "Administración Ambiental",
+          "puntaje": 58
+        },
+        {
+          "programaId": "tecnologia-en-gestion-ambiental-y-servicios-publicos",
+          "programaNombre": "Tecnología en Gestión Ambiental y Servicios Públicos",
+          "puntaje": 51
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "PE_TSA_imp.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PE_TSA_imp.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/pe-tsa-imp.txt",
+    "paginas": 2,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 36,
+    "caracteresTextoFinal": 3309,
+    "ocrAplicado": true,
+    "resolucion": "Resolución 071 del Y de Noviembre de 2011",
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "PE_TSA_imp.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PE_TSA_imp.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/pe-tsa-imp.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 2,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "tecnologia-en-saneamiento-ambiental",
+      "programaNombre": "Tecnología en Saneamiento Ambiental",
+      "confianzaAsociacion": "alta",
+      "puntaje": 275,
+      "motivos": [
+        "El texto extraído contiene \"saneamiento ambiental\".",
+        "El nombre del archivo contiene el alias \"tsa\".",
+        "El nombre del archivo contiene el alias \"pe tsa\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "tecnologia-en-saneamiento-ambiental",
+          "programaNombre": "Tecnología en Saneamiento Ambiental",
+          "puntaje": 275
+        },
+        {
+          "programaId": "licenciatura-en-biologia",
+          "programaNombre": "Licenciatura en Biología",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "biologia",
+          "programaNombre": "Biología",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "PENSUM ING INDUSTRIAL (SYLLABUS)_0.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PENSUM ING INDUSTRIAL (SYLLABUS)_0.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/pensum-ing-industrial-syllabus-0.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 532,
+    "caracteresTextoFinal": 532,
+    "ocrAplicado": false,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "PENSUM ING INDUSTRIAL (SYLLABUS)_0.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PENSUM ING INDUSTRIAL (SYLLABUS)_0.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/pensum-ing-industrial-syllabus-0.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-industrial",
+      "programaNombre": "Ingeniería Industrial",
+      "confianzaAsociacion": "alta",
+      "puntaje": 100,
+      "motivos": [
+        "El nombre del archivo contiene \"industrial\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-industrial",
+          "programaNombre": "Ingeniería Industrial",
+          "puntaje": 100
+        },
+        {
+          "programaId": "tecnologia-en-electronica-industrial-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Electrónica Industrial (Por ciclos propedéuticos)",
+          "puntaje": 18
+        },
+        {
+          "programaId": "tecnologia-en-mecanica-industrial-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Mecánica Industrial (Por ciclos propedéuticos)",
+          "puntaje": 18
+        },
+        {
+          "programaId": "tecnologia-en-gestion-de-la-produccion-industrial-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Gestión de la Producción Industrial (Por ciclos propedéuticos)",
+          "puntaje": 12
+        },
+        {
+          "programaId": "arte-danzario",
+          "programaNombre": "Arte Danzario",
+          "puntaje": 0
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Pensum_ing_electronica 2015-3.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Pensum_ing_electronica 2015-3.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/pensum-ing-electronica-2015-3.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 4640,
+    "caracteresTextoFinal": 4640,
+    "ocrAplicado": false,
+    "programaDetectado": "INGENIERÍA ELECTRÓNICA",
+    "facultadDetectada": "Facultad FACULTAD DE INGENIERÍA",
+    "creditos": 30,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Pensum_ing_electronica 2015-3.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Pensum_ing_electronica 2015-3.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/pensum-ing-electronica-2015-3.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-electronica",
+      "programaNombre": "Ingeniería Electrónica",
+      "confianzaAsociacion": "alta",
+      "puntaje": 420,
+      "motivos": [
+        "El texto extraído contiene \"ingenieria electronica\".",
+        "La frase \"Proyecto Curricular de...\" coincide con \"ingenieria electronica\".",
+        "El nombre del archivo contiene \"electronica\".",
+        "El texto extraído contiene \"electronica\".",
+        "La frase \"Proyecto Curricular de...\" coincide con \"electronica\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-electronica",
+          "programaNombre": "Ingeniería Electrónica",
+          "puntaje": 420
+        },
+        {
+          "programaId": "ingenieria-de-sistemas",
+          "programaNombre": "Ingeniería de Sistemas",
+          "puntaje": 140
+        },
+        {
+          "programaId": "ingenieria-industrial",
+          "programaNombre": "Ingeniería Industrial",
+          "puntaje": 140
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 60
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 60
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Plan de estudio Enfermería.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de estudio Enfermería.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudio-enfermeria.txt",
+    "paginas": 1,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 16,
+    "caracteresTextoFinal": 1112,
+    "ocrAplicado": true,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Plan de estudio Enfermería.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de estudio Enfermería.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudio-enfermeria.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se encontró información suficiente en la malla curricular disponible.",
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "enfermeria",
+      "programaNombre": "Enfermería",
+      "confianzaAsociacion": "alta",
+      "puntaje": 195,
+      "motivos": [
+        "El nombre del archivo contiene \"enfermeria\".",
+        "El texto extraído contiene \"enfermeria\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "enfermeria",
+          "programaNombre": "Enfermería",
+          "puntaje": 195
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "quimica",
+          "programaNombre": "Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 95
+        },
+        {
+          "programaId": "tecnologia-en-gestion-de-la-produccion-industrial-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Gestión de la Producción Industrial (Por ciclos propedéuticos)",
+          "puntaje": 8
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "PLAN DE ESTUDIO NUEVO 2018 AE-317-318_0.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PLAN DE ESTUDIO NUEVO 2018 AE-317-318_0.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudio-nuevo-2018-ae-317-318-0.txt",
+    "paginas": 4,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 6430,
+    "caracteresTextoFinal": 6430,
+    "ocrAplicado": false,
+    "facultadDetectada": "Facultad FACULTAD DE ARTES ASAB",
+    "resolucion": "Resolución 014 / 8 de Mayo de 2018. CA-UD",
+    "fechaResolucion": "8 de Mayo de 2018",
+    "creditos": 53,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "PLAN DE ESTUDIO NUEVO 2018 AE-317-318_0.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PLAN DE ESTUDIO NUEVO 2018 AE-317-318_0.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudio-nuevo-2018-ae-317-318-0.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 4,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "artes-escenicas",
+      "programaNombre": "Artes Escénicas",
+      "confianzaAsociacion": "alta",
+      "puntaje": 140,
+      "motivos": [
+        "El texto extraído contiene \"artes escenicas\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "artes-escenicas",
+          "programaNombre": "Artes Escénicas",
+          "puntaje": 140
+        },
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 60
+        },
+        {
+          "programaId": "arte-danzario",
+          "programaNombre": "Arte Danzario",
+          "puntaje": 58
+        },
+        {
+          "programaId": "artes-musicales",
+          "programaNombre": "Artes Musicales",
+          "puntaje": 58
+        },
+        {
+          "programaId": "artes-plasticas-y-visuales",
+          "programaNombre": "Artes Plásticas y Visuales",
+          "puntaje": 53
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "PLAN DE ESTUDIOS artes musicales.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PLAN DE ESTUDIOS artes musicales.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-artes-musicales.txt",
+    "paginas": 6,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 9188,
+    "caracteresTextoFinal": 9188,
+    "ocrAplicado": false,
+    "programaDetectado": "ARTES MUSICALES",
+    "facultadDetectada": "Facultad FACULTAD DE ARTES ASAB",
+    "resolucion": "Resolución No. 013644 del 10 de diciembre de 2019 MEN",
+    "fechaResolucion": "10 de diciembre de 2019",
+    "creditos": 55,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "PLAN DE ESTUDIOS artes musicales.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PLAN DE ESTUDIOS artes musicales.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-artes-musicales.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 6,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "artes-musicales",
+      "programaNombre": "Artes Musicales",
+      "confianzaAsociacion": "alta",
+      "puntaje": 295,
+      "motivos": [
+        "El nombre del archivo contiene \"artes musicales\".",
+        "El texto extraído contiene \"artes musicales\".",
+        "La frase \"Proyecto Curricular de...\" coincide con \"artes musicales\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "artes-musicales",
+          "programaNombre": "Artes Musicales",
+          "puntaje": 295
+        },
+        {
+          "programaId": "arte-danzario",
+          "programaNombre": "Arte Danzario",
+          "puntaje": 76
+        },
+        {
+          "programaId": "artes-escenicas",
+          "programaNombre": "Artes Escénicas",
+          "puntaje": 76
+        },
+        {
+          "programaId": "artes-plasticas-y-visuales",
+          "programaNombre": "Artes Plásticas y Visuales",
+          "puntaje": 65
+        },
+        {
+          "programaId": "ingenieria-de-sistemas",
+          "programaNombre": "Ingeniería de Sistemas",
+          "puntaje": 60
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Plan de Estudios LLEEI.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de Estudios LLEEI.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-lleei.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 4052,
+    "caracteresTextoFinal": 4052,
+    "ocrAplicado": false,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Plan de Estudios LLEEI.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de Estudios LLEEI.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-lleei.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-lenguas-extranjeras-con-enfasis-en-ingles",
+      "programaNombre": "Licenciatura en Lenguas Extranjeras con Énfasis en Inglés",
+      "confianzaAsociacion": "alta",
+      "puntaje": 165,
+      "motivos": [
+        "El texto extraído contiene \"licenciatura en lenguas extranjeras con enfasis en ingles\".",
+        "El texto extraído contiene \"lenguas extranjeras con enfasis en ingles\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-lenguas-extranjeras-con-enfasis-en-ingles",
+          "programaNombre": "Licenciatura en Lenguas Extranjeras con Énfasis en Inglés",
+          "puntaje": 165
+        },
+        {
+          "programaId": "licenciatura-en-educacion-artistica",
+          "programaNombre": "Licenciatura en Educación Artística",
+          "puntaje": 13
+        },
+        {
+          "programaId": "licenciatura-en-educacion-infantil",
+          "programaNombre": "Licenciatura en Educación Infantil",
+          "puntaje": 13
+        },
+        {
+          "programaId": "comunicacion-social-y-periodismo",
+          "programaNombre": "Comunicación Social y Periodismo",
+          "puntaje": 8
+        },
+        {
+          "programaId": "licenciatura-en-humanidades-y-lengua-castellana",
+          "programaNombre": "Licenciatura en Humanidades y Lengua Castellana",
+          "puntaje": 8
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Plan de estudios PAGID.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de estudios PAGID.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-pagid.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 4064,
+    "caracteresTextoFinal": 4064,
+    "ocrAplicado": false,
+    "creditos": 31,
+    "periodosAcademicos": [
+      {
+        "periodo": "Primer semestre",
+        "asignaturas": [
+          {
+            "nombre": "digo: digo: digo: digo: digo: digo: digo: digo:"
+          }
+        ],
+        "totalCreditos": 25
+      }
+    ],
+    "asignaturasDestacadas": [
+      "digo: digo: digo: digo: digo: digo: digo: digo:"
+    ],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Plan de estudios PAGID.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de estudios PAGID.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-pagid.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "archivistica-y-gestion-de-la-informacion-digital",
+      "programaNombre": "Archivística y Gestión de la Información Digital",
+      "confianzaAsociacion": "alta",
+      "puntaje": 115,
+      "motivos": [
+        "El nombre del archivo contiene el alias \"pagid\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "archivistica-y-gestion-de-la-informacion-digital",
+          "programaNombre": "Archivística y Gestión de la Información Digital",
+          "puntaje": 115
+        },
+        {
+          "programaId": "ingenieria-de-sistemas",
+          "programaNombre": "Ingeniería de Sistemas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 95
+        },
+        {
+          "programaId": "comunicacion-social-y-periodismo",
+          "programaNombre": "Comunicación Social y Periodismo",
+          "puntaje": 17
+        },
+        {
+          "programaId": "tecnologia-en-gestion-de-la-produccion-industrial-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Gestión de la Producción Industrial (Por ciclos propedéuticos)",
+          "puntaje": 17
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Plan de estudios por períodos académicos IP.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de estudios por períodos académicos IP.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-por-periodos-academicos-ip.txt",
+    "paginas": 6,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 9486,
+    "caracteresTextoFinal": 9486,
+    "ocrAplicado": false,
+    "fechaResolucion": "19 de diciembre de 2018",
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Plan de estudios por períodos académicos IP.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de estudios por períodos académicos IP.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-por-periodos-academicos-ip.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 6,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos.",
+      "Asociación con programa en confianza baja; requiere revisión manual."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+      "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+      "confianzaAsociacion": "baja",
+      "puntaje": 210,
+      "motivos": [
+        "El texto extraído contiene \"ingenieria de produccion\".",
+        "El texto extraído contiene \"produccion\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 210
+        },
+        {
+          "programaId": "tecnologia-en-gestion-de-la-produccion-industrial-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Gestión de la Producción Industrial (Por ciclos propedéuticos)",
+          "puntaje": 210
+        },
+        {
+          "programaId": "ingenieria-mecanica-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería Mecánica (por ciclos propedéuticos)",
+          "puntaje": 140
+        },
+        {
+          "programaId": "ingenieria-en-control-y-automatizacion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería en Control y Automatización (por ciclos propedéuticos)",
+          "puntaje": 70
+        },
+        {
+          "programaId": "tecnologia-en-mecanica-industrial-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Mecánica Industrial (Por ciclos propedéuticos)",
+          "puntaje": 70
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Plan de estudios Tec Sistematizacion de datosResolucion.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de estudios Tec Sistematizacion de datosResolucion.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-tec-sistematizacion-de-datosresolucion.txt",
+    "paginas": 4,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 7604,
+    "caracteresTextoFinal": 7604,
+    "ocrAplicado": false,
+    "programaDetectado": "Tecnología en Sistematización de datos es afin al programa de Ingeniería en",
+    "resolucion": "RESOLUCIÓN0058",
+    "fechaResolucion": "4 de octubre de 2011",
+    "creditos": 99,
+    "periodosAcademicos": [
+      {
+        "periodo": "Quinto semestre",
+        "asignaturas": [
+          {
+            "nombre": "Total Cr ditos Componente Proped utico Ingenier en Telem tica"
+          }
+        ],
+        "totalCreditos": 9
+      }
+    ],
+    "asignaturasDestacadas": [
+      "Total Cr ditos Componente Proped utico Ingenier en Telem tica"
+    ],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Plan de estudios Tec Sistematizacion de datosResolucion.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan de estudios Tec Sistematizacion de datosResolucion.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-tec-sistematizacion-de-datosresolucion.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 4,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "tecnologia-en-sistematizacion-de-datos-por-ciclos-propedeuticos",
+      "programaNombre": "Tecnología en Sistematización de Datos (Por ciclos propedéuticos)",
+      "confianzaAsociacion": "alta",
+      "puntaje": 420,
+      "motivos": [
+        "El texto extraído contiene \"tecnologia en sistematizacion de datos\".",
+        "La frase \"Proyecto Curricular de...\" coincide con \"tecnologia en sistematizacion de datos\".",
+        "El nombre del archivo contiene \"sistematizacion de datos\".",
+        "El texto extraído contiene \"sistematizacion de datos\".",
+        "La frase \"Proyecto Curricular de...\" coincide con \"sistematizacion de datos\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "tecnologia-en-sistematizacion-de-datos-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Sistematización de Datos (Por ciclos propedéuticos)",
+          "puntaje": 420
+        },
+        {
+          "programaId": "ingenieria-en-telematica-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería en Telemática (por ciclos propedéuticos)",
+          "puntaje": 210
+        },
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 140
+        },
+        {
+          "programaId": "ingenieria-mecanica-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería Mecánica (por ciclos propedéuticos)",
+          "puntaje": 140
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 60
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "PLAN DE ESTUDIOS_345_0.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PLAN DE ESTUDIOS_345_0.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-345-0.txt",
+    "paginas": 3,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 8019,
+    "caracteresTextoFinal": 8019,
+    "ocrAplicado": false,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "PLAN DE ESTUDIOS_345_0.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PLAN DE ESTUDIOS_345_0.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-estudios-345-0.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 3,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "administracion-ambiental",
+      "programaNombre": "Administración Ambiental",
+      "confianzaAsociacion": "alta",
+      "puntaje": 160,
+      "motivos": [
+        "El texto extraído contiene \"administracion ambiental\".",
+        "El texto contiene el alias \"administracion ambiental\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "administracion-ambiental",
+          "programaNombre": "Administración Ambiental",
+          "puntaje": 160
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "quimica",
+          "programaNombre": "Química",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "PLAN DE HOMOLOGACIÓN Y TRANSICIÓN educacion artistica.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PLAN DE HOMOLOGACIÓN Y TRANSICIÓN educacion artistica.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-homologacion-y-transicion-educacion-artistica.txt",
+    "paginas": 2,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 12007,
+    "caracteresTextoFinal": 12007,
+    "ocrAplicado": false,
+    "programaDetectado": "LEA",
+    "creditos": 188,
+    "duracion": "8 semestres",
+    "periodosAcademicos": [
+      {
+        "periodo": "Primer semestre",
+        "asignaturas": [
+          {
+            "nombre": "Matem ticas educaci art stica Matem ticas educaci art stica",
+            "creditos": 2
+          },
+          {
+            "nombre": "Cuerpo sensibilidad pensamiento para la educaci",
+            "creditos": 2,
+            "naturaleza": "básica"
+          },
+          {
+            "nombre": "Conciencia corporal pre danza juego para la escuela",
+            "creditos": 2
+          },
+          {
+            "nombre": "Pre danza juego corporal para la educaci",
+            "creditos": 2,
+            "naturaleza": "básica"
+          },
+          {
+            "nombre": "Gram tica visual en educaci art stica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Dibujo gram tica visual",
+            "creditos": 2
+          },
+          {
+            "nombre": "Dibujo",
+            "creditos": 2
+          },
+          {
+            "nombre": "Literatura espacios figurales lingüísticos Introducci la literatura",
+            "creditos": 2
+          },
+          {
+            "nombre": "Gram tica musical en educaci art stica",
+            "creditos": 3
+          },
+          {
+            "nombre": "Gram tica musical en educaci art stica II Gram tica musical en educaci art stica",
+            "creditos": 2
+          },
+          {
+            "nombre": "Gram tica musical en educaci art stica III",
+            "creditos": 3
+          },
+          {
+            "nombre": "Se homologa por de electivas extr nsecas vistas por el estudiante"
+          },
+          {
+            "nombre": "electivas de otras carreras"
+          }
+        ],
+        "totalCreditos": 26
+      },
+      {
+        "periodo": "Segundo semestre",
+        "asignaturas": [
+          {
+            "nombre": "Pedagog as de la construcci del personaje teatral",
+            "creditos": 3
+          },
+          {
+            "nombre": "Pedagog po ticas en la construcci del personaje teatral",
+            "creditos": 2
+          },
+          {
+            "nombre": "Po ticas actuaci esc nica",
+            "creditos": 3
+          },
+          {
+            "nombre": "De los medios pict ricos al color",
+            "creditos": 2
+          },
+          {
+            "nombre": "Medios materiales pict ricos",
+            "creditos": 2
+          },
+          {
+            "nombre": "Laboratorio Teor pr ctica en la educaci musical",
+            "creditos": 3
+          },
+          {
+            "nombre": "Lenguaje tmico en la educaci musical escolar",
+            "creditos": 2
+          },
+          {
+            "nombre": "Laboratorio Teor pr ctica en la educaci musical II",
+            "creditos": 2
+          },
+          {
+            "nombre": "Investigaciones en educaci art stica Enfoques curriculares en educaci art stica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Investigaci en did cticas de la sica Investigaci sistematizaci de experiencias en did cticas de la sica",
+            "creditos": 2
+          },
+          {
+            "nombre": "Nuevas herramientas en tecnolog aplicadas la sica en el ámbito"
+          },
+          {
+            "nombre": "Tecnolog as para la investigaci en educaci art stica",
+            "creditos": 2
+          }
+        ],
+        "totalCreditos": 27
+      },
+      {
+        "periodo": "Tercer semestre",
+        "asignaturas": [
+          {
+            "nombre": "Competencias cient ficas Competencias cient ficas",
+            "creditos": 2
+          },
+          {
+            "nombre": "Pedagog de la escenot cnia el montaje teatral",
+            "creditos": 4
+          },
+          {
+            "nombre": "Escritura montaje del teatro para la escuela",
+            "creditos": 2
+          },
+          {
+            "nombre": "Escritura montaje del teatro en la escuela",
+            "creditos": 2
+          },
+          {
+            "nombre": "Medios materiales escult ricos objetuales",
+            "creditos": 2
+          },
+          {
+            "nombre": "Producci montaje de espacios escenogr ficos expositivos",
+            "creditos": 3
+          },
+          {
+            "nombre": "Laboratorio Teor pr ctica en la educaci musical III Pr ctica coral en la educaci musical escolar",
+            "creditos": 2
+          },
+          {
+            "nombre": "Educaci art stica pedagog Enfoques metodol gicos en educaci art stica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Did cticas de las artes esc nicas Investigaci sistematizaci de experiencias en did cticas de las artes esc nicas",
+            "creditos": 2
+          }
+        ],
+        "totalCreditos": 23
+      },
+      {
+        "periodo": "Cuarto semestre",
+        "asignaturas": [
+          {
+            "nombre": "Creaci coreogr fica contempor nea para la educaci Pedagog en la creaci coreogr fica contempor nea",
+            "creditos": 2,
+            "naturaleza": "básica"
+          },
+          {
+            "nombre": "La fotograf en el contexto escolar",
+            "creditos": 4
+          },
+          {
+            "nombre": "Imagen movimiento en el ámbito escolar Fotograf imagen en movimiento",
+            "creditos": 2
+          },
+          {
+            "nombre": "Imagen nuevas tecnolog as",
+            "creditos": 4
+          },
+          {
+            "nombre": "Textos literarios redes",
+            "creditos": 4
+          },
+          {
+            "nombre": "Literatura latinoamericana",
+            "creditos": 2
+          },
+          {
+            "nombre": "Literatura historia",
+            "creditos": 3
+          },
+          {
+            "nombre": "Investigaci en educaci musical",
+            "creditos": 3
+          },
+          {
+            "nombre": "Investigaci en educaci musical II Pr ctica instrumental en la educaci musical escolar",
+            "creditos": 2
+          },
+          {
+            "nombre": "Creaci desde la perspectiva musical",
+            "creditos": 3
+          },
+          {
+            "nombre": "Procesos conscientes inconscientes en la producci del conocimiento"
+          },
+          {
+            "nombre": "Procesos cognitivos de ni os venes adultos",
+            "creditos": 4
+          },
+          {
+            "nombre": "art stico"
+          },
+          {
+            "nombre": "Se homologa por de electivas extr nsecas vistas por el estudiante"
+          },
+          {
+            "nombre": "electivas de otras carreras"
+          }
+        ],
+        "totalCreditos": 33
+      },
+      {
+        "periodo": "Quinto semestre",
+        "asignaturas": [
+          {
+            "nombre": "Tradici contemporaneidad de la danza folcl rica"
+          },
+          {
+            "nombre": "Pedagog montaje de la danza tradicional colombiana",
+            "creditos": 2
+          },
+          {
+            "nombre": "colombiana para la educaci",
+            "naturaleza": "básica"
+          },
+          {
+            "nombre": "Lenguajes de impresi planogr fica",
+            "creditos": 2
+          },
+          {
+            "nombre": "La gr fica sus lenguajes",
+            "creditos": 2
+          },
+          {
+            "nombre": "Lenguajes de impresi en relieve",
+            "creditos": 3
+          },
+          {
+            "nombre": "Literatura seminario de autor",
+            "creditos": 2
+          },
+          {
+            "nombre": "Seminario de autor",
+            "creditos": 2
+          },
+          {
+            "nombre": "Seminario de autor II",
+            "creditos": 3
+          },
+          {
+            "nombre": "Ensamble vocal instrumental en la escuela",
+            "creditos": 2
+          },
+          {
+            "nombre": "Ensamble vocal instrumental en la escuela II",
+            "creditos": 3
+          }
+        ],
+        "totalCreditos": 21
+      },
+      {
+        "periodo": "Sexto semestre",
+        "asignaturas": [
+          {
+            "nombre": "Contraperspectivas en literatura Literatura experimental",
+            "creditos": 2
+          },
+          {
+            "nombre": "Creaci desde la Perspectiva de la Educaci Musical Creaci desde la perspectiva de la educaci musical",
+            "creditos": 2
+          },
+          {
+            "nombre": "Seminario educaci teor gesti art stico cultural Educaci art stica gesti cultural",
+            "creditos": 2
+          },
+          {
+            "nombre": "Contextos de la educaci art stica educaci art stica en contextos no"
+          },
+          {
+            "nombre": "Pr ctica art stico pedag gica educaci art stica en contextos no escolares",
+            "creditos": 4
+          },
+          {
+            "nombre": "Se homologa por de electivas extr nsecas vistas por el estudiante"
+          },
+          {
+            "nombre": "electivas de otras carreras"
+          }
+        ],
+        "totalCreditos": 10
+      },
+      {
+        "periodo": "Séptimo semestre",
+        "asignaturas": [
+          {
+            "nombre": "Trabajo de grado"
+          },
+          {
+            "nombre": "Nota esta asignatura no se inscribe en el Sistema de Gesti Acad mica",
+            "creditos": 2
+          },
+          {
+            "nombre": "Nota esta asignatura no se inscribe en el Sistema de Gesti Acad mica ndor"
+          },
+          {
+            "nombre": "Investigaci en artes ásticas visuales su ense anza",
+            "creditos": 3
+          },
+          {
+            "nombre": "Seminario est ticas éticas de la imagen visual Seminario éticas est ticas de la imagen",
+            "creditos": 2
+          },
+          {
+            "nombre": "Seminario Historia de las artes ásticas visuales",
+            "creditos": 4
+          },
+          {
+            "nombre": "Bio tica arte educaci art stica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Bio tica educaci art stica",
+            "creditos": 2
+          },
+          {
+            "nombre": "Estudios sobre el entorno natural social",
+            "creditos": 1
+          },
+          {
+            "nombre": "El arte su relaci pedag gica con otras disciplinas Enfoques Evaluativos en Educaci Art stica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Se homologa por de electivas extr nsecas vistas por el estudiante"
+          },
+          {
+            "nombre": "electivas de otras carreras"
+          }
+        ],
+        "totalCreditos": 22
+      },
+      {
+        "periodo": "Octavo semestre",
+        "asignaturas": [
+          {
+            "nombre": "Trabajo de grado II"
+          },
+          {
+            "nombre": "Nota esta asignatura no se inscribe en el Sistema de Gesti Acad mica",
+            "creditos": 2
+          },
+          {
+            "nombre": "Nota esta asignatura no se inscribe en el Sistema de Gesti Acad mica ndor"
+          },
+          {
+            "nombre": "Creaci montaje de comparsa en la escuela Creaci montaje de comparsa en la escuela",
+            "creditos": 2
+          },
+          {
+            "nombre": "Contextos de la educaci art stica III Educaci art stica en la educaci"
+          },
+          {
+            "nombre": "Pr ctica art stico pedag gica educaci art stica juventud escuela",
+            "creditos": 4
+          },
+          {
+            "nombre": "Modernidad posmodernidad en arte implicaciones en educaci art stica Modernidad posmodernidad en arte educaci",
+            "creditos": 2
+          },
+          {
+            "nombre": "Se homologa por de electivas extr nsecas vistas por el estudiante"
+          },
+          {
+            "nombre": "electivas de otras carreras"
+          },
+          {
+            "nombre": "PR CTICAS ACAD MICAS LEA"
+          },
+          {
+            "nombre": "Contextos de la educaci art stica Educaci art stica en contextos no"
+          },
+          {
+            "nombre": "Pr ctica art stico pedag gica Educaci art stica en contextos no escolares",
+            "creditos": 4
+          },
+          {
+            "nombre": "Contextos de la educaci art stica III Educaci art stica en la educacion"
+          }
+        ],
+        "totalCreditos": 14
+      }
+    ],
+    "asignaturasDestacadas": [
+      "Matem ticas educaci art stica Matem ticas educaci art stica",
+      "Cuerpo sensibilidad pensamiento para la educaci",
+      "Conciencia corporal pre danza juego para la escuela",
+      "Pre danza juego corporal para la educaci",
+      "Gram tica visual en educaci art stica",
+      "Dibujo gram tica visual",
+      "Dibujo",
+      "Literatura espacios figurales lingüísticos Introducci la literatura",
+      "Gram tica musical en educaci art stica",
+      "Gram tica musical en educaci art stica II Gram tica musical en educaci art stica",
+      "Gram tica musical en educaci art stica III",
+      "Se homologa por de electivas extr nsecas vistas por el estudiante",
+      "electivas de otras carreras",
+      "Pedagog as de la construcci del personaje teatral",
+      "Pedagog po ticas en la construcci del personaje teatral",
+      "Po ticas actuaci esc nica"
+    ],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "PLAN DE HOMOLOGACIÓN Y TRANSICIÓN educacion artistica.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\PLAN DE HOMOLOGACIÓN Y TRANSICIÓN educacion artistica.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-de-homologacion-y-transicion-educacion-artistica.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 2,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "Algunos campos se infirieron desde asignaturas y están marcados como inferido_desde_malla."
+    ],
+    "camposInferidos": {
+      "perfilAspirante": {
+        "texto": "Persona con interés por lenguaje y comunicación, artes y creación, con disposición para estudiar asignaturas como Matem ticas educaci art stica Matem ticas educaci art stica, Cuerpo sensibilidad pensamiento para la educaci, Conciencia corporal pre danza juego para la escuela, Pre danza juego corporal para la educaci.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Matem ticas educaci art stica Matem ticas educaci art stica",
+          "Cuerpo sensibilidad pensamiento para la educaci",
+          "Conciencia corporal pre danza juego para la escuela",
+          "Pre danza juego corporal para la educaci",
+          "Gram tica visual en educaci art stica",
+          "Dibujo gram tica visual",
+          "Dibujo",
+          "Literatura espacios figurales lingüísticos Introducci la literatura",
+          "Gram tica musical en educaci art stica",
+          "Gram tica musical en educaci art stica II Gram tica musical en educaci art stica"
+        ]
+      },
+      "queAprendera": {
+        "texto": "La malla sugiere formación en lenguaje y comunicación, artes y creación a partir de espacios académicos como Matem ticas educaci art stica Matem ticas educaci art stica, Cuerpo sensibilidad pensamiento para la educaci, Conciencia corporal pre danza juego para la escuela, Pre danza juego corporal para la educaci, Gram tica visual en educaci art stica, Dibujo gram tica visual.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Matem ticas educaci art stica Matem ticas educaci art stica",
+          "Cuerpo sensibilidad pensamiento para la educaci",
+          "Conciencia corporal pre danza juego para la escuela",
+          "Pre danza juego corporal para la educaci",
+          "Gram tica visual en educaci art stica",
+          "Dibujo gram tica visual",
+          "Dibujo",
+          "Literatura espacios figurales lingüísticos Introducci la literatura",
+          "Gram tica musical en educaci art stica",
+          "Gram tica musical en educaci art stica II Gram tica musical en educaci art stica"
+        ]
+      },
+      "areasConocimiento": {
+        "valores": [
+          "Lenguaje y comunicación",
+          "Artes y creación"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Matem ticas educaci art stica Matem ticas educaci art stica",
+          "Cuerpo sensibilidad pensamiento para la educaci",
+          "Conciencia corporal pre danza juego para la escuela",
+          "Pre danza juego corporal para la educaci",
+          "Gram tica visual en educaci art stica",
+          "Dibujo gram tica visual",
+          "Dibujo",
+          "Literatura espacios figurales lingüísticos Introducci la literatura",
+          "Gram tica musical en educaci art stica",
+          "Gram tica musical en educaci art stica II Gram tica musical en educaci art stica"
+        ]
+      },
+      "habilidadesRelacionadas": {
+        "valores": [
+          "Lectura crítica",
+          "Creatividad"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Matem ticas educaci art stica Matem ticas educaci art stica",
+          "Cuerpo sensibilidad pensamiento para la educaci",
+          "Conciencia corporal pre danza juego para la escuela",
+          "Pre danza juego corporal para la educaci",
+          "Gram tica visual en educaci art stica",
+          "Dibujo gram tica visual",
+          "Dibujo",
+          "Literatura espacios figurales lingüísticos Introducci la literatura",
+          "Gram tica musical en educaci art stica",
+          "Gram tica musical en educaci art stica II Gram tica musical en educaci art stica"
+        ]
+      },
+      "interesesRelacionados": {
+        "valores": [
+          "Comunicación",
+          "Expresión artística"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Matem ticas educaci art stica Matem ticas educaci art stica",
+          "Cuerpo sensibilidad pensamiento para la educaci",
+          "Conciencia corporal pre danza juego para la escuela",
+          "Pre danza juego corporal para la educaci",
+          "Gram tica visual en educaci art stica",
+          "Dibujo gram tica visual",
+          "Dibujo",
+          "Literatura espacios figurales lingüísticos Introducci la literatura",
+          "Gram tica musical en educaci art stica",
+          "Gram tica musical en educaci art stica II Gram tica musical en educaci art stica"
+        ]
+      }
+    },
+    "asociacion": {
+      "programaId": "licenciatura-en-educacion-artistica",
+      "programaNombre": "Licenciatura en Educación Artística",
+      "confianzaAsociacion": "alta",
+      "puntaje": 195,
+      "motivos": [
+        "El nombre del archivo contiene \"educacion artistica\".",
+        "El texto extraído contiene \"educacion artistica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-educacion-artistica",
+          "programaNombre": "Licenciatura en Educación Artística",
+          "puntaje": 195
+        },
+        {
+          "programaId": "artes-escenicas",
+          "programaNombre": "Artes Escénicas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "artes-plasticas-y-visuales",
+          "programaNombre": "Artes Plásticas y Visuales",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Plan educacion infantil.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan educacion infantil.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-educacion-infantil.txt",
+    "paginas": 5,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 7676,
+    "caracteresTextoFinal": 7676,
+    "ocrAplicado": false,
+    "creditos": 153,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Plan educacion infantil.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan educacion infantil.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-educacion-infantil.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 5,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-educacion-infantil",
+      "programaNombre": "Licenciatura en Educación Infantil",
+      "confianzaAsociacion": "alta",
+      "puntaje": 265,
+      "motivos": [
+        "El texto extraído contiene \"licenciatura en educacion infantil\".",
+        "El nombre del archivo contiene \"educacion infantil\".",
+        "El texto extraído contiene \"educacion infantil\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-educacion-infantil",
+          "programaNombre": "Licenciatura en Educación Infantil",
+          "puntaje": 265
+        },
+        {
+          "programaId": "licenciatura-en-educacion-artistica",
+          "programaNombre": "Licenciatura en Educación Artística",
+          "puntaje": 113
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Plan Estudios Gráfico Ing_Control.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan Estudios Gráfico Ing_Control.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-estudios-grafico-ing-control.txt",
+    "paginas": 1,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 16,
+    "caracteresTextoFinal": 1382,
+    "ocrAplicado": true,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Plan Estudios Gráfico Ing_Control.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan Estudios Gráfico Ing_Control.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-estudios-grafico-ing-control.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se encontró información suficiente en la malla curricular disponible.",
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-en-control-y-automatizacion-por-ciclos-propedeuticos",
+      "programaNombre": "Ingeniería en Control y Automatización (por ciclos propedéuticos)",
+      "confianzaAsociacion": "alta",
+      "puntaje": 183,
+      "motivos": [
+        "El texto extraído contiene \"ingenieria en control y automatizacion\".",
+        "El texto extraído contiene \"control y automatizacion\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-en-control-y-automatizacion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería en Control y Automatización (por ciclos propedéuticos)",
+          "puntaje": 183
+        },
+        {
+          "programaId": "arte-danzario",
+          "programaNombre": "Arte Danzario",
+          "puntaje": 0
+        },
+        {
+          "programaId": "artes-escenicas",
+          "programaNombre": "Artes Escénicas",
+          "puntaje": 0
+        },
+        {
+          "programaId": "artes-musicales",
+          "programaNombre": "Artes Musicales",
+          "puntaje": 0
+        },
+        {
+          "programaId": "artes-plasticas-y-visuales",
+          "programaNombre": "Artes Plásticas y Visuales",
+          "puntaje": 0
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Plan Estudios sociales.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan Estudios sociales.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-estudios-sociales.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 5673,
+    "caracteresTextoFinal": 5673,
+    "ocrAplicado": false,
+    "fechaResolucion": "junio 9 de 2017",
+    "creditos": 45,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Plan Estudios sociales.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan Estudios sociales.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-estudios-sociales.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-ciencias-sociales",
+      "programaNombre": "Licenciatura en Ciencias Sociales",
+      "confianzaAsociacion": "alta",
+      "puntaje": 228,
+      "motivos": [
+        "El texto extraído contiene \"licenciatura en ciencias sociales\".",
+        "El texto extraído contiene \"ciencias sociales\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-ciencias-sociales",
+          "programaNombre": "Licenciatura en Ciencias Sociales",
+          "puntaje": 228
+        },
+        {
+          "programaId": "comunicacion-social-y-periodismo",
+          "programaNombre": "Comunicación Social y Periodismo",
+          "puntaje": 65
+        },
+        {
+          "programaId": "ingenieria-ambiental",
+          "programaNombre": "Ingeniería Ambiental",
+          "puntaje": 60
+        },
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 60
+        },
+        {
+          "programaId": "licenciatura-en-educacion-artistica",
+          "programaNombre": "Licenciatura en Educación Artística",
+          "puntaje": 58
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Plan_Mecanica_UD_0.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan_Mecanica_UD_0.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-mecanica-ud-0.txt",
+    "paginas": 16,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 2727,
+    "caracteresTextoFinal": 2727,
+    "ocrAplicado": false,
+    "creditos": 160,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Plan_Mecanica_UD_0.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Plan_Mecanica_UD_0.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/plan-mecanica-ud-0.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 16,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-mecanica-por-ciclos-propedeuticos",
+      "programaNombre": "Ingeniería Mecánica (por ciclos propedéuticos)",
+      "confianzaAsociacion": "alta",
+      "puntaje": 195,
+      "motivos": [
+        "El nombre del archivo contiene \"mecanica\".",
+        "El texto extraído contiene \"mecanica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-mecanica-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería Mecánica (por ciclos propedéuticos)",
+          "puntaje": 195
+        },
+        {
+          "programaId": "tecnologia-en-mecanica-industrial-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Mecánica Industrial (Por ciclos propedéuticos)",
+          "puntaje": 113
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "ingenieria-de-sistemas",
+          "programaNombre": "Ingeniería de Sistemas",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "planEstudiosVersiónGráfica.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\planEstudiosVersiónGráfica.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/planestudiosversiongrafica.txt",
+    "paginas": 6,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 8064,
+    "caracteresTextoFinal": 8064,
+    "ocrAplicado": false,
+    "creditos": 172,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "planEstudiosVersiónGráfica.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\planEstudiosVersiónGráfica.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/planestudiosversiongrafica.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 6,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-en-telematica-por-ciclos-propedeuticos",
+      "programaNombre": "Ingeniería en Telemática (por ciclos propedéuticos)",
+      "confianzaAsociacion": "alta",
+      "puntaje": 235,
+      "motivos": [
+        "El texto extraído contiene \"ingenieria en telematica\".",
+        "El texto extraído contiene \"telematica\".",
+        "El texto extraído contiene \"ingenieria en telematica por ciclos propedeuticos\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-en-telematica-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería en Telemática (por ciclos propedéuticos)",
+          "puntaje": 235
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "QUIMICA.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\QUIMICA.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/quimica.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 3149,
+    "caracteresTextoFinal": 3149,
+    "ocrAplicado": false,
+    "programaDetectado": "química",
+    "facultadDetectada": "Facultad facultad de ciencias matemáticas y naturales",
+    "creditos": 145,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "QUIMICA.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\QUIMICA.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/quimica.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "quimica",
+      "programaNombre": "Química",
+      "confianzaAsociacion": "alta",
+      "puntaje": 295,
+      "motivos": [
+        "El nombre del archivo contiene \"quimica\".",
+        "El texto extraído contiene \"quimica\".",
+        "La frase \"Proyecto Curricular de...\" coincide con \"quimica\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "quimica",
+          "programaNombre": "Química",
+          "puntaje": 295
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 270
+        },
+        {
+          "programaId": "biologia",
+          "programaNombre": "Biología",
+          "puntaje": 140
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 140
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 140
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "res_2015-206_ing.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\res_2015-206_ing.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/res-2015-206-ing.txt",
+    "paginas": 4,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 2698,
+    "caracteresTextoFinal": 2698,
+    "ocrAplicado": false,
+    "programaDetectado": "Tecnología en Sistemas",
+    "facultadDetectada": "Facultad Facultad de la Facultad Tecnológica",
+    "resolucion": "RESOLUCIÓN No 206",
+    "fechaResolucion": "29 de Octubre de 2015",
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "res_2015-206_ing.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\res_2015-206_ing.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/res-2015-206-ing.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 4,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-electrica-por-ciclos-propedeuticos",
+      "programaNombre": "Ingeniería Eléctrica (Por ciclos propedéuticos)",
+      "confianzaAsociacion": "alta",
+      "puntaje": 280,
+      "motivos": [
+        "El texto extraído contiene \"ingenieria electrica\".",
+        "El texto extraído contiene \"electrica\".",
+        "El texto extraído contiene \"ingenieria electrica por ciclos propedeuticos\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-electrica-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería Eléctrica (Por ciclos propedéuticos)",
+          "puntaje": 280
+        },
+        {
+          "programaId": "ingenieria-electrica",
+          "programaNombre": "Ingeniería Eléctrica",
+          "puntaje": 130
+        },
+        {
+          "programaId": "ingenieria-de-sistemas",
+          "programaNombre": "Ingeniería de Sistemas",
+          "puntaje": 115
+        },
+        {
+          "programaId": "tecnologia-en-electricidad-de-media-y-baja-tension-por-ciclos-propedeuticos",
+          "programaNombre": "Tecnología en Electricidad de Media y Baja Tensión (por ciclos propedéuticos)",
+          "puntaje": 70
+        },
+        {
+          "programaId": "ingenieria-civil-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería Civil (por ciclos propedéuticos)",
+          "puntaje": 45
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "res_2018-083.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\res_2018-083.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/res-2018-083.txt",
+    "paginas": 11,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 17917,
+    "caracteresTextoFinal": 17917,
+    "ocrAplicado": false,
+    "programaDetectado": "Ingeniería en",
+    "facultadDetectada": "Facultad Facultad de la Facultad Tecnológica",
+    "resolucion": "RESOLUCIÓN No. 083",
+    "fechaResolucion": "8 de abril de 1997",
+    "creditos": 179,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "res_2018-083.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\res_2018-083.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/res-2018-083.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 11,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "ingenieria-en-telecomunicaciones-por-ciclos-propedeuticos",
+      "programaNombre": "Ingeniería en Telecomunicaciones (por ciclos propedéuticos)",
+      "confianzaAsociacion": "alta",
+      "puntaje": 390,
+      "motivos": [
+        "El texto extraído contiene \"ingenieria en telecomunicaciones\".",
+        "La frase \"Proyecto Curricular de...\" coincide con \"ingenieria en telecomunicaciones\".",
+        "El texto extraído contiene \"telecomunicaciones\".",
+        "El texto extraído contiene \"ingenieria en telecomunicaciones por ciclos propedeuticos\".",
+        "La frase \"Proyecto Curricular de...\" coincide con \"ingenieria en telecomunicaciones por ciclos propedeuticos\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "ingenieria-en-telecomunicaciones-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería en Telecomunicaciones (por ciclos propedéuticos)",
+          "puntaje": 390
+        },
+        {
+          "programaId": "ingenieria-en-control-y-automatizacion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería en Control y Automatización (por ciclos propedéuticos)",
+          "puntaje": 320
+        },
+        {
+          "programaId": "ingenieria-en-telematica-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería en Telemática (por ciclos propedéuticos)",
+          "puntaje": 155
+        },
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 140
+        },
+        {
+          "programaId": "ingenieria-electrica-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería Eléctrica (Por ciclos propedéuticos)",
+          "puntaje": 140
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "res_2020-057 aprobacion plan estudios.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\res_2020-057 aprobacion plan estudios.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/res-2020-057-aprobacion-plan-estudios.txt",
+    "paginas": 6,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 12713,
+    "caracteresTextoFinal": 12713,
+    "ocrAplicado": false,
+    "facultadDetectada": "Facultad Facultad de Ciencias y Educació n”",
+    "resolucion": "RESOLUCION N° 057",
+    "fechaResolucion": "8 de abril de 1997",
+    "creditos": 144,
+    "duracion": "8 semestres",
+    "periodosAcademicos": [
+      {
+        "periodo": "Segundo periodo",
+        "asignaturas": [
+          {
+            "nombre": "é rito de lo expuesto esta corporaci colegiada"
+          },
+          {
+            "nombre": "Biolog Celular",
+            "creditos": 4
+          },
+          {
+            "nombre": "Biof sica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Qu mica General",
+            "creditos": 4
+          },
+          {
+            "nombre": "Algebra Trigonometr",
+            "creditos": 3
+          },
+          {
+            "nombre": "Geolog",
+            "creditos": 3
+          },
+          {
+            "nombre": "Redacci Cient fica",
+            "creditos": 3
+          },
+          {
+            "nombre": "tedra Francisco José de Caldas",
+            "creditos": 1
+          },
+          {
+            "nombre": "Bio tica",
+            "creditos": 3
+          },
+          {
+            "nombre": "Zoolog de Invertebrados",
+            "creditos": 4
+          },
+          {
+            "nombre": "Agosto de"
+          },
+          {
+            "nombre": "Bot nica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Qu mica Org nica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Biof sica II",
+            "creditos": 4
+          },
+          {
+            "nombre": "tedra Democracia Ciudadan",
+            "creditos": 1
+          },
+          {
+            "nombre": "Zoolog de Vertebrados",
+            "creditos": 4
+          },
+          {
+            "nombre": "Bot nica II",
+            "creditos": 4
+          },
+          {
+            "nombre": "Bioqu mica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Ecuaciones diferenciales",
+            "creditos": 3
+          },
+          {
+            "nombre": "Énfasis",
+            "creditos": 6
+          },
+          {
+            "nombre": "Segunda Lengua",
+            "creditos": 2
+          },
+          {
+            "nombre": "tedra de Contexto",
+            "creditos": 1
+          },
+          {
+            "nombre": "Fisiolog Animal",
+            "creditos": 4
+          },
+          {
+            "nombre": "Fisiolog Vegetal",
+            "creditos": 4
+          },
+          {
+            "nombre": "An lisis Qu mico",
+            "creditos": 3
+          },
+          {
+            "nombre": "Énfasis II",
+            "creditos": 6
+          },
+          {
+            "nombre": "Segunda Lengua II",
+            "creditos": 2
+          },
+          {
+            "nombre": "Biolog del desarrollo",
+            "creditos": 4
+          },
+          {
+            "nombre": "Microbiolog",
+            "creditos": 4
+          },
+          {
+            "nombre": "Gen tica",
+            "creditos": 4
+          },
+          {
+            "nombre": "Énfasis III",
+            "creditos": 6
+          },
+          {
+            "nombre": "Segunda Lengua III",
+            "creditos": 2
+          },
+          {
+            "nombre": "Ecolog",
+            "creditos": 4
+          },
+          {
+            "nombre": "Biolog Molecular",
+            "creditos": 4
+          },
+          {
+            "nombre": "Bioestad stica",
+            "creditos": 3
+          },
+          {
+            "nombre": "Énfasis IV",
+            "creditos": 6
+          },
+          {
+            "nombre": "Pr ctica Integrada",
+            "creditos": 3
+          },
+          {
+            "nombre": "Trabajo de Grado",
+            "creditos": 3
+          },
+          {
+            "nombre": "Dise Experimental",
+            "creditos": 4
+          },
+          {
+            "nombre": "Énfasis VI",
+            "creditos": 6
+          },
+          {
+            "nombre": "Trabajo de Grado II",
+            "creditos": 6
+          },
+          {
+            "nombre": "Evoluci",
+            "creditos": 3
+          },
+          {
+            "nombre": "Legislaci Gesti Ambiental",
+            "creditos": 4
+          },
+          {
+            "nombre": "Pr ctica Integrada II",
+            "creditos": 3
+          },
+          {
+            "nombre": "Emp -Gest Emp",
+            "creditos": 3
+          },
+          {
+            "nombre": "Educaci Ambiental",
+            "creditos": 4
+          },
+          {
+            "nombre": "MERO DE POR ESPACIO"
+          },
+          {
+            "nombre": "ACAD MICO"
+          },
+          {
+            "nombre": "ART CULO º - Todos los planes de estudio requieren de cierto tiempo de estabilidad con",
+            "creditos": 2
+          },
+          {
+            "nombre": "el fin de tener herramientas lidas para su evaluaci Cualquier modificaci al plan de"
+          },
+          {
+            "nombre": "estudios deberá ser resultado de un proceso de autoevaluaci tendrá en cuenta los"
+          },
+          {
+            "nombre": "resultados obtenidos por los egresados de su primera cohorte"
+          },
+          {
+            "nombre": "Par grafo Primero Toda modificaci que se realice al presente plan de estudios tendrá"
+          },
+          {
+            "nombre": "Par grafo Segundo En casos excepcionales mediado por un proceso de autoevaluaci el"
+          },
+          {
+            "nombre": "ser informadas por el Proyecto Curricular al Ministerio de Educaci Nacional con la"
+          },
+          {
+            "nombre": "asesor de la Coordinaci General de Autoevaluaci Acreditaci destacando la"
+          },
+          {
+            "nombre": "homologaciones en concordancia con las normas existentes"
+          },
+          {
+            "nombre": "acciones necesarias para incorporar en el Sistema de Gesti Acad mica el contenido de la"
+          },
+          {
+            "nombre": "en lo pertinente las normas que le sean contrarias"
+          },
+          {
+            "nombre": "COMUN QUESE PUBL QUESE MPLASE"
+          },
+          {
+            "nombre": "Dada en Bogotá los veinticinco as del mes de agosto de"
+          },
+          {
+            "nombre": "RICARDO GARC DUARTE CAMILO ANDR BUSTOS PARRA"
+          },
+          {
+            "nombre": "Presidente Secretario"
+          },
+          {
+            "nombre": "Nombre Cargo Firma"
+          },
+          {
+            "nombre": "Proyectó Mireya Guevara Medina Asesora Vicerrector Acad mica"
+          },
+          {
+            "nombre": "Coordinadora General de Autoevaluaci"
+          },
+          {
+            "nombre": "Revisó aprobó Esperanza del Pilar Infante Luna"
+          },
+          {
+            "nombre": "Revisó aprobó William Fernando Castrill Cardona Vicerrector Acad mico"
+          }
+        ],
+        "totalCreditos": 163
+      }
+    ],
+    "asignaturasDestacadas": [
+      "é rito de lo expuesto esta corporaci colegiada",
+      "Biolog Celular",
+      "Biof sica",
+      "Qu mica General",
+      "Algebra Trigonometr",
+      "Geolog",
+      "Redacci Cient fica",
+      "tedra Francisco José de Caldas",
+      "Bio tica",
+      "Zoolog de Invertebrados",
+      "Agosto de",
+      "Bot nica",
+      "Qu mica Org nica",
+      "Biof sica II",
+      "tedra Democracia Ciudadan",
+      "Zoolog de Vertebrados"
+    ],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "res_2020-057 aprobacion plan estudios.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\res_2020-057 aprobacion plan estudios.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/res-2020-057-aprobacion-plan-estudios.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 6,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "Asociación con programa en confianza baja; requiere revisión manual.",
+      "Algunos campos se infirieron desde asignaturas y están marcados como inferido_desde_malla."
+    ],
+    "camposInferidos": {
+      "perfilAspirante": {
+        "texto": "Persona con interés por matemáticas, ciencias naturales, con disposición para estudiar asignaturas como é rito de lo expuesto esta corporaci colegiada, Biolog Celular, Biof sica, Qu mica General.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "é rito de lo expuesto esta corporaci colegiada",
+          "Biolog Celular",
+          "Biof sica",
+          "Qu mica General",
+          "Algebra Trigonometr",
+          "Geolog",
+          "Redacci Cient fica",
+          "tedra Francisco José de Caldas",
+          "Bio tica",
+          "Zoolog de Invertebrados"
+        ]
+      },
+      "queAprendera": {
+        "texto": "La malla sugiere formación en matemáticas, ciencias naturales a partir de espacios académicos como é rito de lo expuesto esta corporaci colegiada, Biolog Celular, Biof sica, Qu mica General, Algebra Trigonometr, Geolog.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "é rito de lo expuesto esta corporaci colegiada",
+          "Biolog Celular",
+          "Biof sica",
+          "Qu mica General",
+          "Algebra Trigonometr",
+          "Geolog",
+          "Redacci Cient fica",
+          "tedra Francisco José de Caldas",
+          "Bio tica",
+          "Zoolog de Invertebrados"
+        ]
+      },
+      "areasConocimiento": {
+        "valores": [
+          "Matemáticas",
+          "Ciencias naturales"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "é rito de lo expuesto esta corporaci colegiada",
+          "Biolog Celular",
+          "Biof sica",
+          "Qu mica General",
+          "Algebra Trigonometr",
+          "Geolog",
+          "Redacci Cient fica",
+          "tedra Francisco José de Caldas",
+          "Bio tica",
+          "Zoolog de Invertebrados"
+        ]
+      },
+      "habilidadesRelacionadas": {
+        "valores": [
+          "Razonamiento lógico",
+          "Observación científica"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "é rito de lo expuesto esta corporaci colegiada",
+          "Biolog Celular",
+          "Biof sica",
+          "Qu mica General",
+          "Algebra Trigonometr",
+          "Geolog",
+          "Redacci Cient fica",
+          "tedra Francisco José de Caldas",
+          "Bio tica",
+          "Zoolog de Invertebrados"
+        ]
+      },
+      "interesesRelacionados": {
+        "valores": [
+          "Resolución de problemas",
+          "Investigación"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "é rito de lo expuesto esta corporaci colegiada",
+          "Biolog Celular",
+          "Biof sica",
+          "Qu mica General",
+          "Algebra Trigonometr",
+          "Geolog",
+          "Redacci Cient fica",
+          "tedra Francisco José de Caldas",
+          "Bio tica",
+          "Zoolog de Invertebrados"
+        ]
+      }
+    },
+    "asociacion": {
+      "programaId": "licenciatura-en-biologia",
+      "programaNombre": "Licenciatura en Biología",
+      "confianzaAsociacion": "baja",
+      "puntaje": 140,
+      "motivos": [
+        "El texto extraído contiene \"biologia\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-biologia",
+          "programaNombre": "Licenciatura en Biología",
+          "puntaje": 140
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 140
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 140
+        },
+        {
+          "programaId": "biologia",
+          "programaNombre": "Biología",
+          "puntaje": 60
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 60
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "res_2025-028.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\res_2025-028.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/res-2025-028.txt",
+    "paginas": 16,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 30114,
+    "caracteresTextoFinal": 30114,
+    "ocrAplicado": false,
+    "programaDetectado": "Arte Danzario",
+    "facultadDetectada": "Facultad Facultad de Artes ASAB”",
+    "resolucion": "RESOLUCION No.028",
+    "fechaResolucion": "5 de junio de 2025",
+    "creditos": 160,
+    "periodosAcademicos": [
+      {
+        "periodo": "Cuarto periodo",
+        "asignaturas": [
+          {
+            "nombre": "el desarrollo del proceso de aprendizaje que construya Las rutas formativas se constituyen segun las"
+          },
+          {
+            "nombre": "profundizaciones de la siguiente manera"
+          },
+          {
+            "nombre": "Plan de estudios Arte Danzarioi"
+          },
+          {
+            "nombre": "Danza Danza Danza Danza Direccidn"
+          },
+          {
+            "nombre": "Tradicional ClAsica Contemporflnea Teatro"
+          },
+          {
+            "nombre": "Coreogr fica"
+          },
+          {
+            "nombre": "ARTICULO - ESTABLECER que la implementacidn del plan de estudios aprobado con el presente acto",
+            "creditos": 3
+          },
+          {
+            "nombre": "administrative incluye la aplicacidn del Plan de homologacion transicion para el que se definio la tabla de"
+          },
+          {
+            "nombre": "equivalencias la cual se anexa al acto administrative constituye un soporte integral para su implementaci"
+          },
+          {
+            "nombre": "PARAGRAFO PRIMERO La implementaci del plan de homologacibn transicidn asf como de la tabla de"
+          },
+          {
+            "nombre": "equivalencias se dar en ximo dos afios siguientes la aprobacidn del plan de estudios su formalizacidn",
+            "creditos": 2
+          },
+          {
+            "nombre": "ante instancias extemas"
+          },
+          {
+            "nombre": "ARTICULO - ESTABLECER que los estudiantes que se reintegren al Proyecto Curricular deber",
+            "creditos": 4
+          },
+          {
+            "nombre": "acogerse al plan de estudios aprobado con el presente acto administrative"
+          },
+          {
+            "nombre": "UN VERS DAD DISTRITAL"
+          },
+          {
+            "nombre": "FRANCISCO IOS DE CALI AS"
+          },
+          {
+            "nombre": "de junio de",
+            "creditos": 5
+          },
+          {
+            "nombre": "En el caso de aquellos estudiantes que se encuentran cursando el plan de estudios anterior soliciten el cambio"
+          },
+          {
+            "nombre": "al plan de estudios aprobado el programa academico debe aplicar el plan de homologacidn transicion"
+          },
+          {
+            "nombre": "ARTICULO - INDICAR que todos los planes de estudio requieren cierto tiempo de estabilidad con el fin",
+            "creditos": 5
+          },
+          {
+            "nombre": "de tener herramientas validas para su evaluacion Cualquier modificacion al plan de estudios debera ser resultado"
+          },
+          {
+            "nombre": "de un proceso de autoevaluacion tendra en cuenta los resultados obtenidos por los egresados de su primera"
+          },
+          {
+            "nombre": "PARAGRAFO PRIMERO Toda modificacion que se realice al presente plan de estudios cualquier"
+          },
+          {
+            "nombre": "componente curricular que constituye el programa numero de duracion estimada denominacion"
+          },
+          {
+            "nombre": "PARAGRAFO TERCERO Toda modificacion que se realice al plan de estudios seran informadas al"
+          },
+          {
+            "nombre": "Ministerio de Educacion Nacional por la Vicerrectoria Acad mica quien defina esta instancia presentando la"
+          },
+          {
+            "nombre": "concordancia con las normas existentes"
+          },
+          {
+            "nombre": "ARTICULO - DEFINIR que la Vicerrectoria Academica en articulacion con la Oficina Asesora de",
+            "creditos": 6
+          },
+          {
+            "nombre": "ARTICULO EFECTOS LEGALES En virtud del principio de publicidad que sefiala la Ley de",
+            "creditos": 7
+          },
+          {
+            "nombre": "de enero de particularmente lo establecido en el articulo de la Ley Ibidem modificado por el articulo"
+          },
+          {
+            "nombre": "sistematica permanente la presente providencia de caracter general mediante comunicacion publicacion en la"
+          },
+          {
+            "nombre": "la misma"
+          },
+          {
+            "nombre": "UNIVCRSIDAD OISTRITAL"
+          },
+          {
+            "nombre": "FRANCISCO jOSfi OE CALDAS"
+          },
+          {
+            "nombre": "Conscjo Acad mico"
+          },
+          {
+            "nombre": "Por medio de la cual se ajusta la Resolucidn de mayo de que aprobo la modificacidn al plan"
+          },
+          {
+            "nombre": "ARTICULO EFECTOS JURIDICOS La presente Resolucidn rige partir de la fecha de expedicidn por",
+            "creditos": 8
+          },
+          {
+            "nombre": "ser un acto administrative de cardcter general no precede ningun recurso confonne lo establecido en el articulo"
+          },
+          {
+            "nombre": "de la Ley de de enero de"
+          },
+          {
+            "nombre": "COMUNIQUESE PUBLIQUESE CUMPLASE"
+          },
+          {
+            "nombre": "Dada igoTi los dfas del mes de junio de",
+            "creditos": 5
+          },
+          {
+            "nombre": "GIOVANWY MAURI"
+          },
+          {
+            "nombre": "RAZONA QERMUDEZ SSE PAOEA SALAZAR NARVAEZ"
+          },
+          {
+            "nombre": "Presidente Secretaria"
+          },
+          {
+            "nombre": "Nombrc Cargo VB"
+          },
+          {
+            "nombre": "Prepard Angelica Torres Coordinaci dal Comit Institucional dc Curriculo Calidad"
+          },
+          {
+            "nombre": "Revis Ana Cecilia Vargas Coordinadora PrA ccto Curricular Arte Danzario"
+          },
+          {
+            "nombre": "Wflson Gordillo Thiriat Coordinador Comitt Instilucional dc Curriculo Calidad"
+          },
+          {
+            "nombre": "fievisd ------- SSy"
+          },
+          {
+            "nombre": "Wilson Vargas Bcmal Ascsor Juridico Viccrrcctoria Acaddmica"
+          },
+          {
+            "nombre": "Revisd aprobd Luz Espcranza Bohdrqucz Viccrrcctora Acaddmica"
+          }
+        ],
+        "totalCreditos": 45
+      }
+    ],
+    "asignaturasDestacadas": [
+      "el desarrollo del proceso de aprendizaje que construya Las rutas formativas se constituyen segun las",
+      "profundizaciones de la siguiente manera",
+      "Plan de estudios Arte Danzarioi",
+      "Danza Danza Danza Danza Direccidn",
+      "Tradicional ClAsica Contemporflnea Teatro",
+      "Coreogr fica",
+      "ARTICULO - ESTABLECER que la implementacidn del plan de estudios aprobado con el presente acto",
+      "administrative incluye la aplicacidn del Plan de homologacion transicion para el que se definio la tabla de",
+      "equivalencias la cual se anexa al acto administrative constituye un soporte integral para su implementaci",
+      "PARAGRAFO PRIMERO La implementaci del plan de homologacibn transicidn asf como de la tabla de",
+      "equivalencias se dar en ximo dos afios siguientes la aprobacidn del plan de estudios su formalizacidn",
+      "ante instancias extemas",
+      "ARTICULO - ESTABLECER que los estudiantes que se reintegren al Proyecto Curricular deber",
+      "acogerse al plan de estudios aprobado con el presente acto administrative",
+      "UN VERS DAD DISTRITAL",
+      "FRANCISCO IOS DE CALI AS"
+    ],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "res_2025-028.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\res_2025-028.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/res-2025-028.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 16,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "Algunos campos se infirieron desde asignaturas y están marcados como inferido_desde_malla."
+    ],
+    "camposInferidos": {
+      "perfilAspirante": {
+        "texto": "Persona con interés por educación, artes y creación, con disposición para estudiar asignaturas como el desarrollo del proceso de aprendizaje que construya Las rutas formativas se constituyen segun las, profundizaciones de la siguiente manera, Plan de estudios Arte Danzarioi, Danza Danza Danza Danza Direccidn.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "el desarrollo del proceso de aprendizaje que construya Las rutas formativas se constituyen segun las",
+          "profundizaciones de la siguiente manera",
+          "Plan de estudios Arte Danzarioi",
+          "Danza Danza Danza Danza Direccidn",
+          "Tradicional ClAsica Contemporflnea Teatro",
+          "Coreogr fica",
+          "ARTICULO - ESTABLECER que la implementacidn del plan de estudios aprobado con el presente acto",
+          "administrative incluye la aplicacidn del Plan de homologacion transicion para el que se definio la tabla de",
+          "equivalencias la cual se anexa al acto administrative constituye un soporte integral para su implementaci",
+          "PARAGRAFO PRIMERO La implementaci del plan de homologacibn transicidn asf como de la tabla de"
+        ]
+      },
+      "queAprendera": {
+        "texto": "La malla sugiere formación en educación, artes y creación a partir de espacios académicos como el desarrollo del proceso de aprendizaje que construya Las rutas formativas se constituyen segun las, profundizaciones de la siguiente manera, Plan de estudios Arte Danzarioi, Danza Danza Danza Danza Direccidn, Tradicional ClAsica Contemporflnea Teatro, Coreogr fica.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "el desarrollo del proceso de aprendizaje que construya Las rutas formativas se constituyen segun las",
+          "profundizaciones de la siguiente manera",
+          "Plan de estudios Arte Danzarioi",
+          "Danza Danza Danza Danza Direccidn",
+          "Tradicional ClAsica Contemporflnea Teatro",
+          "Coreogr fica",
+          "ARTICULO - ESTABLECER que la implementacidn del plan de estudios aprobado con el presente acto",
+          "administrative incluye la aplicacidn del Plan de homologacion transicion para el que se definio la tabla de",
+          "equivalencias la cual se anexa al acto administrative constituye un soporte integral para su implementaci",
+          "PARAGRAFO PRIMERO La implementaci del plan de homologacibn transicidn asf como de la tabla de"
+        ]
+      },
+      "areasConocimiento": {
+        "valores": [
+          "Educación",
+          "Artes y creación"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "el desarrollo del proceso de aprendizaje que construya Las rutas formativas se constituyen segun las",
+          "profundizaciones de la siguiente manera",
+          "Plan de estudios Arte Danzarioi",
+          "Danza Danza Danza Danza Direccidn",
+          "Tradicional ClAsica Contemporflnea Teatro",
+          "Coreogr fica",
+          "ARTICULO - ESTABLECER que la implementacidn del plan de estudios aprobado con el presente acto",
+          "administrative incluye la aplicacidn del Plan de homologacion transicion para el que se definio la tabla de",
+          "equivalencias la cual se anexa al acto administrative constituye un soporte integral para su implementaci",
+          "PARAGRAFO PRIMERO La implementaci del plan de homologacibn transicidn asf como de la tabla de"
+        ]
+      },
+      "habilidadesRelacionadas": {
+        "valores": [
+          "Comunicación pedagógica",
+          "Creatividad"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "el desarrollo del proceso de aprendizaje que construya Las rutas formativas se constituyen segun las",
+          "profundizaciones de la siguiente manera",
+          "Plan de estudios Arte Danzarioi",
+          "Danza Danza Danza Danza Direccidn",
+          "Tradicional ClAsica Contemporflnea Teatro",
+          "Coreogr fica",
+          "ARTICULO - ESTABLECER que la implementacidn del plan de estudios aprobado con el presente acto",
+          "administrative incluye la aplicacidn del Plan de homologacion transicion para el que se definio la tabla de",
+          "equivalencias la cual se anexa al acto administrative constituye un soporte integral para su implementaci",
+          "PARAGRAFO PRIMERO La implementaci del plan de homologacibn transicidn asf como de la tabla de"
+        ]
+      },
+      "interesesRelacionados": {
+        "valores": [
+          "Enseñanza",
+          "Expresión artística"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "el desarrollo del proceso de aprendizaje que construya Las rutas formativas se constituyen segun las",
+          "profundizaciones de la siguiente manera",
+          "Plan de estudios Arte Danzarioi",
+          "Danza Danza Danza Danza Direccidn",
+          "Tradicional ClAsica Contemporflnea Teatro",
+          "Coreogr fica",
+          "ARTICULO - ESTABLECER que la implementacidn del plan de estudios aprobado con el presente acto",
+          "administrative incluye la aplicacidn del Plan de homologacion transicion para el que se definio la tabla de",
+          "equivalencias la cual se anexa al acto administrative constituye un soporte integral para su implementaci",
+          "PARAGRAFO PRIMERO La implementaci del plan de homologacibn transicidn asf como de la tabla de"
+        ]
+      }
+    },
+    "asociacion": {
+      "programaId": "arte-danzario",
+      "programaNombre": "Arte Danzario",
+      "confianzaAsociacion": "alta",
+      "puntaje": 195,
+      "motivos": [
+        "El texto extraído contiene \"arte danzario\".",
+        "La frase \"Proyecto Curricular de...\" coincide con \"arte danzario\".",
+        "La facultad coincide en el texto."
+      ],
+      "candidatos": [
+        {
+          "programaId": "arte-danzario",
+          "programaNombre": "Arte Danzario",
+          "puntaje": 195
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 60
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 60
+        },
+        {
+          "programaId": "ingenieria-electronica",
+          "programaNombre": "Ingeniería Electrónica",
+          "puntaje": 60
+        },
+        {
+          "programaId": "ingenieria-de-produccion-por-ciclos-propedeuticos",
+          "programaNombre": "Ingeniería de Producción (Por ciclos propedéuticos)",
+          "puntaje": 60
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Semáforo PCLQ Etapas de formación 2017 III.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Semáforo PCLQ Etapas de formación 2017 III.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/semaforo-pclq-etapas-de-formacion-2017-iii.txt",
+    "paginas": 1,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 2877,
+    "caracteresTextoFinal": 2877,
+    "ocrAplicado": false,
+    "creditos": 151,
+    "duracion": "9 semestres",
+    "periodosAcademicos": [
+      {
+        "periodo": "Primer semestre",
+        "asignaturas": [
+          {
+            "nombre": "Redacci Biolog Qu mica sica Educaci cultura"
+          }
+        ],
+        "totalCreditos": 17
+      },
+      {
+        "periodo": "Segundo semestre",
+        "asignaturas": [
+          {
+            "nombre": "Matem ticas II PPD - Laboratorio de"
+          }
+        ],
+        "totalCreditos": 17
+      },
+      {
+        "periodo": "Tercer semestre",
+        "asignaturas": [
+          {
+            "nombre": "Sociolog de la Educaci de aprendizaje Unidades Electiva"
+          }
+        ],
+        "totalCreditos": 17
+      },
+      {
+        "periodo": "Cuarto semestre",
+        "asignaturas": [
+          {
+            "nombre": "Fisicoqu mica : Termodin mica Bio tica Electiva"
+          }
+        ],
+        "totalCreditos": 17
+      },
+      {
+        "periodo": "Quinto semestre",
+        "asignaturas": [
+          {
+            "nombre": "la investigaci educativa Electiva"
+          }
+        ],
+        "totalCreditos": 18
+      },
+      {
+        "periodo": "Sexto semestre",
+        "asignaturas": [
+          {
+            "nombre": "Pol ticas blicas en educaci en la escuela Dise meso"
+          }
+        ],
+        "totalCreditos": 17
+      },
+      {
+        "periodo": "Séptimo semestre",
+        "asignaturas": [
+          {
+            "nombre": "Electiva"
+          }
+        ],
+        "totalCreditos": 17
+      },
+      {
+        "periodo": "Octavo semestre",
+        "asignaturas": [
+          {
+            "nombre": "Trabajo de grado Electiva"
+          }
+        ],
+        "totalCreditos": 16
+      },
+      {
+        "periodo": "Noveno semestre",
+        "asignaturas": [
+          {
+            "nombre": "Trabajo de grado II Generaci aplicaci de Electiva"
+          }
+        ],
+        "totalCreditos": 15
+      }
+    ],
+    "asignaturasDestacadas": [
+      "Redacci Biolog Qu mica sica Educaci cultura",
+      "Matem ticas II PPD - Laboratorio de",
+      "Sociolog de la Educaci de aprendizaje Unidades Electiva",
+      "Fisicoqu mica : Termodin mica Bio tica Electiva",
+      "la investigaci educativa Electiva",
+      "Pol ticas blicas en educaci en la escuela Dise meso",
+      "Electiva",
+      "Trabajo de grado Electiva",
+      "Trabajo de grado II Generaci aplicaci de Electiva"
+    ],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Semáforo PCLQ Etapas de formación 2017 III.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Semáforo PCLQ Etapas de formación 2017 III.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/semaforo-pclq-etapas-de-formacion-2017-iii.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 1,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "Algunos campos se infirieron desde asignaturas y están marcados como inferido_desde_malla."
+    ],
+    "camposInferidos": {
+      "perfilAspirante": {
+        "texto": "Persona con interés por educación, con disposición para estudiar asignaturas como Redacci Biolog Qu mica sica Educaci cultura, Matem ticas II PPD - Laboratorio de, Sociolog de la Educaci de aprendizaje Unidades Electiva, Fisicoqu mica : Termodin mica Bio tica Electiva.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Redacci Biolog Qu mica sica Educaci cultura",
+          "Matem ticas II PPD - Laboratorio de",
+          "Sociolog de la Educaci de aprendizaje Unidades Electiva",
+          "Fisicoqu mica : Termodin mica Bio tica Electiva",
+          "la investigaci educativa Electiva",
+          "Pol ticas blicas en educaci en la escuela Dise meso",
+          "Electiva",
+          "Trabajo de grado Electiva",
+          "Trabajo de grado II Generaci aplicaci de Electiva"
+        ]
+      },
+      "queAprendera": {
+        "texto": "La malla sugiere formación en educación a partir de espacios académicos como Redacci Biolog Qu mica sica Educaci cultura, Matem ticas II PPD - Laboratorio de, Sociolog de la Educaci de aprendizaje Unidades Electiva, Fisicoqu mica : Termodin mica Bio tica Electiva, la investigaci educativa Electiva, Pol ticas blicas en educaci en la escuela Dise meso.",
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Redacci Biolog Qu mica sica Educaci cultura",
+          "Matem ticas II PPD - Laboratorio de",
+          "Sociolog de la Educaci de aprendizaje Unidades Electiva",
+          "Fisicoqu mica : Termodin mica Bio tica Electiva",
+          "la investigaci educativa Electiva",
+          "Pol ticas blicas en educaci en la escuela Dise meso",
+          "Electiva",
+          "Trabajo de grado Electiva",
+          "Trabajo de grado II Generaci aplicaci de Electiva"
+        ]
+      },
+      "areasConocimiento": {
+        "valores": [
+          "Educación"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Redacci Biolog Qu mica sica Educaci cultura",
+          "Matem ticas II PPD - Laboratorio de",
+          "Sociolog de la Educaci de aprendizaje Unidades Electiva",
+          "Fisicoqu mica : Termodin mica Bio tica Electiva",
+          "la investigaci educativa Electiva",
+          "Pol ticas blicas en educaci en la escuela Dise meso",
+          "Electiva",
+          "Trabajo de grado Electiva",
+          "Trabajo de grado II Generaci aplicaci de Electiva"
+        ]
+      },
+      "habilidadesRelacionadas": {
+        "valores": [
+          "Comunicación pedagógica"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Redacci Biolog Qu mica sica Educaci cultura",
+          "Matem ticas II PPD - Laboratorio de",
+          "Sociolog de la Educaci de aprendizaje Unidades Electiva",
+          "Fisicoqu mica : Termodin mica Bio tica Electiva",
+          "la investigaci educativa Electiva",
+          "Pol ticas blicas en educaci en la escuela Dise meso",
+          "Electiva",
+          "Trabajo de grado Electiva",
+          "Trabajo de grado II Generaci aplicaci de Electiva"
+        ]
+      },
+      "interesesRelacionados": {
+        "valores": [
+          "Enseñanza"
+        ],
+        "tipoFuente": "inferido_desde_malla",
+        "base": [
+          "Redacci Biolog Qu mica sica Educaci cultura",
+          "Matem ticas II PPD - Laboratorio de",
+          "Sociolog de la Educaci de aprendizaje Unidades Electiva",
+          "Fisicoqu mica : Termodin mica Bio tica Electiva",
+          "la investigaci educativa Electiva",
+          "Pol ticas blicas en educaci en la escuela Dise meso",
+          "Electiva",
+          "Trabajo de grado Electiva",
+          "Trabajo de grado II Generaci aplicaci de Electiva"
+        ]
+      }
+    },
+    "asociacion": {
+      "programaId": "licenciatura-en-quimica",
+      "programaNombre": "Licenciatura en Química",
+      "confianzaAsociacion": "alta",
+      "puntaje": 185,
+      "motivos": [
+        "El texto extraído contiene \"quimica\".",
+        "El nombre del archivo contiene el alias \"pclq\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 185
+        },
+        {
+          "programaId": "licenciatura-en-biologia",
+          "programaNombre": "Licenciatura en Biología",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "biologia",
+          "programaNombre": "Biología",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "tecnologica en gestion ambietal.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\tecnologica en gestion ambietal.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/tecnologica-en-gestion-ambietal.txt",
+    "paginas": 2,
+    "metodoExtraccion": "mixto",
+    "caracteresTextoDirecto": 36,
+    "caracteresTextoFinal": 3348,
+    "ocrAplicado": true,
+    "resolucion": "Resolución 043 del 30 de Junio de 2020 WUEEZIE",
+    "fechaResolucion": "30 de Junio de 2020",
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "tecnologica en gestion ambietal.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\tecnologica en gestion ambietal.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/tecnologica-en-gestion-ambietal.txt",
+      "metodoExtraccion": "mixto",
+      "paginas": 2,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "El texto directo fue vacío o insuficiente; se intentó OCR.",
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos.",
+      "Asociación con programa en confianza baja; requiere revisión manual."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-fisica",
+      "programaNombre": "Licenciatura en Física",
+      "confianzaAsociacion": "baja",
+      "puntaje": 95,
+      "motivos": [
+        "El texto extraído contiene \"fisica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "quimica",
+          "programaNombre": "Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "ingenieria-industrial",
+          "programaNombre": "Ingeniería Industrial",
+          "puntaje": 95
+        }
+      ]
+    }
+  },
+  {
+    "archivoPdf": "Versión gráfica_Plan de estudios_PEP_0.pdf",
+    "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Versión gráfica_Plan de estudios_PEP_0.pdf",
+    "textoExtraidoPath": "src/data/extracted/mallas-texto/version-grafica-plan-de-estudios-pep-0.txt",
+    "paginas": 4,
+    "metodoExtraccion": "texto_pdf",
+    "caracteresTextoDirecto": 3533,
+    "caracteresTextoFinal": 3533,
+    "ocrAplicado": false,
+    "periodosAcademicos": [],
+    "asignaturasDestacadas": [],
+    "areasFormacion": [],
+    "fuenteMalla": {
+      "archivoPdf": "Versión gráfica_Plan de estudios_PEP_0.pdf",
+      "rutaPdf": "C:\\Users\\leon\\Desktop\\APOYO\\mallas curriculares\\Versión gráfica_Plan de estudios_PEP_0.pdf",
+      "textoExtraidoPath": "src/data/extracted/mallas-texto/version-grafica-plan-de-estudios-pep-0.txt",
+      "metodoExtraccion": "texto_pdf",
+      "paginas": 4,
+      "tipoFuente": "pdf_malla"
+    },
+    "observacionesFuente": [
+      "No se detectó total de créditos con confianza suficiente.",
+      "No se detectó duración o número de periodos con confianza suficiente.",
+      "No se detectó una malla por periodos académicos.",
+      "Asociación con programa en confianza baja; requiere revisión manual."
+    ],
+    "camposInferidos": {},
+    "asociacion": {
+      "programaId": "licenciatura-en-fisica",
+      "programaNombre": "Licenciatura en Física",
+      "confianzaAsociacion": "baja",
+      "puntaje": 95,
+      "motivos": [
+        "El texto extraído contiene \"fisica\"."
+      ],
+      "candidatos": [
+        {
+          "programaId": "licenciatura-en-fisica",
+          "programaNombre": "Licenciatura en Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-matematicas",
+          "programaNombre": "Licenciatura en Matemáticas",
+          "puntaje": 95
+        },
+        {
+          "programaId": "licenciatura-en-quimica",
+          "programaNombre": "Licenciatura en Química",
+          "puntaje": 95
+        },
+        {
+          "programaId": "fisica",
+          "programaNombre": "Física",
+          "puntaje": 95
+        },
+        {
+          "programaId": "matematicas",
+          "programaNombre": "Matemáticas",
+          "puntaje": 95
+        }
+      ]
+    }
+  }
+]

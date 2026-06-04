@@ -1,0 +1,72 @@
+
+
+--- Página 1 ---
+universidad distrital francisco josé de caldas - facultad de ciencias matemáticas y naturales
+plan de estudio - programa de química
+código 25202
+TOTAL DE CRÉDITOS: 145
+QUÍMICA GENERAL i
+74 FORMACIÓN BÁSICA
+segunda lengua PROFUNDIZACIÓN EN
+asignatuira
+30 FORMACIÓN ESPECIFICA
+créditos
+inglés SALUD
+3 3 4 2 C-obLi
+italiano
+18 PROFUNDIZACIÓN
+Francés MEDIO AMBIENTE
+portugués
+14 ELECTÍVAS
+htd htc hta clasificación
+alemán INDUSTRIA
+horas de horas de trabajo horas de trabajo
+9 FORMACIÓN HUMANISTICA Y SEGUNDA LENGUA
+trabajo directo cooperativo autonomo
+SEMESTRE 1 SEMESTRE 2 SEMESTRE 3 SEMESTRE 4 SEMESTRE 5 SEMESTRE 6 SEMESTRE 7 SEMESTRE 8 SEMESTRE 9
+25202 25206 25212 25220 25224 25239 25241 25243
+25229
+química de los compuestos profundización ii profundización iii profundización iv
+QUÍMICA GENERAL i química general II química inorgánica i química inorgánica iI química analítica
+de coordinación industria-salud-medioambiente industria-salud -medioambiente industria-salud-medioambiente
+3 3 4 2 C-obLi 3 3 4 2 C-obLi 3 3 4 2 C-obLi 3 3 4 2 C-obLi 4 5 5 2 C-obLi 2 2 3 1 C-obLi 3 3 3 3 C-obLi 6 3 3 12 C-obLi 3 3 3 3 C-obLi
+6002 25208 2140 25221 25225 25232 25237
+25149 25242
+FÍSICA i diseño experimental química orgánica I QUÍMICA orgánica ii QUÍMICA cuántica
+física II biología molecular trabajo de grado i trabajo de grado ii
+2 2 3 1 C-obLi 2 2 2 2 C-obLi 2 2 2 2 C-obLi 3 3 4 2 C-obLi 4 4 4 4 C-obLi 3 3 3 3 C-obLi 3 3 3 3 C-obLi 4 0 1 11 C-obLi 4 0 1 11 C-obLi
+25204 25209 25217 25223 25227 25233 25238
+6049
+informática y
+BIOLOGÍA
+microbiología fisicoquímica i fisicoquímica ii química ambiental bioquímica i radioquimica electiva vii
+program. básica I
+4 4 4 4 C-obLi 3 3 3 3 C-obLi 2 2 2 2 C-obLi 2 2 3 1 C-obLi 2 2 3 1 C-obLi 3 3 3 3 C-obLi 4 5 5 2 C-obLi 2 2 2 2 C-obLi 3 - - - C-obLi
+25203 25207 6014 6079 25228 25230 25235 25240
+procesos químicos análisis químicO síntesis química productos
+MATEMÁTICAS cálculo diferencial calculo integral química verde
+segunda lengua iii
+industriales orgánico orgánica naturales
+3 3 3 3 C-obLi 3 3 3 3 C-obLi 2 2 2 2 C-obLi 2 2 2 2 C-obLi 2 2 2 2 C-obLi 4 4 4 4 C-obLi 3 3 3 3 C-obLi 3 3 3 3 C-obLi 2 - - - C-obLi
+4 25210 25218 25226 25222 25236
+25231 6000
+CATEDRA FRANCISCO análisis químico espectroscopia espectroscopia
+metodología de la análisis químico química
+estadística
+JOSÉ DE CALDAS instrumental i básica avanzada
+investigación instrumental ii computacional
+1 2 0 1 C-obLi 2 2 2 2 C-obLi 1 2 0 1 C-obLi 3 3 4 2 C-obLi 2 2 2 2 C-obLi 3 3 4 2 C-obLi 2 2 2 2 C-obLi 2 2 2 2 C-obLi
+25246 25234
+12
+profundización i
+cátedra democracia cátedra de
+ELECTIVA i electiva vi
+electiva IV ELECTIVA v
+industria-salud-medioambiente
+y ciudadanía contexto
+2 - - - C-ELEC 1 2 0 1 C-obLi 1 2 0 1 C-obLi 1 - - - C-ELEC 2 - - - C-ELEC 3 3 3 3 C-obLi 1 - - - C-ELEC
+ELECTIVA iI
+ELECTIVA iII segunda lengua i segunda lengua ii
+2 - - - C-ELEC
+3 - - - C-ELEC 2 - - - C-obLi 2 - - - C-obLi
+Total créditos (tc)= 15 Total créditos (tc)= 16 Total créditos (tc)= 14 Total créditos (tc)= 16 Total créditos (tc)= 16 Total créditos (tc)= 18 Total créditos (tc)= 18 Total créditos (tc)= 17 Total créditos (tc)= 15
