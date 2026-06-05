@@ -7,6 +7,13 @@ El proyecto queda configurado para publicarse como sitio de proyecto en:
 
 https://juanleongo.github.io/UD_vocacional/
 
-Cada push a `main` ejecuta el workflow `.github/workflows/deploy.yml`, instala dependencias, compila la app con Vite y publica la carpeta `dist` en GitHub Pages.
+El despliegue se hace desde la rama `main`, carpeta `/docs`.
 
-En GitHub, revisa que el repositorio tenga Pages configurado con la fuente `GitHub Actions` en `Settings > Pages`..
+Para actualizar la pagina publicada:
+
+1. Ejecuta `npm run build`.
+2. Sube los cambios generados en `docs` a la rama `main`.
+3. En GitHub, ve a `Settings > Pages` y configura:
+   - Source: `Deploy from a branch`
+   - Branch: `main`
+   - Folder: `/docs`
