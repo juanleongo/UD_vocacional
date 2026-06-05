@@ -7,7 +7,7 @@ import { VocationalProvider } from './context/VocationalContext.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <VocationalProvider>
         <App />
       </VocationalProvider>
